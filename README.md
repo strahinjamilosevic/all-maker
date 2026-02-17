@@ -40,6 +40,40 @@ src/
 static/img/     Images and assets
 ```
 
+## PR preview
+
+A GitHub Actions workflow builds and deploys a preview of the site for any pull request labeled `pr-preview`. Previews are hosted on GitHub Pages at:
+
+```
+https://strahinjamilosevic.github.io/all-maker/pr-preview/pr-{number}/
+```
+
+Production hosting is on Walrus, not GitHub Pages. GitHub Pages is used exclusively for PR previews.
+
+### How to use
+
+1. Open a pull request.
+2. Add the `pr-preview` label.
+3. The workflow builds the site and deploys the preview. A comment with the preview URL is posted on the PR.
+4. Push additional commits to the PR — the preview updates automatically.
+5. Close or merge the PR — the preview is deleted from GitHub Pages.
+
+### Triggers
+
+| Event | Condition | Action |
+|---|---|---|
+| `labeled` | Label is `pr-preview` | Build and deploy preview |
+| `synchronize` | PR has `pr-preview` label | Rebuild and update preview |
+| `closed` | PR has `pr-preview` label | Delete preview from `gh-pages` |
+
+A concurrency group per PR prevents overlapping deploys.
+
+### Resources
+
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) — deploys the built site to a subdirectory on the `gh-pages` branch and posts a sticky comment with the preview URL.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) — used internally by the pr-preview-action for the deploy step.
+- [Docusaurus `baseUrl`](https://docusaurus.io/docs/api/docusaurus-config#baseUrl) — set via the `BASE_URL` environment variable so asset paths resolve correctly in the preview subdirectory.
+
 ## License
 
 Content and code are copyright Strahinja Milošević. All rights reserved.
