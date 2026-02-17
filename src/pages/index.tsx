@@ -1,16 +1,18 @@
 import type {ReactNode} from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
 
 function Hero(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
+  const logoUrl = useBaseUrl('/img/logo.png');
   return (
     <header className={styles.heroBanner}>
       <div className="container">
         <img
-          src="/img/logo.png"
+          src={logoUrl}
           alt="All-maker logo"
           className={styles.heroLogo}
         />
