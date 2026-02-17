@@ -1,14 +1,23 @@
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+opinion:
+  label: Opinion
+  permalink: /opinion
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+lifestyle:
+  label: Lifestyle
+  permalink: /lifestyle
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+technical writing:
+  label: Technical Writing
+  permalink: /technical-writing
+
+AI:
+  label: AI
+  permalink: /ai
+
+tools:
+  label: Tools
+  permalink: /tools
+
+career:
+  label: Career
+  permalink: /career
