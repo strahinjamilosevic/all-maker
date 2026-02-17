@@ -1,0 +1,10 @@
+/* Blog mobile TOC — only visible on small screens */
+.blogMobileToc {
+  display: block;
+}
+
+@media (min-width: 997px) {
+  .blogMobileToc {
+    display: none;
+  }
+}

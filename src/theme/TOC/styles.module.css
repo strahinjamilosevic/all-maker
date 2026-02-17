@@ -1,0 +1,36 @@
+.tocWrapper {
+  position: sticky;
+  top: calc(var(--ifm-navbar-height) + 1rem);
+  max-height: calc(100vh - var(--ifm-navbar-height) - 2rem);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Override the default sticky + max-height on the inner TOC since the wrapper handles it */
+.tocWrapper :global(.table-of-contents) {
+  position: static;
+  max-height: none;
+  overflow-y: auto;
+  flex: 1 1 auto;
+}
+
+.tocHeading {
+  display: block;
+  background: none;
+  border: none;
+  padding: 0.25rem 0.75rem;
+  margin-bottom: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ifm-color-emphasis-700);
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+  transition: color 0.2s;
+}
+
+.tocHeading:hover {
+  color: var(--ifm-color-primary);
+}
