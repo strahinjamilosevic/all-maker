@@ -42,9 +42,18 @@ jobs:
           BASE_URL: /all-maker/pr-preview/pr-${{ github.event.pull_request.number }}/
 
       - name: Deploy preview
+        if: github.event.action != 'closed'
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: build
           preview-branch: gh-pages
           umbrella-dir: pr-preview
-          action: auto
+          action: deploy
+
+      - name: Remove preview
+        if: github.event.action == 'closed'
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
+          action: remove
