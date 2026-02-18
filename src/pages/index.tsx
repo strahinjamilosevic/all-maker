@@ -17,7 +17,7 @@ function Hero(): ReactNode {
           className={styles.heroLogo}
         />
         <h1 className={styles.heroTitle}>{siteConfig.title}</h1>
-        <p className={styles.heroSubtitle}>Tech writer by trade. Maker by nature.</p>
+        <p className={styles.heroSubtitle}>Hi, I'm Strahinja. A tech writer by trade, a maker by nature.</p>
       </div>
     </header>
   );
