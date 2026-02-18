@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.all-maker.com/blog</id>
     <title>All-maker internet space Blog</title>
-    <updated>2026-03-09T00:00:00.000Z</updated>
+    <updated>2026-02-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.all-maker.com/blog"/>
     <subtitle>All-maker internet space Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Life is an MVP]]></title>
         <id>https://www.all-maker.com/blog/mvp</id>
         <link href="https://www.all-maker.com/blog/mvp"/>
-        <updated>2026-03-09T00:00:00.000Z</updated>
+        <updated>2026-02-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Whatever can be, will be.]]></summary>
         <content type="html"><![CDATA[<p>Whatever can be, will be.</p>]]></content>
         <author>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[Redefining technical writing]]></title>
         <id>https://www.all-maker.com/blog/redefining-technical-writing</id>
         <link href="https://www.all-maker.com/blog/redefining-technical-writing"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
+        <updated>2026-02-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[You may think of a technical writer as the person who produces documentation. But the role has changed. It now sits at the center of design thinking, context protocols, content strategy, user journeys, AI-augmented authoring, automated workflows, docs as a product, and communication between humans and machines.]]></summary>
         <content type="html"><![CDATA[<p>You may think of a technical writer as the person who produces documentation. But the role has changed. It now sits at the center of design thinking, context protocols, content strategy, user journeys, AI-augmented authoring, automated workflows, docs as a product, and communication between humans and machines.</p>
 <p>If you still treat technical writing as a support function, you will miss where product value now lives.</p>
@@ -105,7 +105,7 @@ You design how understanding works inside your product and your organization.</p
         <title type="html"><![CDATA[Alien tech writer]]></title>
         <id>https://www.all-maker.com/blog/alien</id>
         <link href="https://www.all-maker.com/blog/alien"/>
-        <updated>2026-02-28T00:00:00.000Z</updated>
+        <updated>2026-02-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I've always pondered our definition of human intelligence. Civilization even. A definition that I like is — our ability to manipulate our environment.]]></summary>
         <content type="html"><![CDATA[<p>I've always pondered our definition of human intelligence. Civilization even. A definition that I like is — our ability to manipulate our environment.</p>
 <p>Lately, I've been thinking about the necessity of it all. After all, we did invent all of this marvel out of necessity for better tooling, food production, shelter, and so on.</p>
@@ -126,10 +126,39 @@ You design how understanding works inside your product and your organization.</p
         <category label="Technical Writing" term="Technical Writing"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tech and art]]></title>
+        <id>https://www.all-maker.com/blog/tech-art</id>
+        <link href="https://www.all-maker.com/blog/tech-art"/>
+        <updated>2026-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tech keeps you capable. Art keeps you sane.]]></summary>
+        <content type="html"><![CDATA[<p>Tech keeps you capable. Art keeps you sane.</p>
+<p>That's the whole thesis. I could stop here. But I already wrote the title, so.</p>
+<p>Technology — the tools, the systems, the automations — makes you self-reliant. You can fix your own plumbing because YouTube exists. You can build a website because frameworks exist. You can troubleshoot your car, set up a home network, file your taxes, and never ask another human being for help.</p>
+<p>That's powerful. That's independence.</p>
+<p>But it's also just capability. It's infrastructure. It keeps the machine running. It doesn't tell you <em>why</em> the machine should run in the first place.</p>
+<p>That's where art comes in.</p>
+<p>And I'm using "art" loosely. I don't mean you need to paint like Monet or write like Hemingway. I mean the guitar and a beer in the evening when the world is quiet. That leather EDC wallet you've stitched crookedly by hand. The weird poem on your phone that no one will ever read or that welding project that turned into a sculpture.</p>
+<p>The stuff with no sprint ticket. No deadline. No stakeholder.</p>
+<p>Tech solves problems. Art reminds you that not everything is a problem to be solved. Some things just exist to be felt, made, and left alone.</p>
+<p>I write docs all day. I structure knowledge, design user journeys, and think in headings and bullet points. It's satisfying in the way that organizing a toolbox is satisfying — everything in its place, everything serving a function.</p>
+<p>But when I pick up a guitar, or lose an hour learning how to bevel leather edges — nothing is in its place. There's no information architecture. There's no user. There's just me and the thing I'm making, and it's never perfect. But, boy, oh boy, is it satisfying.</p>
+<p>Keeps me sane.</p>
+<p>If everything is optimized, structured, and efficient — great. You've built a really well-structured machine.</p>
+<p>But machines don't need meaning. You do.</p>
+<p>Use the tech. Keeps you capable.
+Feed the art. It keeps you human.</p>]]></content>
+        <author>
+            <name>Strahinja Milošević</name>
+            <uri>https://strahinjamilosevic.github.io/</uri>
+        </author>
+        <category label="Opinion" term="Opinion"/>
+        <category label="Lifestyle" term="Lifestyle"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Arguing with a robot]]></title>
         <id>https://www.all-maker.com/blog/argue-with-robot</id>
         <link href="https://www.all-maker.com/blog/argue-with-robot"/>
-        <updated>2026-02-28T00:00:00.000Z</updated>
+        <updated>2026-02-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I tried this insert product so you don't have to.]]></summary>
         <content type="html"><![CDATA[<p>I tried this <em>insert product</em> so you don't have to.</p>
 <p>There's a myriad of AI tool reviews out there. Kind of reminds me of the whole microservices hype. I swear, for about two years this buzzword was in every single meeting I attended. Now it's "AI-powered" everything. AI-powered toaster. AI-powered calendar. AI-powered AI.</p>
@@ -194,7 +223,7 @@ You design how understanding works inside your product and your organization.</p
         <title type="html"><![CDATA[Use cheap tools until they break]]></title>
         <id>https://www.all-maker.com/blog/cheap-tools</id>
         <link href="https://www.all-maker.com/blog/cheap-tools"/>
-        <updated>2026-02-28T00:00:00.000Z</updated>
+        <updated>2026-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Adam Savage once said that as a hobbyist, you should buy the cheapest tools you can find and use them until they break. When they break — and they will — you'll know two things: you're serious about the craft, and you now know exactly what you need. Then you buy the best tools you can afford.]]></summary>
         <content type="html"><![CDATA[<p>Adam Savage once said that as a hobbyist, you should buy the cheapest tools you can find and use them until they break. When they break — and they will — you'll know two things: you're serious about the craft, and you now know exactly what you need. Then you buy the best tools you can afford.</p>
 <p>This translates beautifully to technical writing.</p>
@@ -224,35 +253,6 @@ You design how understanding works inside your product and your organization.</p
         <category label="Technical Writing" term="Technical Writing"/>
         <category label="Tools" term="Tools"/>
         <category label="Career" term="Career"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech and art]]></title>
-        <id>https://www.all-maker.com/blog/tech-art</id>
-        <link href="https://www.all-maker.com/blog/tech-art"/>
-        <updated>2026-02-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tech keeps you capable. Art keeps you sane.]]></summary>
-        <content type="html"><![CDATA[<p>Tech keeps you capable. Art keeps you sane.</p>
-<p>That's the whole thesis. I could stop here. But I already wrote the title, so.</p>
-<p>Technology — the tools, the systems, the automations — makes you self-reliant. You can fix your own plumbing because YouTube exists. You can build a website because frameworks exist. You can troubleshoot your car, set up a home network, file your taxes, and never ask another human being for help.</p>
-<p>That's powerful. That's independence.</p>
-<p>But it's also just capability. It's infrastructure. It keeps the machine running. It doesn't tell you <em>why</em> the machine should run in the first place.</p>
-<p>That's where art comes in.</p>
-<p>And I'm using "art" loosely. I don't mean you need to paint like Monet or write like Hemingway. I mean the guitar and a beer in the evening when the world is quiet. That leather EDC wallet you've stitched crookedly by hand. The weird poem on your phone that no one will ever read or that welding project that turned into a sculpture.</p>
-<p>The stuff with no sprint ticket. No deadline. No stakeholder.</p>
-<p>Tech solves problems. Art reminds you that not everything is a problem to be solved. Some things just exist to be felt, made, and left alone.</p>
-<p>I write docs all day. I structure knowledge, design user journeys, and think in headings and bullet points. It's satisfying in the way that organizing a toolbox is satisfying — everything in its place, everything serving a function.</p>
-<p>But when I pick up a guitar, or lose an hour learning how to bevel leather edges — nothing is in its place. There's no information architecture. There's no user. There's just me and the thing I'm making, and it's never perfect. But, boy, oh boy, is it satisfying.</p>
-<p>Keeps me sane.</p>
-<p>If everything is optimized, structured, and efficient — great. You've built a really well-structured machine.</p>
-<p>But machines don't need meaning. You do.</p>
-<p>Use the tech. Keeps you capable.
-Feed the art. It keeps you human.</p>]]></content>
-        <author>
-            <name>Strahinja Milošević</name>
-            <uri>https://strahinjamilosevic.github.io/</uri>
-        </author>
-        <category label="Opinion" term="Opinion"/>
-        <category label="Lifestyle" term="Lifestyle"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tech bro VS caveman]]></title>
