@@ -101,9 +101,15 @@ const config: Config = {
           position: 'left',
           label: 'Resources',
         },
-                {
+        {
+          href: '/cv.pdf',
+          label: 'Download CV',
+          position: 'right',
+          target: '_blank',
+        },
+        {
           href: 'https://strahinjamilosevic.github.io/',
-          label: 'Resume',
+          label: 'Portfolio',
           position: 'right',
         },
         {
