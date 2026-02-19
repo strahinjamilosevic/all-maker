@@ -38,7 +38,7 @@ jobs:
         if: github.event.action != 'closed'
         run: npm run build
         env:
-          BASE_URL: /all-maker/pr-preview/pr-${{ github.event.pull_request.number }}/
+          BASE_URL: /pr-preview/pr-${{ github.event.pull_request.number }}/
 
       - name: Deploy preview
         if: github.event.action != 'closed'
