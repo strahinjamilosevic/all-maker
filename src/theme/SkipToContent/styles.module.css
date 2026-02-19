@@ -1,0 +1,15 @@
+.skipToContent {
+  position: absolute;
+  top: -9999px;
+  left: 0;
+  z-index: 9999;
+  background: var(--ifm-background-color);
+  color: var(--ifm-color-primary);
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border: 2px solid var(--ifm-color-primary);
+}
+
+.skipToContent:focus {
+  top: 0;
+}

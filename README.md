@@ -13,6 +13,7 @@ On this website, you can expect to read my rants about technical writing, leathe
 - [Docusaurus 3](https://docusaurus.io/) (TypeScript, React 19)
 - Hosted on [GitHub Pages](https://pages.github.com/) — deployed to the `gh-pages` branch on every push to `master` using [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
 - Domain: [all-maker.com](https://all-maker.com)
+- [Vale](https://vale.sh/) — prose linter for blog and docs content, runs on pull requests
 
 ## Local development
 
@@ -44,6 +45,44 @@ src/
 static/img/     Images and assets
 ```
 
+## Publishing pipeline
+
+Writing a new post follows this flow:
+
+1. **Write** — add a markdown file in `blog/` or `docs/`.
+2. **Open a PR** — Vale runs automatically and posts inline style suggestions on the diff (non-blocking).
+3. **Review** — read the annotations, fix what makes sense, ignore what doesn't. The PR is never blocked.
+4. **Merge to `master`** — the site builds and deploys to production automatically.
+
+### Prose linting with Vale
+
+[Vale](https://vale.sh/) checks blog and docs content against three style packages:
+
+| Package | What it catches |
+|:---|:---|
+| `Google` | Active voice, second person, present tense, word list |
+| `write-good` | Weasel words, adverbs, passive voice |
+| `proselint` | Redundant phrases, hyphenation, jargon |
+
+Vale runs on every PR that touches `blog/` or `docs/`. It posts annotations directly on the diff in the "Files changed" tab. `MinAlertLevel = suggestion` means everything shows up — nothing is silently filtered.
+
+**Install Vale locally** (optional, for feedback while drafting):
+
+```bash
+# Windows
+winget install errata-ai.vale
+
+# macOS
+brew install vale
+```
+
+Then run from the repo root:
+
+```bash
+vale sync          # download style packages (one-time setup)
+npm run lint:prose # lint all content
+```
+
 ## PR preview
 
 A GitHub Actions workflow builds and deploys a preview of the site for any pull request labeled `pr-preview`. Previews are hosted on GitHub Pages at:
@@ -65,7 +104,7 @@ Production hosting is on Walrus, not GitHub Pages. GitHub Pages is used exclusiv
 ### Triggers
 
 | Event | Condition | Action |
-|---|---|---|
+|:---|:---|:---|
 | `labeled` | Label is `pr-preview` | Build and deploy preview |
 | `synchronize` | PR has `pr-preview` label | Rebuild and update preview |
 | `closed` | PR has `pr-preview` label | Delete preview from `gh-pages` |
