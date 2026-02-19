@@ -1,0 +1,30 @@
+name: Vale Prose Lint
+
+on:
+  pull_request:
+    paths: ['blog/**', 'docs/**', '.vale.ini', 'styles/**']
+
+concurrency:
+  group: vale-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  vale:
+    name: Vale prose lint
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: errata-ai/vale-action@v2
+        with:
+          files: |
+            blog
+            docs
+          fail_on_error: false
+          version: "3.9.3"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
