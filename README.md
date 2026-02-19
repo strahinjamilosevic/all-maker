@@ -1,13 +1,17 @@
-# all-maker.com
+# Strahinja the all maker
 
-Personal site and blog by [Strahinja Milošević](https://www.linkedin.com/in/strahinjamilosevic/) — senior technical writer, occasional craftsman, and full-time overthinker.
+Hi, I'm Stra and this is my little personal chunk of internet space. During the day, I work as a technical writer documenting software solutions mostly, but not only, in the fintech domain.
 
-Technical writing, leatherwork, metalwork, and other shenanigans.
+The rest of the time, I tend to be a dude of many interests, if not talents :).
+
+I like tinkering with manual crafts like metal, wood, stone, and leatherworking. Music is my life, so always in the background, whether the player is on or not. 
+ 
+On this website, you can expect to read my rants about technical writing, leatherwork, metalwork, probably cooking, music, and other shenanigans. We'll see.
 
 ## Stack
 
 - [Docusaurus 3](https://docusaurus.io/) (TypeScript, React 19)
-- Hosted on [Walrus](https://www.walrus.xyz/) (Mysten Labs)
+- Hosted on [GitHub Pages](https://pages.github.com/) — deployed to the `gh-pages` branch on every push to `master` using [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
 - Domain: [all-maker.com](https://all-maker.com)
 
 ## Local development
