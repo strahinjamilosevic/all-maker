@@ -33,7 +33,7 @@ const features: FeatureItem[] = [
   {
     title: 'Blog',
     description:
-      'Opinions, experiences, and the occasional rant about technical writing, tools, and the craft.',
+      'Opinions, experiences, and the occasional rant about technical writing, art, and crafts.',
     link: '/blog',
   },
   {
