@@ -21,7 +21,6 @@ jobs:
 
       - uses: errata-ai/vale-action@v2
         with:
-          files: 'blog docs'
           fail_on_error: false
           version: "3.9.3"
         env:
