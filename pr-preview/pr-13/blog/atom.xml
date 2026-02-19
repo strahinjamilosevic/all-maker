@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog</id>
+    <id>https://www.all-maker.com/pr-preview/pr-13/blog</id>
     <title>All-maker internet space Blog</title>
     <updated>2026-02-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog"/>
+    <link rel="alternate" href="https://www.all-maker.com/pr-preview/pr-13/blog"/>
     <subtitle>All-maker internet space Blog</subtitle>
-    <icon>https://www.all-maker.com/all-maker/pr-preview/pr-13/img/logo.png</icon>
+    <icon>https://www.all-maker.com/pr-preview/pr-13/img/logo.png</icon>
     <entry>
         <title type="html"><![CDATA[Life is an MVP]]></title>
-        <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/mvp</id>
-        <link href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/mvp"/>
+        <id>https://www.all-maker.com/pr-preview/pr-13/blog/mvp</id>
+        <link href="https://www.all-maker.com/pr-preview/pr-13/blog/mvp"/>
         <updated>2026-02-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Whatever can be, will be.]]></summary>
         <content type="html"><![CDATA[<p>Whatever can be, will be.</p>]]></content>
@@ -22,33 +22,33 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Redefining technical writing]]></title>
-        <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing</id>
-        <link href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing"/>
+        <id>https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing</id>
+        <link href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing"/>
         <updated>2026-02-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[You may think of a technical writer as the person who produces documentation. But the role has changed. It now sits at the center of design thinking, context protocols, content strategy, user journeys, AI-augmented authoring, automated workflows, docs as a product, and communication between humans and machines.]]></summary>
         <content type="html"><![CDATA[<p>You may think of a technical writer as the person who produces documentation. But the role has changed. It now sits at the center of design thinking, context protocols, content strategy, user journeys, AI-augmented authoring, automated workflows, docs as a product, and communication between humans and machines.</p>
 <p>If you still treat technical writing as a support function, you will miss where product value now lives.</p>
 <p>Language is no longer a layer on top of software. It shapes how software behaves. In AI-native systems, language is part of the system.</p>
 <p>You do not need a better writer. You need someone who designs how knowledge flows across your organization and your product.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="start-with-the-system-not-the-document">Start with the system, not the document<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#start-with-the-system-not-the-document" class="hash-link" aria-label="Direct link to Start with the system, not the document" title="Direct link to Start with the system, not the document" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="start-with-the-system-not-the-document">Start with the system, not the document<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#start-with-the-system-not-the-document" class="hash-link" aria-label="Direct link to Start with the system, not the document" title="Direct link to Start with the system, not the document" translate="no">​</a></h2>
 <p>You do not scale documentation by writing more pages. You scale it by designing the system that produces, structures, and distributes knowledge.</p>
 <p>Modern products are complex. They include APIs, integrations, agents, workflows, and AI features. Users do not interact with a single screen. They move across surfaces, contexts, and states. Machines also consume your content. LLMs read it. Agents act on it.</p>
 <p>If you do not design your knowledge architecture, it will fragment.</p>
 <p><strong>The modern technical writer must design the system behind the content, not just the content itself.</strong>
 You shift from writing documents to designing knowledge infrastructure.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="apply-design-thinking-to-knowledge">Apply design thinking to knowledge<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#apply-design-thinking-to-knowledge" class="hash-link" aria-label="Direct link to Apply design thinking to knowledge" title="Direct link to Apply design thinking to knowledge" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="apply-design-thinking-to-knowledge">Apply design thinking to knowledge<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#apply-design-thinking-to-knowledge" class="hash-link" aria-label="Direct link to Apply design thinking to knowledge" title="Direct link to Apply design thinking to knowledge" translate="no">​</a></h2>
 <p>You already apply design thinking to product features. You must apply the same rigor to knowledge.</p>
 <p>Start with user problems. Map moments of confusion. Identify where users drop off. Treat documentation as part of the user journey, not as an afterthought.</p>
 <p>When you design knowledge around real tasks, you reduce support tickets, shorten onboarding time, and improve activation.</p>
 <p>You stop asking, "What should we document?" and start asking, "Where does the user lose clarity?"
 You design knowledge around user friction, not around product releases.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="define-context-protocols-for-humans-and-machines">Define context protocols for humans and machines<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#define-context-protocols-for-humans-and-machines" class="hash-link" aria-label="Direct link to Define context protocols for humans and machines" title="Direct link to Define context protocols for humans and machines" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="define-context-protocols-for-humans-and-machines">Define context protocols for humans and machines<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#define-context-protocols-for-humans-and-machines" class="hash-link" aria-label="Direct link to Define context protocols for humans and machines" title="Direct link to Define context protocols for humans and machines" translate="no">​</a></h2>
 <p>AI systems depend on context. If your knowledge lacks structure, your AI will drift.</p>
 <p>You must define canonical terms, consistent definitions, structured formats, and reusable components. You must ensure that product logic translates clearly into machine-readable form.</p>
 <p>When you do this work well, you reduce hallucination risk, improve output consistency, and protect user trust.</p>
 <p><strong>Context does not emerge by accident. You must design it.</strong>
 You own the rules that shape how humans and machines interpret your product.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="build-a-content-strategy-that-scales">Build a content strategy that scales<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#build-a-content-strategy-that-scales" class="hash-link" aria-label="Direct link to Build a content strategy that scales" title="Direct link to Build a content strategy that scales" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="build-a-content-strategy-that-scales">Build a content strategy that scales<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#build-a-content-strategy-that-scales" class="hash-link" aria-label="Direct link to Build a content strategy that scales" title="Direct link to Build a content strategy that scales" translate="no">​</a></h2>
 <p>Content strategy no longer means planning blog posts or release notes. It means deciding how information becomes reusable, structured, and maintainable.</p>
 <p>You must decide:</p>
 <ul>
@@ -60,37 +60,37 @@ You own the rules that shape how humans and machines interpret your product.</p>
 <p>When you treat content as a system, you reduce redundancy and increase speed. Engineers, support teams, and AI systems can rely on the same source of truth.</p>
 <p><strong>Scale does not come from writing faster. It comes from structuring better.</strong>
 You design content to behave like infrastructure, not like static text.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="design-user-journeys-across-surfaces">Design user journeys across surfaces<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#design-user-journeys-across-surfaces" class="hash-link" aria-label="Direct link to Design user journeys across surfaces" title="Direct link to Design user journeys across surfaces" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="design-user-journeys-across-surfaces">Design user journeys across surfaces<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#design-user-journeys-across-surfaces" class="hash-link" aria-label="Direct link to Design user journeys across surfaces" title="Direct link to Design user journeys across surfaces" translate="no">​</a></h2>
 <p>Users do not distinguish between UI, docs, and support. They experience a single journey.</p>
 <p>You must map how users move from product interface to documentation, from documentation to AI assistance, and from AI to support. You must design recovery paths when something fails.</p>
 <p>Clear transitions increase confidence. Confidence drives adoption.</p>
 <p><strong>Documentation is part of your product experience, whether you admit it or not.</strong>
 You design continuity across every moment where understanding can break.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="build-ai-augmented-authoring-flows">Build AI-augmented authoring flows<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#build-ai-augmented-authoring-flows" class="hash-link" aria-label="Direct link to Build AI-augmented authoring flows" title="Direct link to Build AI-augmented authoring flows" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="build-ai-augmented-authoring-flows">Build AI-augmented authoring flows<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#build-ai-augmented-authoring-flows" class="hash-link" aria-label="Direct link to Build AI-augmented authoring flows" title="Direct link to Build AI-augmented authoring flows" translate="no">​</a></h2>
 <p>You cannot scale knowledge with manual effort alone. You must design how AI supports content creation.</p>
 <p>Create structured templates. Build prompt libraries. Automate review processes. Use AI for consistency checks, terminology validation, and structural alignment.</p>
 <p>When you design authoring flows intentionally, you improve speed and quality at the same time.</p>
 <p><strong>AI should not replace writers. It should extend them.</strong>
 You design the system that makes humans and AI collaborate effectively.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="automate-content-workflows">Automate content workflows<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#automate-content-workflows" class="hash-link" aria-label="Direct link to Automate content workflows" title="Direct link to Automate content workflows" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="automate-content-workflows">Automate content workflows<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#automate-content-workflows" class="hash-link" aria-label="Direct link to Automate content workflows" title="Direct link to Automate content workflows" translate="no">​</a></h2>
 <p>If your documentation process relies on manual updates, you will fall behind.</p>
 <p>You must integrate version control, structured content models, and automated publishing pipelines. Connect documentation to product changes. Treat knowledge like code, with review processes, traceability, and iteration.</p>
 <p>Automation reduces errors and prevents knowledge decay.</p>
 <p><strong>Operational discipline applies to content just as much as it applies to engineering.</strong>
 You apply DevOps thinking to knowledge management.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="treat-docs-as-a-product">Treat docs as a product<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#treat-docs-as-a-product" class="hash-link" aria-label="Direct link to Treat docs as a product" title="Direct link to Treat docs as a product" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="treat-docs-as-a-product">Treat docs as a product<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#treat-docs-as-a-product" class="hash-link" aria-label="Direct link to Treat docs as a product" title="Direct link to Treat docs as a product" translate="no">​</a></h2>
 <p>Documentation influences onboarding, activation, retention, and developer experience. You must treat it like a product.</p>
 <p>Define metrics. Analyze usage patterns. Test changes. Prioritize improvements. Maintain a roadmap.</p>
 <p>When you invest in documentation strategically, you reduce support costs and increase user success.</p>
 <p><strong>Docs do not support the product. Docs are part of the product.</strong>
 You manage documentation with the same rigor as any customer-facing feature.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="navigate-communication-between-humans-and-machines">Navigate communication between humans and machines<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#navigate-communication-between-humans-and-machines" class="hash-link" aria-label="Direct link to Navigate communication between humans and machines" title="Direct link to Navigate communication between humans and machines" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="navigate-communication-between-humans-and-machines">Navigate communication between humans and machines<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#navigate-communication-between-humans-and-machines" class="hash-link" aria-label="Direct link to Navigate communication between humans and machines" title="Direct link to Navigate communication between humans and machines" translate="no">​</a></h2>
 <p>In AI-enabled systems, language becomes executable. Prompts shape behavior. Output shapes trust.</p>
 <p>You must translate product logic into instructions machines can interpret. You must translate machine output into explanations humans can understand. You must design transparency, disclaimers, and recovery paths.</p>
 <p>If you ignore this layer, risk increases. Confusion spreads. Trust erodes.</p>
 <p><strong>Someone must own the interface between human intention and machine behavior.</strong>
 You design how intelligence expresses itself through language.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="redefine-the-role">Redefine the role<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/redefining-technical-writing#redefine-the-role" class="hash-link" aria-label="Direct link to Redefine the role" title="Direct link to Redefine the role" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="redefine-the-role">Redefine the role<a href="https://www.all-maker.com/pr-preview/pr-13/blog/redefining-technical-writing#redefine-the-role" class="hash-link" aria-label="Direct link to Redefine the role" title="Direct link to Redefine the role" translate="no">​</a></h2>
 <p>The traditional title "technical writer" no longer captures the scope of this work.</p>
 <p>You now design knowledge systems, context architecture, AI interaction patterns, workflow automation, and cross-surface user journeys. You influence product clarity, AI reliability, operational efficiency, and user trust.</p>
 <p>Language shapes how your system thinks. Structure shapes how it scales.</p>
@@ -103,8 +103,8 @@ You design how understanding works inside your product and your organization.</p
     </entry>
     <entry>
         <title type="html"><![CDATA[Alien tech writer]]></title>
-        <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/alien</id>
-        <link href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/alien"/>
+        <id>https://www.all-maker.com/pr-preview/pr-13/blog/alien</id>
+        <link href="https://www.all-maker.com/pr-preview/pr-13/blog/alien"/>
         <updated>2026-02-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I've always pondered our definition of human intelligence. Civilization even. A definition that I like is — our ability to manipulate our environment.]]></summary>
         <content type="html"><![CDATA[<p>I've always pondered our definition of human intelligence. Civilization even. A definition that I like is — our ability to manipulate our environment.</p>
@@ -127,8 +127,8 @@ You design how understanding works inside your product and your organization.</p
     </entry>
     <entry>
         <title type="html"><![CDATA[Tech and art]]></title>
-        <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/tech-art</id>
-        <link href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/tech-art"/>
+        <id>https://www.all-maker.com/pr-preview/pr-13/blog/tech-art</id>
+        <link href="https://www.all-maker.com/pr-preview/pr-13/blog/tech-art"/>
         <updated>2026-02-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Tech keeps you capable. Art keeps you sane.]]></summary>
         <content type="html"><![CDATA[<p>Tech keeps you capable. Art keeps you sane.</p>
@@ -156,48 +156,48 @@ Feed the art. It keeps you human.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arguing with a robot]]></title>
-        <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot</id>
-        <link href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot"/>
+        <id>https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot</id>
+        <link href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I tried this insert product so you don't have to.]]></summary>
         <content type="html"><![CDATA[<p>I tried this <em>insert product</em> so you don't have to.</p>
 <p>There's a myriad of AI tool reviews out there. Kind of reminds me of the whole microservices hype. I swear, for about two years this buzzword was in every single meeting I attended. Now it's "AI-powered" everything. AI-powered toaster. AI-powered calendar. AI-powered AI.</p>
 <p>So what's the point in writing this?</p>
 <p>I just use them. I switch between the tools and models. Find what works, get the job done, and move on. A lot of trial and error. No hype. No manifestos. Just a tech writer trying to ship docs faster without losing his mind.</p>
-<p>If you haven't already, check out <a class="" href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/cheap-tools">Use cheap tools until they break</a> — it sets up the mindset for everything below. The short version: master the craft first, then upgrade your tools. AI is the latest upgrade.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="enter-the-robots">Enter the robots<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#enter-the-robots" class="hash-link" aria-label="Direct link to Enter the robots" title="Direct link to Enter the robots" translate="no">​</a></h2>
+<p>If you haven't already, check out <a class="" href="https://www.all-maker.com/pr-preview/pr-13/blog/cheap-tools">Use cheap tools until they break</a> — it sets up the mindset for everything below. The short version: master the craft first, then upgrade your tools. AI is the latest upgrade.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="enter-the-robots">Enter the robots<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#enter-the-robots" class="hash-link" aria-label="Direct link to Enter the robots" title="Direct link to Enter the robots" translate="no">​</a></h2>
 <p>LLMs are the newest tools in the belt. And for now, they're cheap. Accessible. Everywhere.</p>
 <p>The mistake I see people make is treating them like either a silver bullet or a threat. They're neither. They're tools. And like all tools, they're only as good as the person using them.</p>
 <p>Here's how I actually use them.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-second-opinion">The second opinion<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#the-second-opinion" class="hash-link" aria-label="Direct link to The second opinion" title="Direct link to The second opinion" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-second-opinion">The second opinion<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#the-second-opinion" class="hash-link" aria-label="Direct link to The second opinion" title="Direct link to The second opinion" translate="no">​</a></h3>
 <p>I give different models or agents different personas and ask them to critique each other. Not because I think AI knows better than me — but because it's faster than waiting three days for a peer review just to catch a typo and a broken link.</p>
 <p>I'll draft something in Claude, then ask Gemini to poke holes in it. Or I'll set up two agents — one playing the role of a skeptical developer, the other a first-time user — and have them both review the same doc. You'd be surprised what falls out.</p>
 <p>This isn't about replacing human review. It's about showing up to the human review with fewer obvious issues.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-pipeline-nobody-built">The pipeline nobody built<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#the-pipeline-nobody-built" class="hash-link" aria-label="Direct link to The pipeline nobody built" title="Direct link to The pipeline nobody built" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-pipeline-nobody-built">The pipeline nobody built<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#the-pipeline-nobody-built" class="hash-link" aria-label="Direct link to The pipeline nobody built" title="Direct link to The pipeline nobody built" translate="no">​</a></h3>
 <p>Here's a real example. I inherited a codebase where the developers never wrote explicit API documentation. No OpenAPI spec. Nothing. The endpoints existed in the code, scattered across files, undocumented.</p>
 <p>So I set up multiple LLM agents — different models, different instructions — and had them analyze the code, generate OpenAPI specs, and then argue with each other about whether the specs were accurate. One agent generates. Another validates. A third tries to break it.</p>
 <p>The result isn't perfect. But it's a starting point that would have taken weeks to produce manually. And now there's a single source of truth where there was none.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="instruction-files-and-prompt-libraries">Instruction files and prompt libraries<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#instruction-files-and-prompt-libraries" class="hash-link" aria-label="Direct link to Instruction files and prompt libraries" title="Direct link to Instruction files and prompt libraries" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="instruction-files-and-prompt-libraries">Instruction files and prompt libraries<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#instruction-files-and-prompt-libraries" class="hash-link" aria-label="Direct link to Instruction files and prompt libraries" title="Direct link to Instruction files and prompt libraries" translate="no">​</a></h3>
 <p>Keep markdown files with instructions per use case. I have different ones for different tasks — reviewing for plain language, checking structural consistency, generating code samples, and so on. When you reuse the same prompt across projects, it becomes a tool in itself. Sharpen it over time.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="modes-of-working-with-ai">Modes of working with AI<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#modes-of-working-with-ai" class="hash-link" aria-label="Direct link to Modes of working with AI" title="Direct link to Modes of working with AI" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="modes-of-working-with-ai">Modes of working with AI<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#modes-of-working-with-ai" class="hash-link" aria-label="Direct link to Modes of working with AI" title="Direct link to Modes of working with AI" translate="no">​</a></h2>
 <p>Not all AI-augmented work looks the same. The way I see it, there are a few distinct modes, and knowing when to use which one matters more than which model you pick.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="chat--the-rubber-duck">Chat — the rubber duck<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#chat--the-rubber-duck" class="hash-link" aria-label="Direct link to Chat — the rubber duck" title="Direct link to Chat — the rubber duck" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="chat--the-rubber-duck">Chat — the rubber duck<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#chat--the-rubber-duck" class="hash-link" aria-label="Direct link to Chat — the rubber duck" title="Direct link to Chat — the rubber duck" translate="no">​</a></h3>
 <p>Open a browser tab. Talk to it like a colleague. Ask it to explain a codebase you just inherited. Bounce an outline off it. Get a second opinion on your content architecture before you spend two days building it.</p>
 <p>Best for: exploration, understanding, brainstorming.</p>
 <p>Tools: Claude, ChatGPT, Gemini — browser-based, conversational.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="inline-assist--the-co-pilot">Inline assist — the co-pilot<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#inline-assist--the-co-pilot" class="hash-link" aria-label="Direct link to Inline assist — the co-pilot" title="Direct link to Inline assist — the co-pilot" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="inline-assist--the-co-pilot">Inline assist — the co-pilot<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#inline-assist--the-co-pilot" class="hash-link" aria-label="Direct link to Inline assist — the co-pilot" title="Direct link to Inline assist — the co-pilot" translate="no">​</a></h3>
 <p>This is your IDE whispering suggestions as you type. Tab completion, reformatting, fixing broken links, repetitive edits across 40 files. It's not creative work — it's grunt work you shouldn't be doing manually.</p>
 <p>Best for: repetitive tasks, pattern-based edits, formatting.</p>
 <p>Tools: GitHub Copilot, Cursor, Cody, any IDE-integrated assistant.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="drafting--the-ghostwriter">Drafting — the ghostwriter<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#drafting--the-ghostwriter" class="hash-link" aria-label="Direct link to Drafting — the ghostwriter" title="Direct link to Drafting — the ghostwriter" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="drafting--the-ghostwriter">Drafting — the ghostwriter<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#drafting--the-ghostwriter" class="hash-link" aria-label="Direct link to Drafting — the ghostwriter" title="Direct link to Drafting — the ghostwriter" translate="no">​</a></h3>
 <p>You provide the context, the constraints, the style guide. The AI generates a first draft. You refine. This works surprisingly well for things like release notes, API reference descriptions, and structured content where the format is predictable.</p>
 <p>Best for: first drafts, boilerplate, structured content.</p>
 <p>One rule: if the output is good, use it. Don't feel obligated to rewrite a perfectly fine doc just because AI wrote it.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="automation--the-assembly-line">Automation — the assembly line<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#automation--the-assembly-line" class="hash-link" aria-label="Direct link to Automation — the assembly line" title="Direct link to Automation — the assembly line" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="automation--the-assembly-line">Automation — the assembly line<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#automation--the-assembly-line" class="hash-link" aria-label="Direct link to Automation — the assembly line" title="Direct link to Automation — the assembly line" translate="no">​</a></h3>
 <p>This is where it gets interesting. CI/CD integration. Style linting. Automated spec generation. Agents that run in the background and flag issues before you even open the file. This mode requires setup, but once it's running, it scales in a way that manual work never will.</p>
 <p>Best for: validation, spec generation, continuous quality checks.</p>
 <p>Tools: Claude Code, OpenHands, custom scripts, MCP servers, whatever gets the job done.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pick-the-model-not-the-brand">Pick the model, not the brand<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#pick-the-model-not-the-brand" class="hash-link" aria-label="Direct link to Pick the model, not the brand" title="Direct link to Pick the model, not the brand" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pick-the-model-not-the-brand">Pick the model, not the brand<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#pick-the-model-not-the-brand" class="hash-link" aria-label="Direct link to Pick the model, not the brand" title="Direct link to Pick the model, not the brand" translate="no">​</a></h2>
 <p>Different models are better at different things. As of right now, here's how I think about it:</p>
 <ul>
 <li class=""><strong>Claude</strong> — strong at long-form writing, structured content, and following detailed instructions. My go-to for doc work.</li>
@@ -205,7 +205,7 @@ Feed the art. It keeps you human.</p>]]></content>
 <li class=""><strong>Gemini</strong> — great context window. Useful when you need to feed it an entire codebase or a 200-page spec and ask questions.</li>
 </ul>
 <p>This changes every few months. Don't marry a model. Date all of them.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-actual-point">The actual point<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot#the-actual-point" class="hash-link" aria-label="Direct link to The actual point" title="Direct link to The actual point" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-actual-point">The actual point<a href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot#the-actual-point" class="hash-link" aria-label="Direct link to The actual point" title="Direct link to The actual point" translate="no">​</a></h2>
 <p>None of this matters if you don't have the fundamentals. AI won't save you if you don't understand your users, can't structure content, or don't know what simplified technical English is.</p>
 <p>The tools amplify what you already have. If what you have is solid craft — structured authoring, user-centered thinking, domain knowledge, a willingness to figure it out — then AI makes you faster, broader, and harder to replace.</p>
 <p>If what you have is vibes and a ChatGPT subscription, well. The cheap tool is going to break real fast.</p>
@@ -221,30 +221,30 @@ Feed the art. It keeps you human.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Use cheap tools until they break]]></title>
-        <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/cheap-tools</id>
-        <link href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/cheap-tools"/>
+        <id>https://www.all-maker.com/pr-preview/pr-13/blog/cheap-tools</id>
+        <link href="https://www.all-maker.com/pr-preview/pr-13/blog/cheap-tools"/>
         <updated>2026-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Adam Savage once said that as a hobbyist, you should buy the cheapest tools you can find and use them until they break. When they break — and they will — you'll know two things: you're serious about the craft, and you now know exactly what you need. Then you buy the best tools you can afford.]]></summary>
         <content type="html"><![CDATA[<p>Adam Savage once said that as a hobbyist, you should buy the cheapest tools you can find and use them until they break. When they break — and they will — you'll know two things: you're serious about the craft, and you now know exactly what you need. Then you buy the best tools you can afford.</p>
 <p>This translates beautifully to technical writing.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="start-with-what-gets-the-docs-out-the-door">Start with what gets the docs out the door<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/cheap-tools#start-with-what-gets-the-docs-out-the-door" class="hash-link" aria-label="Direct link to Start with what gets the docs out the door" title="Direct link to Start with what gets the docs out the door" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="start-with-what-gets-the-docs-out-the-door">Start with what gets the docs out the door<a href="https://www.all-maker.com/pr-preview/pr-13/blog/cheap-tools#start-with-what-gets-the-docs-out-the-door" class="hash-link" aria-label="Direct link to Start with what gets the docs out the door" title="Direct link to Start with what gets the docs out the door" translate="no">​</a></h2>
 <p>If you're early in your career, or switching to docs-as-code, or just getting started with structured authoring — use whatever ships the docs. Paligo. FrameMaker. Zendesk. Confluence. A CCMS that lets you publish topics and structure content? Great. IntelliJ's visual Git interface so you don't have to memorize CLI commands on day one? Totally fine. I love that thing.</p>
 <p>The point is: don't let tooling anxiety stop you from shipping.</p>
 <p>The skills matter more than the stack. Structured authoring, simplified technical English, user experience, content architecture — these don't change because you switched from Confluence to a static site generator. The fundamentals are the fundamentals. Focus on the process, the knowledge, and the writing.</p>
 <p>Learn how to interview a developer. Learn how to break down a feature into tasks a reader can actually follow. Learn how to say the same thing in half the words. None of that requires a terminal.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="when-the-cheap-tool-breaks">When the cheap tool breaks<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/cheap-tools#when-the-cheap-tool-breaks" class="hash-link" aria-label="Direct link to When the cheap tool breaks" title="Direct link to When the cheap tool breaks" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="when-the-cheap-tool-breaks">When the cheap tool breaks<a href="https://www.all-maker.com/pr-preview/pr-13/blog/cheap-tools#when-the-cheap-tool-breaks" class="hash-link" aria-label="Direct link to When the cheap tool breaks" title="Direct link to When the cheap tool breaks" translate="no">​</a></h2>
 <p>You'll know when it happens.</p>
 <p>The GUI can't handle your reuse model. The CMS chokes on your branching strategy. You need automation that doesn't exist yet. You're copy-pasting the same update across 40 files and thinking there has to be a better way.</p>
 <p>There is. And you're ready for it — because you've hit the wall.</p>
 <p>That's when you go all in. CLI. Scripting. Pipelines. You start single-sourcing your OpenAPI specs straight from the source code. You automate generation of the sneak preview and the release notes. You add linters and style guides that run in CI. You set up an AI assistant that catches issues before you even open the file.</p>
 <p>And here's the thing. By this point? You're not guessing. You're not automating for the sake of automating. You know exactly which part of the workflow is broken because you lived in it. You used the cheap tools. You developed the essential skills. Now you're investing your time where it actually matters.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="afford-doesnt-mean-money">"Afford" doesn't mean money<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/cheap-tools#afford-doesnt-mean-money" class="hash-link" aria-label="Direct link to &quot;Afford&quot; doesn't mean money" title="Direct link to &quot;Afford&quot; doesn't mean money" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="afford-doesnt-mean-money">"Afford" doesn't mean money<a href="https://www.all-maker.com/pr-preview/pr-13/blog/cheap-tools#afford-doesnt-mean-money" class="hash-link" aria-label="Direct link to &quot;Afford&quot; doesn't mean money" title="Direct link to &quot;Afford&quot; doesn't mean money" translate="no">​</a></h2>
 <p>In this context, "the best tools you can afford" means time.</p>
 <p>If you can invest in Python and version control from day one, do it. But if you're unsure about the career, hard-pressed for time, or just overwhelmed — resolve your merge conflicts visually and move on. No shame.</p>
 <p>The tools don't make the writer. The writer makes the tools worth using.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="see-also">See also<a href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/cheap-tools#see-also" class="hash-link" aria-label="Direct link to See also" title="Direct link to See also" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="see-also">See also<a href="https://www.all-maker.com/pr-preview/pr-13/blog/cheap-tools#see-also" class="hash-link" aria-label="Direct link to See also" title="Direct link to See also" translate="no">​</a></h2>
 <ul>
-<li class=""><a class="" href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/argue-with-robot">Arguing with a robot</a></li>
+<li class=""><a class="" href="https://www.all-maker.com/pr-preview/pr-13/blog/argue-with-robot">Arguing with a robot</a></li>
 </ul>]]></content>
         <author>
             <name>Strahinja Milošević</name>
@@ -256,8 +256,8 @@ Feed the art. It keeps you human.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tech bro VS caveman]]></title>
-        <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/tech-bro</id>
-        <link href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/tech-bro"/>
+        <id>https://www.all-maker.com/pr-preview/pr-13/blog/tech-bro</id>
+        <link href="https://www.all-maker.com/pr-preview/pr-13/blog/tech-bro"/>
         <updated>2026-02-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Something weird is happening in tech.]]></summary>
         <content type="html"><![CDATA[<p>Something weird is happening in tech.</p>
@@ -287,8 +287,8 @@ Feed the art. It keeps you human.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pizza]]></title>
-        <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/pizza</id>
-        <link href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/pizza"/>
+        <id>https://www.all-maker.com/pr-preview/pr-13/blog/pizza</id>
+        <link href="https://www.all-maker.com/pr-preview/pr-13/blog/pizza"/>
         <updated>2026-01-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[What are the most important aspects of being a technical writer?]]></summary>
         <content type="html"><![CDATA[<p>What are the most important aspects of being a technical writer?</p>
@@ -307,8 +307,8 @@ Feed the art. It keeps you human.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[About this blog]]></title>
-        <id>https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/intro</id>
-        <link href="https://www.all-maker.com/all-maker/pr-preview/pr-13/blog/intro"/>
+        <id>https://www.all-maker.com/pr-preview/pr-13/blog/intro</id>
+        <link href="https://www.all-maker.com/pr-preview/pr-13/blog/intro"/>
         <updated>2026-01-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sometimes, you just need to write it down.]]></summary>
         <content type="html"><![CDATA[<p><em>Sometimes, you just need to write it down.</em></p>
