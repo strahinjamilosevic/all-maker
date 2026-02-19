@@ -39,6 +39,33 @@
   background-color: var(--ifm-background-color) !important;
 }
 
+/* Equal 0.20rem spacing between all right navbar items */
+.navbar__items--right {
+  gap: 0.20rem;
+}
+
+.navbar__items--right > .navbar__item {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Navbar icon-only links (Portfolio, LinkedIn, GitHub) */
+.navbar-icon-link {
+  display: flex !important;
+  align-items: center;
+  padding: 0.25rem 0.25rem !important;
+  color: var(--ifm-navbar-link-color);
+}
+
+.navbar-icon-link:hover {
+  color: var(--ifm-navbar-link-hover-color);
+}
+
+.navbar-icon-link svg,
+.navbar-icon-link img {
+  display: block;
+}
+
 /* Left doc sidebar: scrollable when items exceed viewport height */
 @media (min-width: 997px) {
   [class*='sidebarViewport'] .menu {
