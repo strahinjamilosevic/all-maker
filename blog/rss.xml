@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>The all-maker's corner of the internet Blog</title>
+        <title>All-maker's corner of the internet Blog</title>
         <link>https://www.all-maker.com/blog</link>
-        <description>The all-maker's corner of the internet Blog</description>
+        <description>All-maker's corner of the internet Blog</description>
         <lastBuildDate>Thu, 19 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -153,13 +153,13 @@ You design how understanding works inside your product and your organization.</p
             <content:encoded><![CDATA[<p>Tech keeps you capable. Art keeps you sane.</p>
 <p>That's the whole thesis. I could stop here. But I already wrote the title, so.</p>
 <p>Technology — the tools, the systems, the automations — makes you self-reliant. You can fix your own plumbing because YouTube exists. You can build a website because frameworks exist. You can troubleshoot your car, set up a home network, file your taxes, and never ask another human being for help.</p>
-<p>That's powerful. That's independence.</p>
-<p>But it's also just capability. It's infrastructure. It keeps the machine running. It doesn't tell you <em>why</em> the machine should run in the first place.</p>
-<p>That's where art comes in.</p>
+<p>Quite handy, isn't it?</p>
+<p>But it's also just capability. It's infrastructure that keeps the machine running. It doesn't tell you <em>why</em> it should run in the first place.</p>
+<p>I think art does.</p>
 <p>And I'm using "art" loosely. I don't mean you need to paint like Monet or write like Hemingway. I mean the guitar and a beer in the evening when the world is quiet. That leather EDC wallet you've stitched crookedly by hand. The weird poem on your phone that no one will ever read or that welding project that turned into a sculpture.</p>
 <p>The stuff with no sprint ticket. No deadline. No stakeholder.</p>
 <p>Tech solves problems. Art reminds you that not everything is a problem to be solved. Some things just exist to be felt, made, and left alone.</p>
-<p>I write docs all day. I structure knowledge, design user journeys, and think in headings and bullet points. It's satisfying in the way that organizing a toolbox is satisfying — everything in its place, everything serving a function.</p>
+<p>I write docs all day. I structure knowledge, design user journeys, and think in headings and pipeline optimizations. It's satisfying in the way that organizing a toolbox is satisfying — everything in its place, everything serving a function.</p>
 <p>But when I pick up a guitar, or lose an hour learning how to bevel leather edges — nothing is in its place. There's no information architecture. There's no user. There's just me and the thing I'm making, and it's never perfect. But, boy, oh boy, is it satisfying.</p>
 <p>Keeps me sane.</p>
 <p>If everything is optimized, structured, and efficient — great. You've built a really well-structured machine.</p>
@@ -313,10 +313,10 @@ Feed the art. It keeps you human.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p><em>Sometimes, you just need to write it down.</em></p>
 <p>Hello everybody! Welcome, welcome.</p>
 <p>At the time of posting this, my plan for this blog is not to write instructional content as I would at a corporation. Rather, I want to offer my experience about what I've done so far and how I found it easier to do. But maybe most of all, I want to reinforce my discipline, planning, and day-to-day.</p>
-<p>One of the reasons behind this is from 2019 when I learned how to create a website for a portfolio from a YouTube video. I managed to put my CV online in 2 hours. It's still <a href="https://strahinjamilosevic.github.io/" target="_blank" rel="noopener noreferrer" class="">online</a>.</p>
+<p>One of the reasons behind this is from 2019 when I learned how to create a website for a portfolio from a YouTube video. I managed to put my CV online in 2 hours wothout any prior coding knowledge. It's still <a href="https://strahinjamilosevic.github.io/" target="_blank" rel="noopener noreferrer" class="">online</a>. Shoutout to <a href="https://html5up.net/" target="_blank" rel="noopener noreferrer" class="">html5up.net</a> for free themes, <a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer" class="">unsplash.com</a> for free HD images, and <a href="https://www.youtube.com/@JoshuaFluke1" target="_blank" rel="noopener noreferrer" class="">Joshua Fluke</a> for the instructional video.</p>
 <p>It wasn't optimal for authoring experience, pipeline, SEO, and especially the content. But it was fast, free, looked okay and got the job done.</p>
 <p>So, I want to try and tailor the content to show how I do things in a way optimized for <em>me</em>. Maybe you find it helpful. Maybe it sparks something within you and inspires you to do it better.</p>
-<p>You know what they say: If you want something done quickly, post an incorrect fact online. People will flock to correct you.</p>]]></content:encoded>
+<p>You know what they say: If you want something done quickly, post an incorrect instruction. People will flock to correct you.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
