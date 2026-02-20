@@ -66,6 +66,15 @@
   display: block;
 }
 
+/* Mobile sidebar: group icon links on one row instead of stacking */
+@media (max-width: 996px) {
+  .navbar-sidebar .menu__list-item:has(.navbar-icon-link),
+  .navbar-sidebar .menu__list-item:has(.navbar-icon-link) > .navbar__item {
+    display: inline-flex;
+    align-items: center;
+  }
+}
+
 /* Minimal table style: horizontal row separators only, no outer border, no alternating rows */
 :root {
   --ifm-table-head-background: transparent;

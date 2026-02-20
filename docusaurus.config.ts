@@ -5,9 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "The all-maker's corner of the internet",
+  title: "All-maker's corner of the internet",
   tagline: 'Technical writing and other shenanigans',
-  favicon: 'img/logo.png',
+  favicon: 'img/logo1.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {

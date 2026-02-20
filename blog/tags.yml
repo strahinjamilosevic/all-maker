@@ -21,3 +21,15 @@ tools:
 career:
   label: Career
   permalink: /career
+
+metalworking:
+  label: Metal
+  permalink: /metal
+
+woodworking:
+  label: Woodworking
+  permalink: /woodworking  
+
+leatherworking:
+  label: Leather
+  permalink: /leather
