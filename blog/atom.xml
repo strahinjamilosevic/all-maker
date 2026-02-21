@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.all-maker.com/blog"/>
     <subtitle>All-maker's corner of the internet Blog</subtitle>
-    <icon>https://www.all-maker.com/img/logo1.png</icon>
+    <icon>https://www.all-maker.com/img/logo.png</icon>
     <entry>
         <title type="html"><![CDATA[Tech writing career ladder]]></title>
         <id>https://www.all-maker.com/blog/career</id>
