@@ -85,7 +85,7 @@ const config: Config = {
       title: 'All-maker',
       logo: {
         alt: 'CTPA',
-        src: 'img/logo.png',
+        src: 'img/logo1.png',
       },
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},

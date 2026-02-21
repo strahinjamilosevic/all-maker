@@ -7,7 +7,7 @@ import styles from './index.module.css';
 
 function Hero(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
-  const logoUrl = useBaseUrl('/img/logo.png');
+  const logoUrl = useBaseUrl('/img/logo1.png');
   return (
     <header className={styles.heroBanner}>
       <div className="container">
