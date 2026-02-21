@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: "All-maker's corner of the internet",
   tagline: 'Technical writing and other shenanigans',
-  favicon: 'img/logo1.png',
+  favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -85,7 +85,7 @@ const config: Config = {
       title: 'All-maker',
       logo: {
         alt: 'CTPA',
-        src: 'img/logo1.png',
+        src: 'img/logo.png',
       },
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
@@ -110,7 +110,7 @@ const config: Config = {
         {
           type: 'html',
           position: 'right',
-          value: '<a href="https://strahinjamilosevic.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio" class="navbar__link navbar-icon-link"><img src="/img/logo1.png" alt="Portfolio" width="22" height="22" /></a>',
+          value: '<a href="https://strahinjamilosevic.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio" class="navbar__link navbar-icon-link"><img src="/img/logo.png" alt="Portfolio" width="22" height="22" /></a>',
         },
         {
           type: 'html',
