@@ -46,7 +46,7 @@ const features: FeatureItem[] = [
     title: 'Resources',
     description:
       'Presentations, links, and learning materials for technical writers.',
-    link: '/docs/Resources/get-started-with-technical-writing',
+    link: '/docs/resources/get-started-with-technical-writing',
   },
 ];
 
