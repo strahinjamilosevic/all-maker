@@ -13,3 +13,4 @@ I hope you enjoy some part of the journey. There is much more than I can remembe
 
 - [Leatherworking](/docs/Leatherworking/adventure.md)
 - [Metalworking](/docs/Metalworking/welding.md)
+- [Cooking](flatbreads.md)
