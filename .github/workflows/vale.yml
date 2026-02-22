@@ -1,8 +1,7 @@
 name: Vale Prose Lint
 
 on:
-  pull_request:
-    paths: ['blog/**', 'docs/**', '.vale.ini', 'styles/**']
+  workflow_dispatch:
 
 concurrency:
   group: vale-${{ github.ref }}
