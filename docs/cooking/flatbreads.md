@@ -75,25 +75,25 @@ By now, the buns should not be kind of gnarly anymore. Their surface should have
    :::
 2. Bake for 3-4 minutes (by the *original recipe*).
    :::caution
-   These flatbreads must remain pale and must not bake to golden brown. Now, I am not sure if it is my oven by I bake them for about 6-7 minutes.
+   These flatbreads must remain pale and must not bake to golden brown. Now, I am not sure if it is my oven but I bake them for about 6-7 minutes.
    :::
    <img src="/img/lepinje3.jpg" alt="Lepinjice" style={{maxWidth: '400px', width: '100%'}} />
 
 3. When their surface become tight-smooth, they are done.
 
 
-Again, try to find the moment jsut before they are about to start becoming golden. But if they do, you've gone to far and they will get a crust and become chewier. 
+Again, try to find the moment just before they are about to become golden. But if they do, you've gone too far and they will form a crust and be chewier. 
 
-As somebody who has accidentally done it many times, I can tell you that it's not the end of the world. But where these really hit the spot is when they are soft and airy, smelling of olive oil and freshly-bakes goodness.
+As somebody who has accidentally done it many times, I can tell you that it's not the end of the world. But where these really hit the spot is when they are soft and airy, smelling of olive oil and freshly-baked goodness.
 
 ## Bon apetit
-That's it. These are stupid-easy to bake, even for beginners. For years, I was dreading baking but then finally understood that letting the dough rest and the yeast do its work is most of the work.
+That's it. These are stupid-easy to bake, even for beginners. For years, I was dreading baking but then finally understood that letting the dough rest and the yeast rise is most of the work.
 
 I don't have any specific "rules" on how to eat these, hell, I'm not even sure if these have anything to do with Lebanon :D
 
-What I sometimes do, though, is: I prepare a rub from olive oil, rosemary, peppercorn, and sea salt. I use a sillicon kitchen brush to apply the rub while they are hot. 
+What I sometimes do, though: I prepare a rub using olive oil, rosemary, peppercorn, and sea salt. I apply it with a sillicon kitchen brush while they are still hot and let them cool off. 
 
-But you can eat them with anything, my children sometimes eat them on their own and other times put nutella on them. In any case, enjoy! 
+But you can eat them with anything. My children often eat them bare and other times put nutella on them. In any case, enjoy! 
 
 Love, <br/>
 Stra
