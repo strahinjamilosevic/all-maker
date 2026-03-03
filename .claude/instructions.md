@@ -5,13 +5,13 @@
 - **Stack:** Docusaurus (latest v3), TypeScript, React 19
 - **Repo:** github.com/strahinjamilosevic/all-maker
 - **Domain:** all-maker.com
-- **Hosting:** Walrus (Mysten Labs)
+- **Hosting:** GitHub Pages
 
 ### Structure
 
 ```
 blog/           Markdown blog posts
-docs/           Projects & resources (Markdown/MDX)
+docs/           Crafting projects & resources (Markdown/MDX)
 src/
   components/   Custom React components
   css/          Global styles
