@@ -18,13 +18,13 @@ I got this recipe from my mom, I do not know where she got it from but we've bee
   
 
 ## Step 1: Mix the ingredients
-There's an elaborate isntruction in the original recipe on how to get to the consistency of the dough that you need.
+There's an elaborate instruction in the original recipe on how to get to the consistency of the dough that you need.
 
 But I found that this process yields the same, even better results. It is easier and there's less to clean afterwards.
 
 
 1. Get a mixing bowl which is at least twice as big as the volume of the ingredients.
-2. Put all ingredients into a bowl and take a sillicon, bendy spatula. 
+2. Put all ingredients into a bowl and take a silicone, bendy spatula. 
    :::info 
    Save about two tablespoons of the olive oil for later.
    :::
@@ -91,7 +91,7 @@ That's it. These are stupid-easy to bake, even for beginners. For years, I was d
 
 I don't have any specific "rules" on how to eat these, hell, I'm not even sure if these have anything to do with Lebanon :D
 
-What I sometimes do, though: I prepare a rub using olive oil, rosemary, peppercorn, and sea salt. I apply it with a sillicon kitchen brush while they are still hot and let them cool off. 
+What I sometimes do, though: I prepare a rub using olive oil, rosemary, peppercorn, and sea salt. I apply it with a silicone kitchen brush while they are still hot and let them cool off. 
 
 But you can eat them with anything. My children often eat them bare and other times put nutella on them. In any case, enjoy! 
 
