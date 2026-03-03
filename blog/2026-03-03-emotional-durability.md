@@ -7,6 +7,8 @@ tags: [technical writing, career, leadership]
 
 Leadership is an exercise in endurance. Not physical—emotional. You unify the vision, translate different perspectives into a single narrative, and you do not flinch when that narrative gets challenged. You know when to push and when to say no. That is the job.
 
+<!-- truncate -->
+
 I used to think that this meant that my manager was being a smartass. Asking me if I had spoken to person a, b, or c? And I always answered that, of course, I had. I knew what I was doing. Until it happened that I did not because I lacked the context. That moment stayed with me.
 
 This happens all the time at organizations of low level of maturity. Everybody's crazy smart and capable. Tons of experience. Chances are that they all have a track record of impressive accomplishments.
