@@ -6,7 +6,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Metalworking',
-      collapsed: true,
+      collapsed: false,
       items: [
         'metalworking/intro',
         {
@@ -32,13 +32,13 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Leatherworking',
-      collapsed: true,
+      collapsed: false,
       items: ['leatherworking/intro'],
     },
     {
       type: 'category',
       label: 'Cooking',
-      collapsed: true,
+      collapsed: false,
       items: ['cooking/flatbreads'],
     },
   ],

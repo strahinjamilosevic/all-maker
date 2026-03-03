@@ -89,7 +89,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'projectsSidebar',
           position: 'left',
-          label: 'Projects',
+          label: 'Crafting',
         },
         {
           type: 'docSidebar',

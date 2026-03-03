@@ -37,7 +37,7 @@ const features: FeatureItem[] = [
     link: '/blog',
   },
   {
-    title: 'Projects',
+    title: 'Crafting',
     description:
       'Leatherworking, metalworking, and whatever else I happen to be building.',
     link: '/docs/intro',
