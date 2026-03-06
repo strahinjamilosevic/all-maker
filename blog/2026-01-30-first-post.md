@@ -2,6 +2,7 @@
 slug: intro
 title: About this blog
 authors: [strahinja]
+tags: [opinion, lifestyle, technical writing]
 description: Why I made this website and what to expect.
 ---
 
@@ -20,3 +21,6 @@ It wasn't optimal for authoring experience, pipeline, SEO, and especially the co
 So, I want to try and tailor the content to show how I do things in a way optimized for *me*. Maybe you find it helpful. Maybe it sparks something within you and inspires you to do it better.
 
 You know what they say: If you want something done quickly, post an incorrect instruction. People will flock to correct you.
+
+Love,
+Stra
