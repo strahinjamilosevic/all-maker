@@ -17,6 +17,24 @@ const config: Config = {
   url: 'https://www.all-maker.com',
   baseUrl: process.env.BASE_URL || '/',
 
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '/img/logo.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'manifest',
+        href: '/manifest.json',
+      },
+    },
+  ],
+
   organizationName: 'strahinjamilosevic',
   projectName: 'all-maker',
 
@@ -84,7 +102,7 @@ const config: Config = {
     navbar: {
       title: 'All-maker',
       logo: {
-        alt: 'CTPA',
+        alt: 'All-maker',
         src: 'img/logo.png',
       },
       items: [
