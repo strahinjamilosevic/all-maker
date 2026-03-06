@@ -14,7 +14,7 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://www.all-maker.com',
+  url: 'https://all-maker.com',
   baseUrl: process.env.BASE_URL || '/',
 
   headTags: [
@@ -94,8 +94,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/logo.png',
+    image: 'img/social-card.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
