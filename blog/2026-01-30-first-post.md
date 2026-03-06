@@ -2,6 +2,7 @@
 slug: intro
 title: About this blog
 authors: [strahinja]
+description: Why I made this website and what to expect.
 ---
 
 *Sometimes, you just need to write it down.*

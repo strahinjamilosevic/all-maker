@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Let's go on an adventure
+description: My journey into leatherworking.
 ---
 
 This is a new thing I am trying to get good at - leatherworking. I plan to post more of the process, learnings, and the finished products soon. Stay tuned!

@@ -2,6 +2,7 @@
 slug: redefining-technical-writing
 title: Redefining technical writing
 authors: [strahinja]
+description: Designing knowledge flows and how the product behaves is now the job.
 ---
 
 You may think of a technical writer as the person who produces documentation. But the role has changed. It now sits at the center of design thinking, context protocols, content strategy, user journeys, AI-augmented authoring, automated workflows, docs as a product, and communication between humans and machines.

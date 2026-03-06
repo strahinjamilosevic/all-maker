@@ -3,6 +3,7 @@ slug: argue-with-robot
 title: Arguing with a robot
 authors: [strahinja]
 tags: [technical writing, AI, tools]
+description: Using AI as a conversational sparring partner.
 ---
 
 I tried this *insert product* so you don't have to.
