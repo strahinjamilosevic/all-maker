@@ -2,6 +2,7 @@
 sidebar_position: 1
 sidebar_label: You got to start somewhere
 title: You got to start somewhere
+description: Welding and blacksmithing projects.
 ---
 
 I wanted to learn how to forge. But I had nowhere to do it. So I decided to start with welding. It was incredibly rewarding quite quickly.

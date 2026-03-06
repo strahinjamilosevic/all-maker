@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Lebanese flatbreads
+description: Recipes I enjoy making and consuming.
 ---
 
 I got this recipe from my mom, I do not know where she got it from but we've been making these flatbreads for years. People can seem to get enough of them and they are incredibly easy to make.
