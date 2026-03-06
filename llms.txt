@@ -4,25 +4,25 @@ Personal site of Strahinja Milošević — Senior Technical Writer. Covers techn
 
 ## Blog
 
-- [About this blog](https://www.all-maker.com/blog/intro): Why I made this website and what to expect.
-- [Pizza](https://www.all-maker.com/blog/pizza): Technical writing as a craft, told through the metaphor of making pizza.
-- [Tech bro VS caveman](https://www.all-maker.com/blog/tech-bro): Technology overload and coping mechanisms.
-- [Use cheap tools until they break](https://www.all-maker.com/blog/cheap-tools): Invest in foundational skills before you get lost in the whirlpool of tooling options.
-- [Arguing with a robot](https://www.all-maker.com/blog/argue-with-robot): Using AI as a conversational sparring partner.
-- [Tech and art](https://www.all-maker.com/blog/tech-art): The relationship between technical work and creative expression.
-- [Alien tech writer](https://www.all-maker.com/blog/alien): What it feels like to be a technical writer.
-- [Redefining technical writing](https://www.all-maker.com/blog/redefining-technical-writing): Designing knowledge flows and how the product behaves is now the job.
-- [Life is an MVP](https://www.all-maker.com/blog/mvp): A minimum viable product is not a dirty word—it is an instrument of evolution.
-- [Tech writing career ladder](https://www.all-maker.com/blog/career): What seniority means, and how to advance on your technical writing journey.
-- [Emotional durability in leadership](https://www.all-maker.com/blog/emotional-durability): Why emotional endurance matters in leadership.
+- [About this blog](https://all-maker.com/blog/intro): Why I made this website and what to expect.
+- [Pizza](https://all-maker.com/blog/pizza): Technical writing as a craft, told through the metaphor of making pizza.
+- [Tech bro VS caveman](https://all-maker.com/blog/tech-bro): Technology overload and coping mechanisms.
+- [Use cheap tools until they break](https://all-maker.com/blog/cheap-tools): Invest in foundational skills before you get lost in the whirlpool of tooling options.
+- [Arguing with a robot](https://all-maker.com/blog/argue-with-robot): Using AI as a conversational sparring partner.
+- [Tech and art](https://all-maker.com/blog/tech-art): The relationship between technical work and creative expression.
+- [Alien tech writer](https://all-maker.com/blog/alien): What it feels like to be a technical writer.
+- [Redefining technical writing](https://all-maker.com/blog/redefining-technical-writing): Designing knowledge flows and how the product behaves is now the job.
+- [Life is an MVP](https://all-maker.com/blog/mvp): A minimum viable product is not a dirty word—it is an instrument of evolution.
+- [Tech writing career ladder](https://all-maker.com/blog/career): What seniority means, and how to advance on your technical writing journey.
+- [Emotional durability in leadership](https://all-maker.com/blog/emotional-durability): Why emotional endurance matters in leadership.
 
 ## Crafting projects
 
-- [Introduction](https://www.all-maker.com/docs/intro): Overview of what I am making.
-- [Metalworking](https://www.all-maker.com/docs/metalworking/intro): Welding and blacksmithing projects.
-- [Leatherworking](https://www.all-maker.com/docs/leatherworking/intro): My journey into leatherworking.
-- [Cooking](https://www.all-maker.com/docs/cooking/flatbreads): Recipes I enjoy making and consuming.
+- [Introduction](https://all-maker.com/docs/intro): Overview of what I am making.
+- [Metalworking](https://all-maker.com/docs/metalworking/intro): Welding and blacksmithing projects.
+- [Leatherworking](https://all-maker.com/docs/leatherworking/intro): My journey into leatherworking.
+- [Cooking](https://all-maker.com/docs/cooking/flatbreads): Recipes I enjoy making and consuming.
 
 ## Resources
 
-- [Get started with technical writing](https://www.all-maker.com/docs/resources/get-started-with-technical-writing): A presentation about what technical writing is and isn't, and where to start.
+- [Get started with technical writing](https://all-maker.com/docs/resources/get-started-with-technical-writing): A presentation about what technical writing is and isn't, and where to start.
