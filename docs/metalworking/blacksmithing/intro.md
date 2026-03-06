@@ -9,7 +9,7 @@ title: Introduction
 
 Here, I plan to take you on this journey with me, demo the process, and showcase the learnings from each session:
 
-1. [Learn the basics](docs\metalworking\blacksmithing\first-session.md)
-2. [Forge the blade](docs\metalworking\blacksmithing\second-session.md)
+1. [Learn the basics](/docs/metalworking/blacksmithing/first-session)
+2. [Forge the blade](/docs/metalworking/blacksmithing/second-session)
 
-<img src="/img/blacksmith.jpg" alt="Me" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmith.jpg" alt="Me" style={{maxWidth: '400px', width: '100%'}} />

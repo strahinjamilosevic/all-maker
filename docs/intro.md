@@ -11,9 +11,9 @@ I like to think it saved me along the way. Awarded me experiences that make me a
 
 I hope you enjoy some part of the journey. There is much more than I can remember at the moment, so I am starting with the latest:
 
-- [Metalworking](/docs/metalworking/intro.md)
-- [Leatherworking](/docs/leatherworking/intro.md)
-- [Cooking](/docs/cooking/flatbreads.md)
+- [Metalworking](/docs/metalworking/intro)
+- [Leatherworking](/docs/leatherworking/intro)
+- [Cooking](/docs/cooking/flatbreads)
 
 If you're here for technical writing, check out:
 

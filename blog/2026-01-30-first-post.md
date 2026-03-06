@@ -22,5 +22,5 @@ So, I want to try and tailor the content to show how I do things in a way optimi
 
 You know what they say: If you want something done quickly, post an incorrect instruction. People will flock to correct you.
 
-Love,
+Love, <br/>
 Stra
