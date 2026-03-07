@@ -16,7 +16,7 @@ This is why generic ones do not work. If you cannot pinpoint what draws you to t
 
 ## What to write
 
-### Why this company and this role
+### The company and the role
 
 Not "I have always been passionate about technology" or "I admire your mission." Be specific. What did you notice about their product, their docs, their engineering blog, their culture? What made you stop and think—*I want to work on this*?
 
@@ -24,9 +24,9 @@ Speak to intrinsic motivation. Mention what excites you about the problem they a
 
 ### The connection
 
-Pick one or two specific experiences from your background that connect directly to what they need. Not a list—a connection. Show that you have read the job description, done your research, and identified where your skills meet their actual problem.
+Pick one or two specific experiences from your background that connect directly to what they need. Connect these experiences to what you identified that their company need.Show that you have read the job description, done your research, and identified where your skills meet their actual problem.
 
-This is also the place to address something you noticed during your research. If their documentation has a clear gap and you have solved exactly that kind of problem before, say so. Showing that you have already started thinking about their work is unusual and memorable.
+This is also the place to address something you noticed during your research. For example, ff their documentation has a clear gap and you have solved exactly that kind of problem before. Being specific about this demonstrates your proactive thinking about their work and helps you being notices in a sea of applications.
 
 ### The close
 
@@ -34,11 +34,11 @@ End simply and directly. Express that you would welcome the conversation. Do not
 
 ## What to avoid
 
-- **Repeating the resume** — They have it. Use the space for something else.
-- **Clichés** — *I am a team player with a passion for excellence* communicates nothing. Cut anything that could appear in any cover letter for any job.
-- **Templates** — Recruiters recognize them immediately. Write something that sounds like you.
-- **Opener filler** — Do not start with *I am writing to express my interest in the position of...*. Start with something that actually says something.
-- **Overselling** — Confidence is good. Claims you cannot back up immediately read as hollow.
+- **Repeating the resume** — They have it.
+- **Clichés** — *I am a team player with a passion for excellence* communicates nothing. Cut anything generic.
+- **Templates** — Recruiters recognize them easiliy. Write something that sounds like you.
+- **Opener filler** — Do not start with *I am writing to express my interest in the position of...*. Prolongs the piece too much and says nothing.
+- **Overselling** — Confidence is good. But be careful of empty boasts that could read as hollow and are hard to prove later.
 
 ## The right length
 
