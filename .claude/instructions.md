@@ -35,7 +35,7 @@ npm run typecheck
 
 - American conversational English. Informal, millennial jargon is fine.
 - Influenced by English language and literature training and Simplified Technical English (STE).
-- Disrupt reading flow intentionally: long sentence, then pivot. Stop. Short ones.
+- Disrupt reading flow intentionally: long sentence, then pivot. Stop. Short ones. Do not do this always. Pick a spot to make an impact.
 - Break paragraphs for attention span, not academic structure. A new paragraph where traditional writing would not put one is acceptable.
 - Thought-provoking endings.
 - Never use emojis or decorative icons in lists or body text.
