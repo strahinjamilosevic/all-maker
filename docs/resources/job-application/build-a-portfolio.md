@@ -62,10 +62,11 @@ The general path for a free static portfolio hosted on GitHub Pages:
 5. **Push to GitHub**. GitHub Pages will publish your site automatically.
 6. **Visit `yourusername.github.io`** — it is live.
 
-If you prefer not to work with code, these free alternatives work well for a portfolio or online resume:
+If you prefer not to work with code, there are many free alternatives work well for a portfolio or online resume. Here are some poeple use a lot:
 
 - **[WordPress.com](https://beginnersbook.com/2013/10/create-a-free-website-on-wordpress/)** — Beginner-friendly, no code required. Good step-by-step guide at that link.
 - **[Teal](https://www.tealhq.com/tools/resume-builder)** — Portfolio and resume builder aimed at job seekers. Guided and free to start.
+- **[Medium](https://medium.com)** — If your portfolio is primarily writing, publishing on Medium gives you an instant audience and a clean reading experience without building anything.
 
 ## Building with an LLM
 

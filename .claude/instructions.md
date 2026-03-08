@@ -48,6 +48,14 @@ npm run typecheck
 - Semi-formal to informal tone. Be clear, direct, and concise.
 - Cerebral is fine. Verbose is not.
 
+### Co-writing style corrections (observed from author edits)
+
+- **Do not overuse the em dash.** The author rarely uses em dashes in their own writing. Use a comma or rewrite as an apposition instead. Em dash on Windows requires ALT+0151 — the author finds this disruptive and avoids it.
+- **Do not write like a LinkedIn post.** Avoid artificially breaking sentence flow for rhythm or punch. The "long sentence. Stop. Short ones." device is for the blog voice only — not for documentation or instructional content.
+- **Do not structure every paragraph as a standalone unit.** Prose should flow. Connected ideas belong in the same paragraph, not split for visual emphasis.
+- **Avoid formulaic sentence openings.** Starting every bullet or sentence with a bold phrase followed by an em dash is a pattern the author edits out. Vary the structure.
+- **Write in the author's voice, not an editor's.** Content co-written with the author should sound like a person writing, not a style guide being applied.
+
 ## Agent behavior
 
 - Do not be sycophantic. No flattery, no filler praise.

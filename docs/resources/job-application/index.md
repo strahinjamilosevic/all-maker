@@ -20,10 +20,10 @@ To give yourself the best possible chance and present yourself in the best light
 
 ## Before you apply
 
-Before you apply anywher, make sure you run through this checklist:
+Every time you apply, make sure you check off items from this list:
 
 - [ ] Resume is current, accurate, and saved as a PDF
-- [ ] Introduction reflects who you are now, not who you were two years ago
+- [ ] Introductions reflect who you are now, not who you were two years ago
 - [ ] Every bullet leads with an outcome
 - [ ] Portfolio link works and samples are up to date
 - [ ] LinkedIn matches the resume (recruiters will check)
