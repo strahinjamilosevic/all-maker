@@ -6,25 +6,36 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Metalworking',
+      link: {type: 'doc', id: 'metalworking/index'},
       collapsed: false,
       items: [
-        'metalworking/intro',
         {
           type: 'category',
           label: 'Blacksmithing workshop',
+          link: {type: 'doc', id: 'metalworking/blacksmithing/index'},
           collapsed: true,
           items: [
-            'metalworking/blacksmithing/intro',
             'metalworking/blacksmithing/first-session',
             'metalworking/blacksmithing/second-session',
+            'metalworking/blacksmithing/third-session',
+            'metalworking/blacksmithing/fourth-session',
           ],
         },
         {
           type: 'category',
           label: 'Welding projects',
+          link: {type: 'doc', id: 'metalworking/welding/index'},
           collapsed: true,
           items: [
-            'metalworking/welding/intro',
+            'metalworking/welding/first-weld',
+            'metalworking/welding/iron',
+            'metalworking/welding/welding-table',
+            'metalworking/welding/viking-helmet',
+            'metalworking/welding/solder-lamp',
+            'metalworking/welding/coffee-table',
+            'metalworking/welding/wallet',
+            'metalworking/welding/chest',
+            'metalworking/welding/electrolysis',
           ],
         },
       ],
@@ -32,8 +43,9 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Leatherworking',
+      link: {type: 'doc', id: 'leatherworking/index'},
       collapsed: false,
-      items: ['leatherworking/intro'],
+      items: [],
     },
     {
       type: 'category',
