@@ -8,7 +8,7 @@ The first evening, our task was to familiarize ourselves with the tools, the pro
 This meant we had to learn how to:
 
 - Work the coal and gas forges
-- Select the proper tool
+- Select the proper tools
 - Round off a square iron bar
 - Make a point and curl it
 - Twist the bar
