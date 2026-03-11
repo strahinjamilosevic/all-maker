@@ -52,14 +52,21 @@
 <p>Some get to these positions simply because it was next. And they fall short in trying to defend the product decision that's already been reviewed and made with due diligence.</p>
 <p>They give up. Decide that the stress is way above the pay grade and just start nodding.</p>
 <p>We've all seen it in practice. Decisions made in isolation, miscommunicated, each one reasonable on its own, but collectively exhausting.
-Business considers it an unfair advantage to certain customers. Change the offering. Management is fed up with the latest incidents — migrate away from CloudFlare to something more durable. Infrastructure recreates the pipeline — product does not like the port numbers. Change them again, same starting digit. Support is drowning. Nobody reacts.</p>
+Business considers it an unfair advantage to certain customers. Change the offering. Management is fed up with the latest incidents—migrate away from CloudFlare to something more durable. Infrastructure recreates the pipeline—product does not like the port numbers. Change them again, same starting digit. Support is drowning. Nobody reacts.</p>
 <p>We do the work. And change it again. And again. And talk. Incessantly.</p>
 <p>The leadership proclaims: everybody's doing the best they can. But they can feel it. Everybody on edge. Not because they can't do their jobs. But because they have been forced to redo a simple task multiple times.</p>
 <p>Therein lies the rub. People need meaning. Motivation. I concede—there are jobs and workers in the world where the bare minimum is enough.</p>
 <p>I also feel that in building software, product, and technology—people are ambitious. They want to feel like they contribute. Like they build something that matters.</p>
 <p>This is why weak leadership kills teams and products. It's a slippery slope, the ladder, and a paradox in its own right.</p>
 <p>You climb the ladder. Become a leader. Find it emotionally taxing. Become agreeable and start nodding. The team does the same. And together you do a disservice to the company as well as yourself.</p>
-<p>It's difficult to recognize whether you actually want it or you believed somebody that you should want it. But one thing is certain: emotional durability is not a soft skill. It is the job.</p>]]></content:encoded>
+<p>It's difficult to recognize whether you actually want it or you believed somebody that you should want it. But one thing is certain: emotional durability is not a soft skill. It is the job.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="see-also">See also<a href="https://all-maker.com/blog/emotional-durability#see-also" class="hash-link" aria-label="Direct link to See also" title="Direct link to See also" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://all-maker.com/blog/cheap-tools">Use cheap tools until they break</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/argue-with-robot">Arguing with a robot</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/redefining-technical-writing">Redefining technical writing</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/career">Tech writing career ladder</a></li>
+</ul>]]></content:encoded>
             <category>Technical writing</category>
             <category>Career</category>
             <category>Leadership</category>
@@ -86,9 +93,11 @@ Business considers it an unfair advantage to certain customers. Change the offer
 <p>In most engineering orgs, these are equivalent to:</p>
 <table><thead><tr><th style="text-align:left">Engineering level</th><th style="text-align:left">Tech writer equivalent</th><th style="text-align:left">Scope</th></tr></thead><tbody><tr><td style="text-align:left">Junior engineer</td><td style="text-align:left">Junior technical writer</td><td style="text-align:left">Executes scoped tasks with support</td></tr><tr><td style="text-align:left">Medior engineer</td><td style="text-align:left">Technical writer</td><td style="text-align:left">Owns mid-sized documentation tasks end-to-end</td></tr><tr><td style="text-align:left">Senior engineer</td><td style="text-align:left">Senior technical writer</td><td style="text-align:left">Leads projects and helps define strategy</td></tr><tr><td style="text-align:left">Staff engineer</td><td style="text-align:left">Staff technical writer</td><td style="text-align:left">Cross-team technical leadership and strategy</td></tr><tr><td style="text-align:left">Principal engineer</td><td style="text-align:left">(Optional) Principal technical writer</td><td style="text-align:left">Rare, focused on company-wide initiatives, tools, and vision</td></tr></tbody></table>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="see-also">See also<a href="https://all-maker.com/blog/career#see-also" class="hash-link" aria-label="Direct link to See also" title="Direct link to See also" translate="no">​</a></h2>
-<p>Most orgs have these, but keep them internal. As an open-source platform with a strong documentation culture, GitLab has a lot of useful resources. So feel free to take inspiration, as I did:</p>
 <ul>
-<li class=""><a href="https://handbook.gitlab.com/job-families/product/technical-writer/" target="_blank" rel="noopener noreferrer" class="">Technical writer at Gitlab</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/cheap-tools">Use cheap tools until they break</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/argue-with-robot">Arguing with a robot</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/redefining-technical-writing">Redefining technical writing</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/emotional-durability">Emotional durability in leadership</a></li>
 </ul>]]></content:encoded>
             <category>Technical writing</category>
             <category>Career</category>
@@ -178,7 +187,14 @@ You design how intelligence expresses itself through language.</p>
 <p>You now design knowledge systems, context architecture, AI interaction patterns, workflow automation, and cross-surface user journeys. You influence product clarity, AI reliability, operational efficiency, and user trust.</p>
 <p>Language shapes how your system thinks. Structure shapes how it scales.</p>
 <p><strong>You do not just write documentation.</strong>
-You design how understanding works inside your product and your organization.</p>]]></content:encoded>
+You design how understanding works inside your product and your organization.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="see-also">See also<a href="https://all-maker.com/blog/redefining-technical-writing#see-also" class="hash-link" aria-label="Direct link to See also" title="Direct link to See also" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://all-maker.com/blog/cheap-tools">Use cheap tools until they break</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/argue-with-robot">Arguing with a robot</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/career">Tech writing career ladder</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/emotional-durability">Emotional durability in leadership</a></li>
+</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Alien tech writer]]></title>
@@ -186,14 +202,14 @@ You design how understanding works inside your product and your organization.</p
             <guid>https://all-maker.com/blog/alien</guid>
             <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[What it feels like to be a technical writer.]]></description>
-            <content:encoded><![CDATA[<p>I've always pondered our definition of human intelligence. Civilization even. A definition that I like is — our ability to manipulate our environment.</p>
+            <content:encoded><![CDATA[<p>I've always pondered our definition of human intelligence. Civilization even. A definition that I like is—our ability to manipulate our environment.</p>
 <p>Lately, I've been thinking about the necessity of it all. After all, we did invent all of this marvel out of necessity for better tooling, food production, shelter, and so on.</p>
-<p>The way we perceive the world and are able to shape it naturally has made us make use of our biggest advantage — the mind.</p>
+<p>The way we perceive the world and are able to shape it naturally has made us make use of our biggest advantage—the mind.</p>
 <p>But we know of different beings with better senses, capabilities, and even immortality. The way we perceive the world, even through sophisticated technology, might still fall short of what a mantis shrimp is able to perceive.</p>
-<p>Now imagine a thought experiment. A vastly superior biological extraterrestrial being visits Earth. Not a civilization with better ships or weapons — a being whose very biology allows it to perceive the universe in its entirety. All the dimensions we theorize about, all the quantum phenomena we struggle to measure, all the forces and fields we can only detect through instruments built over centuries of incremental progress. To this being, the universe isn't a mystery to be solved. It's just... visible.</p>
+<p>Now imagine a thought experiment. A vastly superior biological extraterrestrial being visits Earth. Not a civilization with better ships or weapons—a being whose very biology allows it to perceive the universe in its entirety. All the dimensions we theorize about, all the quantum phenomena we struggle to measure, all the forces and fields we can only detect through instruments built over centuries of incremental progress. To this being, the universe isn't a mystery to be solved. It's just... visible.</p>
 <p>They look at us and see completely limited beings. Creatures harvesting energy from the elements, building tooling solutions to make up for their lack of vision and understanding. Translating the world into symbols and equations because they cannot simply <em>see</em> it.</p>
-<p>And yet — they might be impressed. Because given that the only real tool at our disposal is the brain, we've gotten remarkably far.</p>
-<p>A human rebuttal, then. In a way, that is even better. If you are a being whose understanding depends entirely on a biological gift — some innate sensory apparatus you were born with — and you lose it, you are left in the dark. Unable to navigate, perhaps unable to sustain yourself at all.</p>
+<p>And yet—they might be impressed. Because given that the only real tool at our disposal is the brain, we've gotten remarkably far.</p>
+<p>A human rebuttal, then. In a way, that is even better. If you are a being whose understanding depends entirely on a biological gift—some innate sensory apparatus you were born with—and you lose it, you are left in the dark. Unable to navigate, perhaps unable to sustain yourself at all.</p>
 <p>But humans figure it out. We always have. We lack the hardware, so we build it. We can't perceive ultraviolet light, so we invent sensors that can. We can't fly, so we engineer flight. We don't have the answer, so we design a process to find it.</p>
 <p>It's better to have a thinking process than a specialized capability. Capabilities can fail. Thinking adapts.</p>
 <p>This is how I feel as a tech writer. I don't always have the perfect tools. But I figure it out.</p>]]></content:encoded>
@@ -207,18 +223,18 @@ You design how understanding works inside your product and your organization.</p
             <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[The relationship between technical work and creative expression.]]></description>
             <content:encoded><![CDATA[<p>Tech keeps you capable. Art keeps you sane.</p>
-<p>That's the whole thesis. I could stop here. But I already wrote the title, so.</p>
-<p>Technology — the tools, the systems, the automations — makes you self-reliant. You can fix your own plumbing because YouTube exists. You can build a website because frameworks exist. You can troubleshoot your car, set up a home network, file your taxes, and never ask another human being for help.</p>
+<p>That's the whole thesis. I could stop here but I already wrote the title.</p>
+<p>Technology—the tools, the systems, the automations—makes you self-reliant. You can fix your own plumbing because YouTube exists. You can build a website because frameworks exist. You can troubleshoot your car, set up a home network, file your taxes, and never ask another human being for help.</p>
 <p>Quite handy, isn't it?</p>
 <p>But it's also just capability. It's infrastructure that keeps the machine running. It doesn't tell you <em>why</em> it should run in the first place.</p>
 <p>I think art does.</p>
 <p>And I'm using "art" loosely. I don't mean you need to paint like Monet or write like Hemingway. I mean the guitar and a beer in the evening when the world is quiet. That leather EDC wallet you've stitched crookedly by hand. The weird poem on your phone that no one will ever read or that welding project that turned into a sculpture.</p>
 <p>The stuff with no sprint ticket. No deadline. No stakeholder.</p>
 <p>Tech solves problems. Art reminds you that not everything is a problem to be solved. Some things just exist to be felt, made, and left alone.</p>
-<p>I write docs all day. I structure knowledge, design user journeys, and think in headings and pipeline optimizations. It's satisfying in the way that organizing a toolbox is satisfying — everything in its place, everything serving a function.</p>
-<p>But when I pick up a guitar, or lose an hour learning how to bevel leather edges — nothing is in its place. There's no information architecture. There's no user. There's just me and the thing I'm making, and it's never perfect. But, boy, oh boy, is it satisfying.</p>
+<p>I write docs all day. I structure knowledge, design user journeys, and think in headings and pipeline optimizations. It's satisfying in the way that organizing a toolbox is satisfying—everything in its place, everything serving a function.</p>
+<p>But when I pick up a guitar, or lose an hour learning how to bevel leather edges—nothing is in its place. There's no information architecture. There's no user. There's just me and the thing I'm making, and it's never perfect. But, boy, oh boy, is it satisfying.</p>
 <p>Keeps me sane.</p>
-<p>If everything is optimized, structured, and efficient — great. You've built a really well-structured machine.</p>
+<p>If everything is optimized, structured, and efficient—great. You've built a really well-structured machine.</p>
 <p>But machines don't need meaning. You do.</p>
 <p>Use the tech. Keeps you capable.
 Feed the art. It keeps you human.</p>]]></content:encoded>
@@ -233,55 +249,65 @@ Feed the art. It keeps you human.</p>]]></content:encoded>
             <description><![CDATA[Using AI as a conversational sparring partner.]]></description>
             <content:encoded><![CDATA[<p>I tried this <em>insert product</em> so you don't have to.</p>
 <p>There's a myriad of AI tool reviews out there. Kind of reminds me of the whole microservices hype. I swear, for about two years this buzzword was in every single meeting I attended. Now it's "AI-powered" everything. AI-powered toaster. AI-powered calendar. AI-powered AI.</p>
-<p>So what's the point in writing this?</p>
 <p>I just use them. I switch between the tools and models. Find what works, get the job done, and move on. A lot of trial and error. No hype. No manifestos. Just a tech writer trying to ship docs faster without losing his mind.</p>
-<p>If you haven't already, check out <a class="" href="https://all-maker.com/blog/cheap-tools">Use cheap tools until they break</a> — it sets up the mindset for everything below. The short version: master the craft first, then upgrade your tools. AI is the latest upgrade.</p>
+<p>If you haven't already, check out <a class="" href="https://all-maker.com/blog/cheap-tools">Use cheap tools until they break</a>—it sets up the mindset for everything below. The short version: master the craft first, then upgrade your tools. AI is the latest upgrade.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="enter-the-robots">Enter the robots<a href="https://all-maker.com/blog/argue-with-robot#enter-the-robots" class="hash-link" aria-label="Direct link to Enter the robots" title="Direct link to Enter the robots" translate="no">​</a></h2>
 <p>LLMs are the newest tools in the belt. And for now, they're cheap. Accessible. Everywhere.</p>
 <p>The mistake I see people make is treating them like either a silver bullet or a threat. They're neither. They're tools. And like all tools, they're only as good as the person using them.</p>
 <p>Here's how I actually use them.</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-second-opinion">The second opinion<a href="https://all-maker.com/blog/argue-with-robot#the-second-opinion" class="hash-link" aria-label="Direct link to The second opinion" title="Direct link to The second opinion" translate="no">​</a></h3>
-<p>I give different models or agents different personas and ask them to critique each other. Not because I think AI knows better than me — but because it's faster than waiting three days for a peer review just to catch a typo and a broken link.</p>
-<p>I'll draft something in Claude, then ask Gemini to poke holes in it. Or I'll set up two agents — one playing the role of a skeptical developer, the other a first-time user — and have them both review the same doc. You'd be surprised what falls out.</p>
+<p>I give different models or agents different personas and ask them to critique each other. Not because I think AI knows better than me—but because it's faster than waiting three days for a peer review just to catch a typo and a broken link.</p>
+<p>I'll draft something in Claude, then ask Gemini to poke holes in it. Or I'll set up two agents—one playing the role of a skeptical developer, the other a first-time user. Then have them both review the same doc. You'd be surprised what falls out.</p>
 <p>This isn't about replacing human review. It's about showing up to the human review with fewer obvious issues.</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-pipeline-nobody-built">The pipeline nobody built<a href="https://all-maker.com/blog/argue-with-robot#the-pipeline-nobody-built" class="hash-link" aria-label="Direct link to The pipeline nobody built" title="Direct link to The pipeline nobody built" translate="no">​</a></h3>
 <p>Here's a real example. I inherited a codebase where the developers never wrote explicit API documentation. No OpenAPI spec. Nothing. The endpoints existed in the code, scattered across files, undocumented.</p>
-<p>So I set up multiple LLM agents — different models, different instructions — and had them analyze the code, generate OpenAPI specs, and then argue with each other about whether the specs were accurate. One agent generates. Another validates. A third tries to break it.</p>
-<p>The result isn't perfect. But it's a starting point that would have taken weeks to produce manually. And now there's a single source of truth where there was none.</p>
+<p>So I set up multiple LLM agents with different models and instructions. I asked them to sanalyze the code, generate OpenAPI specs, and then argue with each other about whether the specs were accurate. One agent generates. Another validates. A third tries to break it.</p>
+<p>The result wasn't perfect. But it was a good starting point that would have taken weeks to produce manually. And we ended up with a single source of truth.</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="instruction-files-and-prompt-libraries">Instruction files and prompt libraries<a href="https://all-maker.com/blog/argue-with-robot#instruction-files-and-prompt-libraries" class="hash-link" aria-label="Direct link to Instruction files and prompt libraries" title="Direct link to Instruction files and prompt libraries" translate="no">​</a></h3>
-<p>Keep markdown files with instructions per use case. I have different ones for different tasks — reviewing for plain language, checking structural consistency, generating code samples, and so on. When you reuse the same prompt across projects, it becomes a tool in itself. Sharpen it over time.</p>
+<p>Keep markdown files with instructions per use case. I used to use different ones for different tasks—reviewing for plain language, checking structural consistency, generating code samples, and so on. The idea was to reause a good prompt doc across projects and make it a tool in itself. Sharpen it over time.</p>
+<p>Take this one with a grain of salt. The way and tempo that the LLMs evolve—we get a new tool every couple of months. I strongly suggest to check out <a href="https://code.claude.com/docs/en/skills" target="_blank" rel="noopener noreferrer" class="">Claude skills</a> and <a href="https://code.claude.com/docs/en/mcp" target="_blank" rel="noopener noreferrer" class="">MCPs</a> depending on your use case.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="modes-of-working-with-ai">Modes of working with AI<a href="https://all-maker.com/blog/argue-with-robot#modes-of-working-with-ai" class="hash-link" aria-label="Direct link to Modes of working with AI" title="Direct link to Modes of working with AI" translate="no">​</a></h2>
-<p>Not all AI-augmented work looks the same. The way I see it, there are a few distinct modes, and knowing when to use which one matters more than which model you pick.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="chat--the-rubber-duck">Chat — the rubber duck<a href="https://all-maker.com/blog/argue-with-robot#chat--the-rubber-duck" class="hash-link" aria-label="Direct link to Chat — the rubber duck" title="Direct link to Chat — the rubber duck" translate="no">​</a></h3>
+<p>Not all AI-augmented work looks the same. Here're some examples of how I perceive distinct modes at the moment.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="chatthe-rubber-duck">Chat—the rubber duck<a href="https://all-maker.com/blog/argue-with-robot#chatthe-rubber-duck" class="hash-link" aria-label="Direct link to Chat—the rubber duck" title="Direct link to Chat—the rubber duck" translate="no">​</a></h3>
 <p>Open a browser tab. Talk to it like a colleague. Ask it to explain a codebase you just inherited. Bounce an outline off it. Get a second opinion on your content architecture before you spend two days building it.</p>
-<p>Best for: exploration, understanding, brainstorming.</p>
-<p>Tools: Claude, ChatGPT, Gemini — browser-based, conversational.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="inline-assist--the-co-pilot">Inline assist — the co-pilot<a href="https://all-maker.com/blog/argue-with-robot#inline-assist--the-co-pilot" class="hash-link" aria-label="Direct link to Inline assist — the co-pilot" title="Direct link to Inline assist — the co-pilot" translate="no">​</a></h3>
-<p>This is your IDE whispering suggestions as you type. Tab completion, reformatting, fixing broken links, repetitive edits across 40 files. It's not creative work — it's grunt work you shouldn't be doing manually.</p>
-<p>Best for: repetitive tasks, pattern-based edits, formatting.</p>
-<p>Tools: GitHub Copilot, Cursor, Cody, any IDE-integrated assistant.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="drafting--the-ghostwriter">Drafting — the ghostwriter<a href="https://all-maker.com/blog/argue-with-robot#drafting--the-ghostwriter" class="hash-link" aria-label="Direct link to Drafting — the ghostwriter" title="Direct link to Drafting — the ghostwriter" translate="no">​</a></h3>
-<p>You provide the context, the constraints, the style guide. The AI generates a first draft. You refine. This works surprisingly well for things like release notes, API reference descriptions, and structured content where the format is predictable.</p>
-<p>Best for: first drafts, boilerplate, structured content.</p>
-<p>One rule: if the output is good, use it. Don't feel obligated to rewrite a perfectly fine doc just because AI wrote it.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="automation--the-assembly-line">Automation — the assembly line<a href="https://all-maker.com/blog/argue-with-robot#automation--the-assembly-line" class="hash-link" aria-label="Direct link to Automation — the assembly line" title="Direct link to Automation — the assembly line" translate="no">​</a></h3>
-<p>This is where it gets interesting. CI/CD integration. Style linting. Automated spec generation. Agents that run in the background and flag issues before you even open the file. This mode requires setup, but once it's running, it scales in a way that manual work never will.</p>
-<p>Best for: validation, spec generation, continuous quality checks.</p>
+<p>Good for: exploration, understanding, brainstorming.</p>
+<p>Tools: Claude, ChatGPT, Gemini—browser-based, conversational.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="inline-assistthe-co-pilot">Inline assist—the co-pilot<a href="https://all-maker.com/blog/argue-with-robot#inline-assistthe-co-pilot" class="hash-link" aria-label="Direct link to Inline assist—the co-pilot" title="Direct link to Inline assist—the co-pilot" translate="no">​</a></h3>
+<p>This is your IDE whispering suggestions as you type. Tab completion, reformatting, fixing broken links, repetitive edits across 40 files. It's not creative work—it's grunt work you shouldn't be doing manually.</p>
+<p>Good for: repetitive tasks, pattern-based edits, formatting.</p>
+<p>Tools: GitHub Copilot, Cursor, Claude in VS Code, basically any IDE-integrated assistant.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="draftingthe-ghostwriter">Drafting—the ghostwriter<a href="https://all-maker.com/blog/argue-with-robot#draftingthe-ghostwriter" class="hash-link" aria-label="Direct link to Drafting—the ghostwriter" title="Direct link to Drafting—the ghostwriter" translate="no">​</a></h3>
+<p>You provide the context, the constraints, the style guide. The AI generates a first draft and you refine it. This works surprisingly well for things like release notes, API reference descriptions, and structured content where the format is predictable. Do not let it run amok though. They have a tendency to overexplain and contextualize where not additional info is needed. Always test, of course.</p>
+<p>Good for: first drafts, boilerplate, structured content.</p>
+<p>One rule: if the output is good, use it. Don't feel obligated to rewrite a perfectly fine doc just because AI wrote it. If you're really ashamed—acknowledge it at the bottom. :)</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="automationthe-assembly-line">Automation—the assembly line<a href="https://all-maker.com/blog/argue-with-robot#automationthe-assembly-line" class="hash-link" aria-label="Direct link to Automation—the assembly line" title="Direct link to Automation—the assembly line" translate="no">​</a></h3>
+<p>This is where it gets interesting. CI/CD integration, style linting, automated spec generation. Agents that run in the background and flag issues before you even open the file. This mode requires setup, but once it's running, it scales in a way that manual work never will.</p>
+<p>Cursor can already help you create whole elaborate refactoring plans. It helps you design multiple phases with sub-steps, researches solutions so you don't leave the IDE, present options, coaches you where to make the decisions, and the automatically adjusts the doc for you to review the plan. You can then greenlight it, press submit, and go to lunch.</p>
+<p>Good for: refactors, validation, spec generation, continuous quality checks.</p>
 <p>Tools: Claude Code, OpenHands, custom scripts, MCP servers, whatever gets the job done.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pick-the-model-not-the-brand">Pick the model, not the brand<a href="https://all-maker.com/blog/argue-with-robot#pick-the-model-not-the-brand" class="hash-link" aria-label="Direct link to Pick the model, not the brand" title="Direct link to Pick the model, not the brand" translate="no">​</a></h2>
-<p>Different models are better at different things. As of right now, here's how I think about it:</p>
+<p>By the time you read this, the some LLM brand must have already shifted the market. Frontier models converge fast. What's true today—that one handles code better, another has a bigger context window, a third follows instructions more precisely—will be different in six months.</p>
+<p>What tends to stay consistent are the criteria worth evaluating:</p>
 <ul>
-<li class=""><strong>Claude</strong> — strong at long-form writing, structured content, and following detailed instructions. My go-to for doc work.</li>
-<li class=""><strong>GPT</strong> — solid generalist. Good at code generation and quick answers. The ecosystem is massive.</li>
-<li class=""><strong>Gemini</strong> — great context window. Useful when you need to feed it an entire codebase or a 200-page spec and ask questions.</li>
+<li class=""><strong>Reliability for your specific task</strong>—not just "can it do this" but "does it do this consistently, without drifting or hallucinating on step three".</li>
+<li class=""><strong>Integration</strong>—where does it live? In your browser, your IDE, your CI pipeline? The best model is the one that fits into your workflow without friction.</li>
+<li class=""><strong>Speed and cost</strong>—a slower, smarter model for drafting; a faster, cheaper one for inline suggestions. You don't need the same hammer for every nail.</li>
+<li class=""><strong>Context limits</strong>—still relevant when feeding it large codebases or long specs. Less of a differentiator than it used to be, but worth checking.</li>
 </ul>
 <p>This changes every few months. Don't marry a model. Date all of them.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-actual-point">The actual point<a href="https://all-maker.com/blog/argue-with-robot#the-actual-point" class="hash-link" aria-label="Direct link to The actual point" title="Direct link to The actual point" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-close">The close<a href="https://all-maker.com/blog/argue-with-robot#the-close" class="hash-link" aria-label="Direct link to The close" title="Direct link to The close" translate="no">​</a></h2>
 <p>None of this matters if you don't have the fundamentals. AI won't save you if you don't understand your users, can't structure content, or don't know what simplified technical English is.</p>
-<p>The tools amplify what you already have. If what you have is solid craft — structured authoring, user-centered thinking, domain knowledge, a willingness to figure it out — then AI makes you faster, broader, and harder to replace.</p>
-<p>If what you have is vibes and a ChatGPT subscription, well. The cheap tool is going to break real fast.</p>
-<p>Use whatever is at your disposal to get the product out. Then get better. Then get faster. Then help someone else do the same.</p>
-<p>That's the job.</p>]]></content:encoded>
+<p>The tools amplify what you already have. If that is solid, AI makes you faster, broader, and harder to replace.</p>
+<p>If what you have is vibes and an LLM subscription, well, the cheap tools are going to break real fast (read: tokens).</p>
+<p>Use whatever is at your disposal to get the product out. Review. Iterate. Automate. Then help someone else do the same.</p>
+<p>That's the job.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="see-also">See also<a href="https://all-maker.com/blog/argue-with-robot#see-also" class="hash-link" aria-label="Direct link to See also" title="Direct link to See also" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://all-maker.com/blog/cheap-tools">Use cheap tools until they break</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/redefining-technical-writing">Redefining technical writing</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/career">Tech writing career ladder</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/emotional-durability">Emotional durability in leadership</a></li>
+</ul>]]></content:encoded>
             <category>Technical writing</category>
             <category>AI</category>
             <category>Tools</category>
@@ -292,26 +318,29 @@ Feed the art. It keeps you human.</p>]]></content:encoded>
             <guid>https://all-maker.com/blog/cheap-tools</guid>
             <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Invest in foundational skills before you get lost in the whirlpool of tooling options.]]></description>
-            <content:encoded><![CDATA[<p>Adam Savage once said that as a hobbyist, you should buy the cheapest tools you can find and use them until they break. When they break — and they will — you'll know two things: you're serious about the craft, and you now know exactly what you need. Then you buy the best tools you can afford.</p>
+            <content:encoded><![CDATA[<p>Adam Savage once said that as a hobbyist, you should buy the cheapest tools you can find and use them until they break. When they break, and they will, you'll know two things: you're serious about the craft, and you now know exactly what you need. Then you buy the best tools you can afford.</p>
 <p>This translates beautifully to technical writing.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="start-with-what-gets-the-docs-out-the-door">Start with what gets the docs out the door<a href="https://all-maker.com/blog/cheap-tools#start-with-what-gets-the-docs-out-the-door" class="hash-link" aria-label="Direct link to Start with what gets the docs out the door" title="Direct link to Start with what gets the docs out the door" translate="no">​</a></h2>
-<p>If you're early in your career, or switching to docs-as-code, or just getting started with structured authoring — use whatever ships the docs. Paligo. FrameMaker. Zendesk. Confluence. A CCMS that lets you publish topics and structure content? Great. IntelliJ's visual Git interface so you don't have to memorize CLI commands on day one? Totally fine. I love that thing.</p>
-<p>The point is: don't let tooling anxiety stop you from shipping.</p>
-<p>The skills matter more than the stack. Structured authoring, simplified technical English, user experience, content architecture — these don't change because you switched from Confluence to a static site generator. The fundamentals are the fundamentals. Focus on the process, the knowledge, and the writing.</p>
-<p>Learn how to interview a developer. Learn how to break down a feature into tasks a reader can actually follow. Learn how to say the same thing in half the words. None of that requires a terminal.</p>
+<p>If you're early in your career, or switching to docs-as-code, or just getting started with structured authoring—use whatever ships the docs. Paligo, FrameMaker, Zendesk, Confluence. A CCMS that lets you publish topics and structure content? Great. IntelliJ's visual Git interface so you don't have to memorize CLI commands on day one? I love that thing.</p>
+<p>Don't let tooling anxiety stop you from shipping.</p>
+<p>The skills matter more than the stack. Structured authoring, simplified technical English, user experience, content architecture—these don't change because you switched from Confluence to a static site generator. The fundamentals are the same. Focus on the process, the knowledge, and the writing.</p>
+<p>Learn how to interview a developer. Learn how to break down a feature into tasks readers can actually follow. Learn how to say the same thing in half the words. None of that requires a terminal.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="when-the-cheap-tool-breaks">When the cheap tool breaks<a href="https://all-maker.com/blog/cheap-tools#when-the-cheap-tool-breaks" class="hash-link" aria-label="Direct link to When the cheap tool breaks" title="Direct link to When the cheap tool breaks" translate="no">​</a></h2>
 <p>You'll know when it happens.</p>
-<p>The GUI can't handle your reuse model. The CMS chokes on your branching strategy. You need automation that doesn't exist yet. You're copy-pasting the same update across 40 files and thinking there has to be a better way.</p>
-<p>There is. And you're ready for it — because you've hit the wall.</p>
-<p>That's when you go all in. CLI. Scripting. Pipelines. You start single-sourcing your OpenAPI specs straight from the source code. You automate generation of the sneak preview and the release notes. You add linters and style guides that run in CI. You set up an AI assistant that catches issues before you even open the file.</p>
-<p>And here's the thing. By this point? You're not guessing. You're not automating for the sake of automating. You know exactly which part of the workflow is broken because you lived in it. You used the cheap tools. You developed the essential skills. Now you're investing your time where it actually matters.</p>
+<p>The GUI can't handle your reuse model. The CMS chokes on your branching strategy or you need automation that doesn't exist yet. You're copy-pasting the same update across 40 files and thinking there has to be a better way.</p>
+<p>There is. And you're ready for it—because you've hit the wall.</p>
+<p>My advice: go all in. CLI. Scripting. Pipelines. You start single-sourcing your OpenAPI specs straight from the source code. You automate generation of the sneak preview and the release notes. You add linters and style guides that run in CI. You set up an AI assistant that catches issues before you even open the file.</p>
+<p>By this point—you're not guessing. You're not automating for the sake of automating. You probably already know exactly which part of the workflow is broken because you lived in it. You used the "cheap" tools. You developed the essential skills. Now you're investing your time where it actually matters.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="afford-doesnt-mean-money">"Afford" doesn't mean money<a href="https://all-maker.com/blog/cheap-tools#afford-doesnt-mean-money" class="hash-link" aria-label="Direct link to &quot;Afford&quot; doesn't mean money" title="Direct link to &quot;Afford&quot; doesn't mean money" translate="no">​</a></h2>
 <p>In this context, "the best tools you can afford" means time.</p>
-<p>If you can invest in Python and version control from day one, do it. But if you're unsure about the career, hard-pressed for time, or just overwhelmed — resolve your merge conflicts visually and move on. No shame.</p>
+<p>If you can invest in Python and version control from day one, do it. But if you're unsure about the career, hard-pressed for time, or just overwhelmed—resolve your merge conflicts visually and move on. No shame.</p>
 <p>The tools don't make the writer. The writer makes the tools worth using.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="see-also">See also<a href="https://all-maker.com/blog/cheap-tools#see-also" class="hash-link" aria-label="Direct link to See also" title="Direct link to See also" translate="no">​</a></h2>
 <ul>
 <li class=""><a class="" href="https://all-maker.com/blog/argue-with-robot">Arguing with a robot</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/redefining-technical-writing">Redefining technical writing</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/career">Tech writing career ladder</a></li>
+<li class=""><a class="" href="https://all-maker.com/blog/emotional-durability">Emotional durability in leadership</a></li>
 </ul>]]></content:encoded>
             <category>Technical writing</category>
             <category>Tools</category>
@@ -324,7 +353,7 @@ Feed the art. It keeps you human.</p>]]></content:encoded>
             <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Technology overload and coping mechanisms.]]></description>
             <content:encoded><![CDATA[<p>Something weird is happening in tech.</p>
-<p>The people who build the apps, configure the notifications, and automate everything they can — are the same people turning it all off.</p>
+<p>The people who build the apps, configure the notifications, and automate everything they can—are the same people turning it all off.</p>
 <p>I keep seeing it. Senior devs ditching smartphones for dumbphones. DevOps engineers building birdhouses on weekends. The person who automated their entire CI/CD pipeline now drives a manual car with no navigation and calls it "meditation."</p>
 <p>And honestly? I get it.</p>
 <p>Think about your average Tuesday. You wake up and there are already 14 notifications. Slack. Email. That one app reminding you to drink water as if you're a newly arrived alien. You manage passwords with a password manager that also needs a password. You juggle subscriptions, insurances, logins, two-factor codes, and a calendar that looks like a Tetris board designed by someone who hates you.</p>
@@ -334,11 +363,11 @@ Feed the art. It keeps you human.</p>]]></content:encoded>
 <p>For me, it's the sauna. No phone. No screen. No noise. Just heat, steam, and the kind of silence that makes your ears ring because you forgot what silence actually sounds like.</p>
 <p>Or cooking. Something slow and intentionally messy, where the worst-case scenario is you oversalt the soup.</p>
 <p>Or fixing things around the house. A leaky faucet doesn't need a Jira ticket. You just grab the wrench, figure it out, and move on. No PR review required.</p>
-<p>Or — and this is the one that really resets the brain — sitting on the floor with my four-year-old and doing whatever I'm told. Build this tower. No, not like that. Now knock it down. Again.</p>
+<p>Or—and this is the one that really resets the brain—sitting on the floor with my four-year-old and doing whatever I'm told. Build this tower. No, not like that. Now knock it down. Again.</p>
 <p>No strategy. No optimization. No purpose beyond the moment.</p>
 <p>There's no standup for playing with blocks.</p>
 <p>He doesn't have a system. He doesn't batch his tasks or timebox his play. He just does the thing in front of him, fully, and moves on. Somewhere between learning to crawl and learning to code, we forgot how to do that.</p>
-<p>Our brains were built for maybe 50 decisions a day. Hunt or gather. Sleep or stay alert. Now we make 50 decisions before breakfast — most of them about cookies, and not the edible kind.</p>
+<p>Our brains were built for maybe 50 decisions a day. Hunt or gather. Sleep or stay alert. Now we make 50 decisions before breakfast—most of them about cookies, and not the edible kind.</p>
 <p>No wonder the techiest people alive are buying flip phones and building cabins.</p>
 <p>The hardware can't keep up with the software update.</p>]]></content:encoded>
             <category>Opinion</category>
