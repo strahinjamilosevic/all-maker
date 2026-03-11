@@ -129,3 +129,10 @@ Language shapes how your system thinks. Structure shapes how it scales.
 
 **You do not just write documentation.**
 You design how understanding works inside your product and your organization.
+
+## See also
+
+- [Use cheap tools until they break](/blog/cheap-tools)
+- [Arguing with a robot](/blog/argue-with-robot)
+- [Tech writing career ladder](/blog/career)
+- [Emotional durability in leadership](/blog/emotional-durability)

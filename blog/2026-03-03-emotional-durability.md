@@ -29,7 +29,7 @@ Some get to these positions simply because it was next. And they fall short in t
 They give up. Decide that the stress is way above the pay grade and just start nodding.
 
 We've all seen it in practice. Decisions made in isolation, miscommunicated, each one reasonable on its own, but collectively exhausting.
-Business considers it an unfair advantage to certain customers. Change the offering. Management is fed up with the latest incidents — migrate away from CloudFlare to something more durable. Infrastructure recreates the pipeline — product does not like the port numbers. Change them again, same starting digit. Support is drowning. Nobody reacts. 
+Business considers it an unfair advantage to certain customers. Change the offering. Management is fed up with the latest incidents—migrate away from CloudFlare to something more durable. Infrastructure recreates the pipeline—product does not like the port numbers. Change them again, same starting digit. Support is drowning. Nobody reacts. 
 
 We do the work. And change it again. And again. And talk. Incessantly.
 
@@ -44,3 +44,10 @@ This is why weak leadership kills teams and products. It's a slippery slope, the
 You climb the ladder. Become a leader. Find it emotionally taxing. Become agreeable and start nodding. The team does the same. And together you do a disservice to the company as well as yourself.
 
 It's difficult to recognize whether you actually want it or you believed somebody that you should want it. But one thing is certain: emotional durability is not a soft skill. It is the job.
+
+## See also
+
+- [Use cheap tools until they break](/blog/cheap-tools)
+- [Arguing with a robot](/blog/argue-with-robot)
+- [Redefining technical writing](/blog/redefining-technical-writing)
+- [Tech writing career ladder](/blog/career)

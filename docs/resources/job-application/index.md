@@ -12,11 +12,11 @@ The mistake most people make is treating a job application as a document formatt
 
 To give yourself the best possible chance and present yourself in the best light, follow these steps in order:
 
-1. **[Research the company](/docs/resources/job-application/research-the-company)** — Before anything else, learn about the company, the role, and what they actually need. You cannot write a compelling application without this.
-2. **[Tailor the resume](/docs/resources/job-application/tailor-the-resume)** — Structure your experience to speak directly to the role, using accomplishment-led bullets that stress value over responsibility.
-3. **[Build a portfolio](/docs/resources/job-application/build-a-portfolio)** — Show your work. A link to something real is worth more than any claim on a CV.
-4. **[Write the cover letter](/docs/resources/job-application/write-the-cover-letter)** — When required, write something that makes you stand out. Not a summary of the resume. Something that sounds like a person.
-5. **[Prepare for the interviews](/docs/resources/job-application/prepare-for-interviews)** — Most processes have multiple rounds. Each one tests something different. Prepare for each accordingly.
+1. **[Research the company](/docs/resources/job-application/research-the-company)**—Before anything else, learn about the company, the role, and what they actually need. You cannot write a compelling application without this.
+2. **[Tailor the resume](/docs/resources/job-application/tailor-the-resume)**—Structure your experience to speak directly to the role, using accomplishment-led bullets that stress value over responsibility.
+3. **[Build a portfolio](/docs/resources/job-application/build-a-portfolio)**—Show your work. A link to something real is worth more than any claim on a CV.
+4. **[Write the cover letter](/docs/resources/job-application/write-the-cover-letter)**—When required, write something that makes you stand out. Not a summary of the resume. Something that sounds like a person.
+5. **[Prepare for the interviews](/docs/resources/job-application/prepare-for-interviews)**—Most processes have multiple rounds. Each one tests something different. Prepare for each accordingly.
 
 ## Before you apply
 

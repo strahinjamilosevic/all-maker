@@ -34,11 +34,11 @@ End simply and directly. Express that you would welcome the conversation. Do not
 
 ## What to avoid
 
-- **Repeating the resume** — They have it.
-- **Clichés** — *I am a team player with a passion for excellence* communicates nothing. Cut anything generic.
-- **Templates** — Recruiters recognize them easiliy. Write something that sounds like you.
-- **Opener filler** — Do not start with *I am writing to express my interest in the position of...*. Prolongs the piece too much and says nothing.
-- **Overselling** — Confidence is good. But be careful of empty boasts that could read as hollow and are hard to prove later.
+- **Repeating the resume**—They have it.
+- **Clichés**—*I am a team player with a passion for excellence* communicates nothing. Cut anything generic.
+- **Templates**—Recruiters recognize them easiliy. Write something that sounds like you.
+- **Opener filler**—Do not start with *I am writing to express my interest in the position of...*. Prolongs the piece too much and says nothing.
+- **Overselling**—Confidence is good. But be careful of empty boasts that could read as hollow and are hard to prove later.
 
 ## The right length
 
