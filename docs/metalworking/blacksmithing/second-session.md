@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Second session
+sidebar_label: "Second session 🚧"
 ---
 
 The second evening, we started on the knife. The masters taught us how to:

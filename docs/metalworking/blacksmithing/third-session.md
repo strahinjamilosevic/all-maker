@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Third session
+sidebar_label: "Third session 🚧"
 ---
 
 The third session was about finishing the blade profile and starting to create the handle. Because of my design choice, that meant drawing out the chunk of steel into a looong metal rod.
