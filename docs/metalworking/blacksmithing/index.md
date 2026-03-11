@@ -12,4 +12,6 @@ Here, I plan to take you on this journey with me, demo the process, and showcase
 1. [Learn the basics](/docs/metalworking/blacksmithing/first-session)
 2. [Forge the blade](/docs/metalworking/blacksmithing/second-session)
 
-<img src="/img/metalworking/blacksmith.jpg" alt="Me" style={{maxWidth: '400px', width: '100%'}} />
+<div style={{textAlign: 'center'}}>
+  <img src="/img/metalworking/blacksmith.jpg" alt="Me" style={{maxWidth: '400px', width: '100%'}} />
+</div>

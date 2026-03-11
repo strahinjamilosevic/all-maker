@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: First session
+sidebar_label: "First session 🚧"
 ---
 
 The first evening, our task was to familiarize ourselves with the tools, the process, and do a small project - forge a coat hanger from an iron bar.
