@@ -39,12 +39,12 @@ For this, create an itemized list of accomplishments that explain what you used 
 
 For each bullet, lead with a **two to three word bold phrase** that states the benefit or outcome for the company. Follow it immediately with one sentence—starting with a past-tense [action verb](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)—that explains what you did and how, including the relevant skills and tools.
 
-> **[Outcome or benefit]** — past-tense action verb + what you did + how you did it + tools or skills involved.
+> **[Outcome or benefit]**—past-tense action verb + what you did + how you did it + tools or skills involved.
 
 For example:
 
-- **Reduced review bottlenecks** — Developed and implemented a structured review workflow between documentation, product, engineering, and QA, cutting average review cycles from two weeks to three days.
-- **Improved SEO and navigation** — Revamped the information architecture of the IPP documentation suite using Paligo and analytics data, reducing bounce rates by 18% and improving search rankings for key product terms.
+- **Reduced review bottlenecks**—Developed and implemented a structured review workflow between documentation, product, engineering, and QA, cutting average review cycles from two weeks to three days.
+- **Improved SEO and navigation**—Revamped the information architecture of the IPP documentation suite using Paligo and analytics data, reducing bounce rates by 18% and improving search rankings for key product terms.
 
 Every bullet should answer the question: *why does this matter to them?* State the impact first, then explain the work. If you cannot identify an impact, ask yourself whether the bullet is worth including.
 

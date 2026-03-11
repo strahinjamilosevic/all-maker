@@ -102,10 +102,10 @@ For a live session:
 
 #### Red flags
 
-- **Unreasonably large take-home tasks** — An assessment that resembles an actual work task might be just that—unpaid work. Unfortunally, as a translator I have experienced this many times. 5-10 pages, then the job ad disappears.
-- **A completely silent evaluator in a live session** — An interviewer who gives zero reactions, asks no follow-up questions, and offers no engagement may not be evaluating you at all—or does not know the domain well enough to respond to what you are doing.
-- **The "sample" is clearly a real internal document** — If the content you are asked to improve reads like it was pulled from an actual product in progress, it probably was. That is not a test. That is, again, unpaid work.
-- **Testing tool knowledge instead of thinking** — Assessments that focus on whether you have used a specific framework, CMS, or toolchain—rather than on your reasoning, communication, or design decisions—often signal that the team does not have a clear picture of what the role actually requires.
+- **Unreasonably large take-home tasks**—An assessment that resembles an actual work task might be just that—unpaid work. Unfortunally, as a translator I have experienced this many times. 5-10 pages, then the job ad disappears.
+- **A completely silent evaluator in a live session**—An interviewer who gives zero reactions, asks no follow-up questions, and offers no engagement may not be evaluating you at all—or does not know the domain well enough to respond to what you are doing.
+- **The "sample" is clearly a real internal document**—If the content you are asked to improve reads like it was pulled from an actual product in progress, it probably was. That is not a test. That is, again, unpaid work.
+- **Testing tool knowledge instead of thinking**—Assessments that focus on whether you have used a specific framework, CMS, or toolchain—rather than on your reasoning, communication, or design decisions—often signal that the team does not have a clear picture of what the role actually requires.
 
 ## Leadership approval
 
@@ -141,15 +141,15 @@ Before any salary conversation, know what the market looks like for your profess
 
 Good places to research:
 
-- [TechPays](https://techpays.com/) — crowdsourced tech compensation data by role, company, and country
-- [Glassdoor](https://www.glassdoor.com) — salary ranges and employee reviews
-- [Blind](https://www.teamblind.com) — candid salary discussions from verified employees
-- [PayScale](https://www.payscale.com) — role and location-based salary data
-- [Salary Expert](https://www.salaryexpert.com) — regional and global compensation benchmarks
-- [Salary.com](https://www.salary.com) — US-focused with detailed breakdowns
-- [Indeed](https://www.indeed.com) — job posting salary data aggregated by role
+- [TechPays](https://techpays.com/)—crowdsourced tech compensation data by role, company, and country
+- [Glassdoor](https://www.glassdoor.com)—salary ranges and employee reviews
+- [Blind](https://www.teamblind.com)—candid salary discussions from verified employees
+- [PayScale](https://www.payscale.com)—role and location-based salary data
+- [Salary Expert](https://www.salaryexpert.com)—regional and global compensation benchmarks
+- [Salary.com](https://www.salary.com)—US-focused with detailed breakdowns
+- [Indeed](https://www.indeed.com)—job posting salary data aggregated by role
 - Professional forums and communities in your field
-- LLMs — useful for getting a quick ballpark, especially when you phrase the question with specific context (role, seniority, city, company size)
+- LLMs—useful for getting a quick ballpark, especially when you phrase the question with specific context (role, seniority, city, company size)
 
 Know your number before the call.
 

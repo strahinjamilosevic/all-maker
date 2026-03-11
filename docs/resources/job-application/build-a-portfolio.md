@@ -18,22 +18,22 @@ This does not mean skipping them on the resume. It means giving them the space t
 
 Structure each case study using four sections:
 
-- **Why** — What problem existed and why it mattered. What were the business or user consequences of leaving it unsolved?
-- **What** — The situation as you found it. The constraints, the context, the starting point.
-- **How** — What you did. Be specific about your process, the decisions you made, who you worked with, and the tools or methods involved.
-- **Result** — What changed. What improved, what was built, what risk was reduced. Connect it to real impact where you can.
+- **Why**—What problem existed and why it mattered. What were the business or user consequences of leaving it unsolved?
+- **What**—The situation as you found it. The constraints, the context, the starting point.
+- **How**—What you did. Be specific about your process, the decisions you made, who you worked with, and the tools or methods involved.
+- **Result**—What changed. What improved, what was built, what risk was reduced. Connect it to real impact where you can.
 
 Here is an example from my own projects:
 
 > **Enable a non-REST platform to scale through modern API tooling**
 >
-> *Why* — The Terminal API is foundational to in-person payments, but its legacy structure made it difficult to understand, maintain, and integrate with modern developer tooling. Improving its accessibility was critical for long-term platform scalability and developer trust.
+> *Why*—The Terminal API is foundational to in-person payments, but its legacy structure made it difficult to understand, maintain, and integrate with modern developer tooling. Improving its accessibility was critical for long-term platform scalability and developer trust.
 >
-> *What* — The Terminal API is based on the nexo retailer protocol, not REST. For years, its only reference lived on a single page assembled from many HTML files, making it hard to navigate and incompatible with our OpenAPI-based API Explorer.
+> *What*—The Terminal API is based on the nexo retailer protocol, not REST. For years, its only reference lived on a single page assembled from many HTML files, making it hard to navigate and incompatible with our OpenAPI-based API Explorer.
 >
-> *How* — I mapped the full API structure by reconciling the official nexo PDF specification, existing documentation, and the OpenAPI requirements of our API Explorer tooling. I coordinated work between the team owning the Terminal API implementation in C and the platform team responsible for API reference pipelines. We created a Python script to generate OpenAPI specs our tooling could consume and introduced a new page type in the API Explorer to present the API structure by request type.
+> *How*—I mapped the full API structure by reconciling the official nexo PDF specification, existing documentation, and the OpenAPI requirements of our API Explorer tooling. I coordinated work between the team owning the Terminal API implementation in C and the platform team responsible for API reference pipelines. We created a Python script to generate OpenAPI specs our tooling could consume and introduced a new page type in the API Explorer to present the API structure by request type.
 >
-> *Result* — The migration brought a critical legacy API into the standard developer experience without altering its underlying protocol. It reduced long-term maintenance risk, improved discoverability, and increased confidence in a globally used payments API.
+> *Result*—The migration brought a critical legacy API into the standard developer experience without altering its underlying protocol. It reduced long-term maintenance risk, improved discoverability, and increased confidence in a globally used payments API.
 
 Link the actual output wherever you can—the page, the docs, the reference, the tool. The written account matters, but the artifact is what makes it real.
 
@@ -58,15 +58,15 @@ The general path for a free static portfolio hosted on GitHub Pages:
 1. **Create a GitHub account** at [github.com](https://github.com) if you do not have one.
 2. **Create a repository** named exactly `yourusername.github.io`.
 3. **Pick a template** from [HTML5 UP](https://html5up.net/)—clean, free, and professional. Download and customize it.
-4. **Add your content** — your case studies, your writing samples, your contact info.
+4. **Add your content**—your case studies, your writing samples, your contact info.
 5. **Push to GitHub**. GitHub Pages will publish your site automatically.
-6. **Visit `yourusername.github.io`** — it is live.
+6. **Visit `yourusername.github.io`**—it is live.
 
 If you prefer not to work with code, there are many free alternatives work well for a portfolio or online resume. Here are some poeple use a lot:
 
-- **[WordPress.com](https://beginnersbook.com/2013/10/create-a-free-website-on-wordpress/)** — Beginner-friendly, no code required. Good step-by-step guide at that link.
-- **[Teal](https://www.tealhq.com/tools/resume-builder)** — Portfolio and resume builder aimed at job seekers. Guided and free to start.
-- **[Medium](https://medium.com)** — If your portfolio is primarily writing, publishing on Medium gives you an instant audience and a clean reading experience without building anything.
+- **[WordPress.com](https://beginnersbook.com/2013/10/create-a-free-website-on-wordpress/)**—Beginner-friendly, no code required. Good step-by-step guide at that link.
+- **[Teal](https://www.tealhq.com/tools/resume-builder)**—Portfolio and resume builder aimed at job seekers. Guided and free to start.
+- **[Medium](https://medium.com)**—If your portfolio is primarily writing, publishing on Medium gives you an instant audience and a clean reading experience without building anything.
 
 ## Building with an LLM
 

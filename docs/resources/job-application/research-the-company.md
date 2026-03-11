@@ -18,18 +18,18 @@ Talk to people in the field. Read job postings widely—not just the one you wan
 
 Once you know the general expectations and, hopefully, the specific company framework make sure to note:
 
-- **What they do** — Not the marketing pitch. The actual *product*, the *business* model, the *customers* they serve.
-- **Where they are in their journey** — Early stage startup, scaling company, established enterprise. This shapes what they need from you.
-- **What they talk about publicly** — Their blog, their documentation, their changelog, their social presence. What values come through? What tone do they use? What is missing?
-- **Who works there** — Look at the team on LinkedIn. What backgrounds do the people in your target function have? What does the person you would report to care about?
+- **What they do**—Not the marketing pitch. The actual *product*, the *business* model, the *customers* they serve.
+- **Where they are in their journey**—Early stage startup, scaling company, established enterprise. This shapes what they need from you.
+- **What they talk about publicly**—Their blog, their documentation, their changelog, their social presence. What values come through? What tone do they use? What is missing?
+- **Who works there**—Look at the team on LinkedIn. What backgrounds do the people in your target function have? What does the person you would report to care about?
 
 ## The role
 
 Read the job description carefully and read between the lines:
 
-- **What they say they need** — The listed requirements, tools, and responsibilities. This is important, especially for the interviews later but not the most important.
-- **What they actually need** — Sometimes the job description was written by someone who does not fully understand the role. Look for the problem underneath the requirements. This *is* important.
-- **What they might be missing** — Visit their documentation, their help center, their API references. What would you fix first? What is clearly a work-in-progress? What is missing entirely?
+- **What they say they need**—The listed requirements, tools, and responsibilities. This is important, especially for the interviews later but not the most important.
+- **What they actually need**—Sometimes the job description was written by someone who does not fully understand the role. Look for the problem underneath the requirements. This *is* important.
+- **What they might be missing**—Visit their documentation, their help center, their API references. What would you fix first? What is clearly a work-in-progress? What is missing entirely?
 
 Coming to an interview knowing what they have and having a clear opinion on what could be better is unusual. It signals that you take the work seriously and that you have already started thinking like someone on the team.
 
@@ -41,11 +41,11 @@ Good places to look: [Glassdoor](https://www.glassdoor.com), [Blind](https://www
 
 When reading, pay attention to the things that are hard to evaluate from a job posting:
 
-- **Why is the role available?** — Is this a new position or a backfill? High turnover in a function is a signal worth digging into. Look for patterns in reviews rather than isolated complaints.
-- **Reality versus expectations** — Why did people join and did it match what they were told? The gap between the pitch and the experience shows up clearly in reviews from people who have left.
-- **Leadership and team dynamics** — How people describe their managers and the decision-making culture tells you more than any company value statement. Look for consistency across reviews.
-- **What have the biggest challenges been?** — Every company has them. The question is whether they are the kind of challenges you find interesting and can contribute to, or the kind that will drain you.
-- **Career growth** — Do roles here evolve, or do people plateau? Are there examples of people growing within the function or does the company hire externally for senior positions?
+- **Why is the role available?**—Is this a new position or a backfill? High turnover in a function is a signal worth digging into. Look for patterns in reviews rather than isolated complaints.
+- **Reality versus expectations**—Why did people join and did it match what they were told? The gap between the pitch and the experience shows up clearly in reviews from people who have left.
+- **Leadership and team dynamics**—How people describe their managers and the decision-making culture tells you more than any company value statement. Look for consistency across reviews.
+- **What have the biggest challenges been?**—Every company has them. The question is whether they are the kind of challenges you find interesting and can contribute to, or the kind that will drain you.
+- **Career growth**—Do roles here evolve, or do people plateau? Are there examples of people growing within the function or does the company hire externally for senior positions?
 
 No company will have a perfect profile. What you are looking for is clarity—enough to go in with honest expectations and the right questions ready for the interviews.
 
@@ -53,13 +53,13 @@ No company will have a perfect profile. What you are looking for is clarity—en
 
 Some patterns are worth taking seriously before you invest time in a full application:
 
-- **The role has been reposted multiple times** — Check how long the listing has been active and whether it has appeared before. A role that cannot be filled is worth asking about.
-- **Vague or contradictory job descriptions** — If the posting cannot explain what the role does, the team likely cannot either. Misaligned expectations show up fast once you are in the seat.
-- **Recurring complaints about the same manager or leadership** — One bad review is noise. Five reviews over two years saying the same thing about the same person is a pattern.
-- **High turnover in the function** — If you can see on LinkedIn that the last three people in this role stayed less than a year, ask why before assuming you will be different.
-- **Poor communication during the process** — How a company treats candidates is a preview of how they treat employees. Ghosting, last-minute reschedules, or disorganized processes are not accidents.
-- **Pressure to skip steps or move unreasonably fast** — Urgency that benefits only them is not a compliment. It is a signal that they have a problem they need to fill quickly.
-- **Compensation well below market with vague promises of future rewards** — Equity and bonuses that have never vested are not compensation. Know your number before you get attached to the opportunity. This is the main chance to establish your salary base level. 
+- **The role has been reposted multiple times**—Check how long the listing has been active and whether it has appeared before. A role that cannot be filled is worth asking about.
+- **Vague or contradictory job descriptions**—If the posting cannot explain what the role does, the team likely cannot either. Misaligned expectations show up fast once you are in the seat.
+- **Recurring complaints about the same manager or leadership**—One bad review is noise. Five reviews over two years saying the same thing about the same person is a pattern.
+- **High turnover in the function**—If you can see on LinkedIn that the last three people in this role stayed less than a year, ask why before assuming you will be different.
+- **Poor communication during the process**—How a company treats candidates is a preview of how they treat employees. Ghosting, last-minute reschedules, or disorganized processes are not accidents.
+- **Pressure to skip steps or move unreasonably fast**—Urgency that benefits only them is not a compliment. It is a signal that they have a problem they need to fill quickly.
+- **Compensation well below market with vague promises of future rewards**—Equity and bonuses that have never vested are not compensation. Know your number before you get attached to the opportunity. This is the main chance to establish your salary base level. 
 
 ## Connecting your experience
 
