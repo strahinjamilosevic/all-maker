@@ -37,4 +37,8 @@ leatherworking:
 leadership:
   label: Leadership
   permalink: /leadership
+crafting:
+  label: Crafting
+  permalink: /crafting
+
 
