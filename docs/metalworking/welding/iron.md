@@ -28,7 +28,7 @@ Enter the wire brush attachments. I ended up using different shapes of it on my 
 
 Final step was to paint it. Since I was always wary of the brush-using arts and crafts due to its liquid messiness, I opted for a cop-out approach—spray in a can.
 
-<div style={{textAlign: 'center'}}>
+<div style={{textAlign: 'left'}}>
   <img src="/img/metalworking/welding/iron3.jpg" alt="Rusty iron" style={{maxWidth: '400px', width: '100%'}} />
 </div>
 

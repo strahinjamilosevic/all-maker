@@ -23,9 +23,7 @@ My idea is to share the outcome, demo the process, and pass on the learnings fro
 8. [Chest](/docs/metalworking/welding/chest)
 9. [Electrolysis](/docs/metalworking/welding/electrolysis)
 
-<div style={{textAlign: 'center'}}>
-  <img src="/img/metalworking/welding/beardo.jpg" alt="Me in the workshop" style={{maxWidth: '400px', width: '100%'}} />
-</div>
+<img src="/img/metalworking/welding/beardo.jpg" alt="Me in the workshop" style={{maxWidth: '400px', width: '100%'}} />
 
 
 ## See also
