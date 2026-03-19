@@ -64,6 +64,6 @@ Three hours of hammering and I ended up with something questionably pointier tha
 
 In all honesty, the bevel was there, and the overall shape of the blade. It did look quite ugly with the square end of the bar instead of the handle. 
 
-But I did it. I felt a sense of accomplishment and have devised an entire plan what I want fixed next week and how to proceed. It was of course, not entirely correct—but live and learn.
+But I did it. I felt a sense of accomplishment and devised an entire plan what I wanted to fix the following week. It was of course, not entirely correct—but live and learn.
 
 <img src="/img/metalworking/blacksmithing/f2-12.jpg" alt="Knife shape" style={{maxWidth: '400px', width: '100%'}} />
