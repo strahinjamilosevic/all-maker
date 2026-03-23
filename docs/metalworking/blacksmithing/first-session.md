@@ -8,7 +8,7 @@ The first evening, we were welcomed by two lovely Dutch gentlemen that both had 
 
 I guess there's something about programming the entire day that makes you want to pick up a hammer, right? :)
 
-Our task was to familiarize ourselves with the tools, the process, and do a small project - forge a coat hanger from a square iron bar.
+Our task was to familiarize ourselves with the tools, the process, and do a small project—forge a coat hanger from a square iron bar.
 
 ## Pick a hammer, any hammer!
 
