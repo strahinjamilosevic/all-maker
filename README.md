@@ -1,4 +1,4 @@
-# Strahinja the all maker
+# Strahinja the all-maker
 
 Hi, I'm Stra and this is my little personal chunk of internet space. During the day, I work as a technical writer documenting software solutions mostly, but not only, in the fintech domain.
 
