@@ -25,13 +25,13 @@ We were alerady hanging out in her forge so we split the work—Jovana would mak
 
 Multiple things. Jovana had to:
 
-1. Measure our beautiful skulls and tailor the steel to the shape
-2. Decorate the helmets somehow so they look somewhat realistic
+1. Measure our beautiful skulls and tailor the steel to the shape.
+2. Decorate the helmets somehow so they look somewhat realistic.
 
 I had to:
 
-1. Find some wood that could look like bone
-2. Carve out 4 horn-looking pieces and attach them somehow
+1. Find some wood that could look like bone.
+2. Carve out 4 horn-looking pieces and attach them somehow.
 
 ## Outcome
 
