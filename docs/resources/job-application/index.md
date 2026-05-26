@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
-title: Applying for jobs
-slug: job-application
+title: Job search
+slug: job-search
 description: How to research, prepare, and present yourself to get the job you want.
 ---
 
