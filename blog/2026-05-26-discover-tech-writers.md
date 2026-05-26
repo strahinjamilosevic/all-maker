@@ -2,7 +2,7 @@
 slug: discover-tech-writers
 title: Discovering technical writers
 authors: [strahinja]
-tags: [opinion, career]
+tags: [opinion, career, technical writing]
 description: A mental model for hiring technical writers across specializations.
 ---
 
