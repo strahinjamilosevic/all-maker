@@ -143,7 +143,7 @@ const config: Config = {
     },
     footer: {
       style: 'light',
-      copyright: `© 2026 Strahinja Milošević | Tech, crafts, writing, and other shenanigans | <a href="/blog/rss.xml" target="_blank" rel="noopener noreferrer">RSS</a>`,
+      copyright: `© 2026 Strahinja Milošević | Tech, crafts, writing, and other shenanigans | <a href="/blog/rss.xml" target="_blank" rel="noopener noreferrer">RSS</a><br/>Part of the <a href="https://caseyrfsmith.github.io/webring/">tech writing blog webring</a>`,
     },
     prism: {
       theme: prismThemes.github,
