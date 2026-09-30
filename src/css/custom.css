@@ -49,12 +49,13 @@
   gap: 0.20rem;
 }
 
-.navbar__items--right > .navbar__item {
+/* Strip the wrapper padding on html items (icons); text links keep theirs */
+.navbar__items--right > .navbar__item:not(.navbar__link) {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
 
-/* Navbar icon-only links (Portfolio, LinkedIn, GitHub) */
+/* Navbar icon-only links (LinkedIn, GitHub) */
 .navbar-icon-link {
   display: flex !important;
   align-items: center;
@@ -71,39 +72,15 @@
   display: block;
 }
 
-/* Navbar text link rendered through an html item (Portfolio) */
-.navbar-text-link {
-  padding: 0.25rem 0.5rem;
-}
-
-/* Navbar resume button */
-.navbar-resume-button {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  margin: 0 0.5rem;
-  padding: 0.4rem 0.9rem;
-  border-radius: 0.75rem;
-  background-color: #1a7f37;
-  color: #fff;
-  font-weight: var(--ifm-font-weight-semibold);
-  line-height: 1.25;
-  white-space: nowrap;
-  transition: background-color var(--ifm-transition-fast) var(--ifm-transition-timing-default);
-}
-
-.navbar-resume-button:hover {
-  background-color: #176f2c;
-  color: #fff;
-  text-decoration: none;
-}
-
-/* Mobile sidebar: group icon links on one row instead of stacking */
+/* Mobile sidebar: icon links share one row at the bottom, left-aligned with the text links */
 @media (max-width: 996px) {
-  .navbar-sidebar .menu__list-item:has(.navbar-icon-link),
-  .navbar-sidebar .menu__list-item:has(.navbar-icon-link) > .navbar__item {
+  .navbar-sidebar .menu__list-item:has(.navbar-icon-link) {
     display: inline-flex;
     align-items: center;
+  }
+
+  .navbar-sidebar .navbar-icon-link {
+    padding: var(--ifm-menu-link-padding-vertical) 0 var(--ifm-menu-link-padding-vertical) var(--ifm-menu-link-padding-horizontal) !important;
   }
 }
 
