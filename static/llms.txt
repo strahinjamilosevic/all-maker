@@ -35,6 +35,7 @@
   - [Build a portfolio](https://all-maker.com/docs/resources/job-application/build-a-portfolio/): How to create and host a portfolio site for free.
   - [Write the cover letter](https://all-maker.com/docs/resources/job-application/write-the-cover-letter/): How to write a cover letter that makes you stand out.
   - [Prepare for the interviews](https://all-maker.com/docs/resources/job-application/prepare-for-interviews/): How to prepare for each round of the interview process.
+- [API governance framework](https://all-maker.com/docs/resources/api-governance/): A framework for designing and documenting APIs, with the decisions every team needs to make, examples, and templates to record them.
 - [Docs project management](https://all-maker.com/docs/resources/docs-pm-framework/): A framework for embedding documentation into planning, development, UAT, and release processes. Work in progress.
 
 ## Crafting projects
