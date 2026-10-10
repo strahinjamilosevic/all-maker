@@ -2,6 +2,7 @@
 sidebar_position: 1
 title: Leatherworking
 description: Learning leatherworking from scratch, starting with handmade EDC card wallets.
+image: /img/leatherworking/l1.jpg
 ---
 
 Let's go on an adventure. This is a new thing I am trying to get good at - leatherworking. I plan to post more of the process, learnings, and the finished products soon. Stay tuned!

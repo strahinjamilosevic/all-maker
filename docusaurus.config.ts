@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'All-maker',
   tagline: 'Technical writing and other shenanigans',
-  favicon: 'img/logo.png',
+  favicon: 'favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -51,9 +51,18 @@ const config: Config = {
     {
       tagName: 'link',
       attributes: {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '192x192',
+        href: '/icon-192.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
         rel: 'apple-touch-icon',
         sizes: '180x180',
-        href: '/img/logo.png',
+        href: '/apple-touch-icon.png',
       },
     },
     {

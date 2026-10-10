@@ -2,6 +2,7 @@
 sidebar_position: 3
 title: Welding table
 description: Building a sturdy all-metal welding table from square steel pipes and scrap galvanized sheet on a budget.
+image: /img/metalworking/welding/welding-table.jpg
 sidebar_label: "Welding table"
 ---
 

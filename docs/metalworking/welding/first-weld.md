@@ -2,6 +2,7 @@
 sidebar_position: 1
 title: First weld
 description: "My first stick welding project: a foldable welding table made from square steel pipes to fit in a car trunk."
+image: /img/metalworking/welding/firstweld2.jpg
 ---
 
 I initially had my uncle help me set up the stick welder. I bought a cheap one on AliExpress that stated it could push 300 amps. To our surprise, it worked quite well.

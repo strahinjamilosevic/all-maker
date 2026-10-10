@@ -2,6 +2,7 @@
 sidebar_position: 4
 title: Finish the knife
 description: "Finishing the hand-forged knife: drawing out and curling the handle, then the final touches."
+image: /img/metalworking/blacksmithing/f4-15.jpg
 sidebar_label: "Finish the knife"
 ---
 

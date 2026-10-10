@@ -2,6 +2,7 @@
 sidebar_position: 6
 title: Coffee table
 description: Welding a cube coffee table from square steel pipes with an oak floorboard top, and dealing with warping.
+image: /img/metalworking/welding/coffeetable.jpg
 sidebar_label: "Coffee table"
 ---
 

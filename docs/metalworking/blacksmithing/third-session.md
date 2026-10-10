@@ -2,6 +2,7 @@
 sidebar_position: 3
 title: Third session
 description: Beveling the blade, a run-in with a manual steel press, and drawing out a long rod for the knife handle.
+image: /img/metalworking/blacksmithing/f3-10.jpg
 sidebar_label: "Forge the handle"
 ---
 
