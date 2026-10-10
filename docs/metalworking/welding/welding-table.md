@@ -16,7 +16,7 @@ The idea was simple: create the main workstation to place at the center of the s
 
 ## Challenge
 
-I was still buying square steel pipes cut to size from the same metalworking shop. The overall materials were not too expensive, but I had no idea what to use for the top and have it conduct electricity. When they suggested to have a huge metal sheet cut to dimensions and laid on top of the construction, it turned out to be too much money for a simple project and I could not fit it into my car.
+I was still buying square steel pipes cut to size from the same metalworking shop. The overall materials were not too expensive, but I had no idea what to use for the top and have it conduct electricity. When they suggested having a huge metal sheet cut to dimensions and laid on top of the construction, it turned out to be too much money for a simple project and I could not fit it into my car.
 
 I did have some leftover galvanized sheet metal rolled up at the back from the time we had built the house. It was very thin—used for the roof if I remember correctly. I tried whether I could weld on it and it worked.  
 
@@ -26,7 +26,7 @@ It was rather effortless to weld the pipes. By then I had learned how to prepare
 
 I had previously tested what the easiest way to protect the steel from corrosion would be. Spray in a can again! Worked remarkably well and the steel stayed protected for years. It probably took me two passes with the spray, and it dried fast. Amazing!
 
-The galvanized steel top ended up attached with the self-drilling steel screws. Easy to use—you just need a screw drill. The one downside with the reused sheet of galvanized steel was that it was too thin and it made a horrible racket when I hammered on it. So I used some fireproof spongy material I had lying around. I think it had been used for isolation.
+The galvanized steel top ended up attached with the self-drilling steel screws. Easy to use—you just need a screw drill. The one downside with the reused sheet of galvanized steel was that it was too thin and it made a horrible racket when I hammered on it. So I used some fireproof spongy material I had lying around. I think it had been used for insulation.
 
 At the corner, I managed to mount the vise that could rotate. And down the line I ended up making makeshift vises to use as welding templates—so I was happy!
 

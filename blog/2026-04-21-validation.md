@@ -3,14 +3,14 @@ slug: validation
 title: Validation craving in a thankless job
 authors: [strahinja]
 tags: [opinion, career]
-description: Stop expecting a tap on the back. Change the paradigm instead.
+description: Stop expecting a pat on the back. Change the paradigm instead.
 ---
 
 You can:
 
 1. Let it fester inside and slowly kill you. Be a man, grit your teeth and take it.
 2. Frantically search for jobs at all times until your checking of LinkedIn turns into therapy through social media every time you have a bad experience at work.
-3. Change the paradigm. Stop expecting a tap on the back when you think you did your job well. They probably don't even think about whether you did or did not do anything.
+3. Change the paradigm. Stop expecting a pat on the back when you think you did your job well. They probably don't even think about whether you did or did not do anything.
 
 <!-- truncate -->
 

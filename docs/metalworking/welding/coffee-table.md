@@ -10,7 +10,7 @@ It was time to get a coffee table.
 
 ## Idea
 
-My designs at the time relied heavily on thousands of Pinterests images I saved while late-night doom-scrolling. I knew I wanted it to be out of metal, but not completely because I did not want a rickety-rackety noise sounding off every time I put the mug down.
+My designs at the time relied heavily on thousands of Pinterest images I saved while late-night doom-scrolling. I knew I wanted it to be out of metal, but not completely because I did not want a rickety-rackety noise sounding off every time I put the mug down.
 
 I found some leftover oak hardwood floor from the renovations, so I decided to use that as the top. And I kind of liked those little cube, welded coffee tables I saw online.
 
@@ -27,13 +27,13 @@ The task breakdown was:
 
 ## Outcome
 
-Wouldn't you know it, metal bends when heated! The pipes I used were industrial made and drawn out under a lot of pressure. These don't always have identical consistency across their length and when heated they twist and warp.
+Wouldn't you know it, metal bends when heated! The pipes I used were industrially made and drawn out under a lot of pressure. These don't always have identical consistency across their length and when heated they twist and warp.
 
 So I used some L-shaped profiles to first weld a jig that I could use as a template. Then I used metal clamps to fix the pipes into a perfect cube shape. I tack-welded the cube into place, and started working on my main structural welds, one by one. I realigned the structure after every warp with a hammer.
 
 In the end I used an angle grinder to fix the welds so the metal does not protrude anywhere. Then used a wire brush to smooth it over, and decided to leave it unpainted. It retained the "industrial" look that the internet assured me everybody liked.
 
-Finally, glued the hardwood floor pieces wogether and cut them to the exact shape of the top. Once it fit flush, I realized that I had no plan to actually attach the wood. I quickly cut two strips out of a metal sheet, sanded them, and drilled the holes. Then, I welded them on the bottom part of the top pipes so I can use the holes to attach the top with self-drilling screws. Once the top was perfectly level, I welded the strips and screwed it in from below.  
+Finally, I glued the hardwood floor pieces together and cut them to the exact shape of the top. Once it fit flush, I realized that I had no plan to actually attach the wood. I quickly cut two strips out of a metal sheet, sanded them, and drilled the holes. Then, I welded them on the bottom part of the top pipes so I can use the holes to attach the top with self-drilling screws. Once the top was perfectly level, I welded the strips and screwed it in from below.  
 
 ![Coffee table](/img/metalworking/welding/coffeetable.jpg)
 

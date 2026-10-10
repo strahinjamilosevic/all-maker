@@ -10,9 +10,9 @@ You reading these blogs already shows initiative. To learn, to grow.
 
 Already excellent—not everybody has it by nature. Some of us had to be coerced into being ambitious or wanting more.
 
-I am firm believer that most people do not yearn for yachts and walks of fame—just stability and peace of mind. I know I do, but to the natural builders—all the admiration and appreciation, you make the world move. I think I ended up as one of you due to education, necessity, and a little bit chance.
+I am a firm believer that most people do not yearn for yachts and walks of fame—just stability and peace of mind. I know I do, but to the natural builders—all the admiration and appreciation, you make the world move. I think I ended up as one of you due to education, necessity, and a little bit of chance.
 
-Now that this is out of the way, let's address the AI-generated elephant in the room. Job searches have become an incessant, shameless, self-promoting part-time jobs. Full-time even.
+Now that this is out of the way, let's address the AI-generated elephant in the room. Job searches have become an incessant, shameless, self-promoting part-time job. Full-time even.
 
 <!-- truncate -->
 
@@ -30,7 +30,7 @@ Post one witty and insightful post per week. A cheat sheet with trade secrets yo
 
 ### Give respect, get respect
 
-Simple concept really. Not to go full woke here, but personal, cultural, and professional differences are a reality. Disagreeing and pushing back in discussions is OK-even a good review process for ideas. Doing it respectfully, kindly even, working towards a positive outcome together lets others see you as a mature, trustful person whose opinion they will ask for next time.
+Simple concept really. Not to go full woke here, but personal, cultural, and professional differences are a reality. Disagreeing and pushing back in discussions is OK—even a good review process for ideas. Doing it respectfully, kindly even, working towards a positive outcome together lets others see you as a mature, trustworthy person whose opinion they will ask for next time.
 
 ### Listen more than talk
 
@@ -46,7 +46,7 @@ The reason I include it in the list is that in online meetings this happens all 
 
 Often, people will not know what you have going on. They might not even know what you do exactly.
 
-Get away from comments like "You should know that", "It was in the PRD", or simply sending links to 20 page documents instead of answering the question.
+Get away from comments like "You should know that", "It was in the PRD", or simply sending links to 20-page documents instead of answering the question.
 
 If a person is making themselves vulnerable in public asking you for a clarification, acknowledging that not everybody is on the same page can be beneficial. Use the opportunity to align everybody, direct them to additional resources, and keep the topic of the meeting still the main focus.
 

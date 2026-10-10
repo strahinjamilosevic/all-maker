@@ -4,7 +4,7 @@ title: Lebanese flatbreads
 description: Recipes I enjoy making and consuming.
 ---
 
-I got this recipe from my mom, I do not know where she got it from but we've been making these flatbreads for years. People can seem to get enough of them and they are incredibly easy to make.
+I got this recipe from my mom, I do not know where she got it from but we've been making these flatbreads for years. People can't seem to get enough of them and they are incredibly easy to make.
 
 <img src="/img/cooking/lepinje1.jpg" alt="Lepinjice" style={{maxWidth: '400px', width: '100%'}} />
 
@@ -45,7 +45,7 @@ But I found that this process yields the same, even better results. It is easier
 
 Notice that I am not using two bowls - one to mix and a bigger one to let it rise. I do not knead the dough with my hands at this stage. 
 
-I just add a bit more olive oil and mix it all well. The dough ends up being oily enough so you can leave in the mixing bowl without the fear that it gets stuck.
+I just add a bit more olive oil and mix it all well. The dough ends up being oily enough so you can leave it in the mixing bowl without the fear that it gets stuck.
 
 ## Step 3: Form the flatbreads
 
@@ -59,7 +59,7 @@ I just add a bit more olive oil and mix it all well. The dough ends up being oil
    The dough should be both oily and airy. The consistency should allow it to spill out of the bowl, but not be runny like for pancakes.
    :::
 4. Oil up your hands a bit. The dough should have mostly flattened out by now.
-5. Form between 8 an 16 buns of dough and spread them on the baking paper.
+5. Form between 8 and 16 buns of dough and spread them on the baking paper.
    :::tip
    I use the spatula for this as well. I separate chunks and place them on the baking paper. I make sure they are about 1 cm (up to half an inch) thick.
    :::
@@ -80,21 +80,21 @@ By now, the buns should not be kind of gnarly anymore. Their surface should have
    :::
    <img src="/img/cooking/lepinje3.jpg" alt="Lepinjice" style={{maxWidth: '400px', width: '100%'}} />
 
-3. When their surface become tight-smooth, they are done.
+3. When their surface becomes tight-smooth, they are done.
 
 
 Again, try to find the moment just before they are about to become golden. But if they do, you've gone too far and they will form a crust and be chewier. 
 
 As somebody who has accidentally done it many times, I can tell you that it's not the end of the world. But where these really hit the spot is when they are soft and airy, smelling of olive oil and freshly-baked goodness.
 
-## Bon apetit
+## Bon appétit
 That's it. These are stupid-easy to bake, even for beginners. For years, I was dreading baking but then finally understood that letting the dough rest and the yeast rise is most of the work.
 
 I don't have any specific "rules" on how to eat these, hell, I'm not even sure if these have anything to do with Lebanon :D
 
 What I sometimes do, though: I prepare a rub using olive oil, rosemary, peppercorn, and sea salt. I apply it with a silicone kitchen brush while they are still hot and let them cool off. 
 
-But you can eat them with anything. My children often eat them bare and other times put nutella on them. In any case, enjoy! 
+But you can eat them with anything. My children often eat them bare and other times put Nutella on them. In any case, enjoy! 
 
 Love, <br/>
 Stra

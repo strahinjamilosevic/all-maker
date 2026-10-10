@@ -12,7 +12,7 @@ A good cover letter is short. Three to four paragraphs. It does not need to summ
 
 The job of a cover letter is to make you stand out from the rest of the applicants. That means it has to be specific to the company, team, and role.
 
-This is why generic ones do not work. If you cannot pinpoint what draws you to this opportunity, take the time to think this through before applying. becasue sending a template with lazily swapped in terms will do you a disservice.
+This is why generic ones do not work. If you cannot pinpoint what draws you to this opportunity, take the time to think this through before applying, because sending a template with lazily swapped-in terms will do you a disservice.
 
 ## What to write
 
@@ -24,9 +24,9 @@ Speak to intrinsic motivation. Mention what excites you about the problem they a
 
 ### The connection
 
-Pick one or two specific experiences from your background that connect directly to what they need. Connect these experiences to what you identified that their company need.Show that you have read the job description, done your research, and identified where your skills meet their actual problem.
+Pick one or two specific experiences from your background that connect directly to what they need. Connect these experiences to what you identified that their company needs. Show that you have read the job description, done your research, and identified where your skills meet their actual problem.
 
-This is also the place to address something you noticed during your research. For example, ff their documentation has a clear gap and you have solved exactly that kind of problem before. Being specific about this demonstrates your proactive thinking about their work and helps you being notices in a sea of applications.
+This is also the place to address something you noticed during your research. For example, if their documentation has a clear gap and you have solved exactly that kind of problem before, say so. Being specific about this demonstrates your proactive thinking about their work and helps you get noticed in a sea of applications.
 
 ### The close
 
@@ -36,7 +36,7 @@ End simply and directly. Express that you would welcome the conversation. Do not
 
 - **Repeating the resume**—They have it.
 - **Clichés**—*I am a team player with a passion for excellence* communicates nothing. Cut anything generic.
-- **Templates**—Recruiters recognize them easiliy. Write something that sounds like you.
+- **Templates**—Recruiters recognize them easily. Write something that sounds like you.
 - **Opener filler**—Do not start with *I am writing to express my interest in the position of...*. Prolongs the piece too much and says nothing.
 - **Overselling**—Confidence is good. But be careful of empty boasts that could read as hollow and are hard to prove later.
 

@@ -30,14 +30,14 @@ This is usually the first conversation, often 30 minutes with a recruiter or HR 
 
 #### Red flags
 
-- The recruiter cannot explain what the team does, your future responsabilities, or what success measures in the first few months.
+- The recruiter cannot explain what the team does, your future responsibilities, or what success measures in the first few months.
 - Questions about why the role is available or how long it has been open are deflected or answered vaguely.
 - The compensation range from the ad is significantly lower, the questions deflected, or they are making you agree to a number before proceeding with the process.
 - The conversation feels entirely scripted and one-directional—they are reading from a checklist and there is no room for real dialogue.
 
 ## Team fit
 
-This is usually an interview with future colleagues and can be one or more rounds. Sometimes the technical assessment will preceed it. It gives the team you would join the chance to assess whether working with you day to day would be productive and comfortable. It is often more conversational than formal.
+This is usually an interview with future colleagues and can be one or more rounds. Sometimes the technical assessment will precede it. It gives the team you would join the chance to assess whether working with you day to day would be productive and comfortable. It is often more conversational than formal.
 
 #### What they are assessing
 
@@ -56,9 +56,9 @@ This is usually an interview with future colleagues and can be one or more round
 #### Red flags
 
 - Team members give vague or contradictory answers about decision-making or get into a discussion during the interview.
-- Everybody's new and full of praise—make sure you ask about this high turnover the future plans.
+- Everybody's new and full of praise—make sure you ask about this high turnover and the future plans.
 - The team cannot describe a good day at work or what they are most proud of building together.
-- No time for your questions. It seems that they just follewed the interview script and are not invested at all in hiring you.
+- No time for your questions. It seems that they just followed the interview script and are not invested at all in hiring you.
 
 ## Technical assessment
 
@@ -79,7 +79,7 @@ Here are general tips about this stage. However, I will soon create a series on 
 
 Many assessments, especially live ones, are deliberately confusing, contradictory, or seemingly impossible. This is intentional. Companies are testing how you think when the situation is unclear. 
 
-This approch is not new. Early into my career, these two lovely books gave my interviewing assumptions a much needed reality check:
+This approach is not new. Early into my career, these two lovely books gave my interviewing assumptions a much-needed reality check:
 
 - [How Would You Move Mount Fuji?: Microsoft's Cult of the Puzzle](https://www.amazon.com/How-Would-Move-Mount-Fuji/dp/0316778494) by William Poundstone was a great read in my early career. It explains their approach to puzzle-based interviews and how it helps discover creative, critical thinkers.
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) by Gayle Laakmann McDowell covers the same thinking applied to engineering assessments. 
@@ -102,7 +102,7 @@ For a live session:
 
 #### Red flags
 
-- **Unreasonably large take-home tasks**—An assessment that resembles an actual work task might be just that—unpaid work. Unfortunally, as a translator I have experienced this many times. 5-10 pages, then the job ad disappears.
+- **Unreasonably large take-home tasks**—An assessment that resembles an actual work task might be just that—unpaid work. Unfortunately, as a translator I have experienced this many times. 5-10 pages, then the job ad disappears.
 - **A completely silent evaluator in a live session**—An interviewer who gives zero reactions, asks no follow-up questions, and offers no engagement may not be evaluating you at all—or does not know the domain well enough to respond to what you are doing.
 - **The "sample" is clearly a real internal document**—If the content you are asked to improve reads like it was pulled from an actual product in progress, it probably was. That is not a test. That is, again, unpaid work.
 - **Testing tool knowledge instead of thinking**—Assessments that focus on whether you have used a specific framework, CMS, or toolchain—rather than on your reasoning, communication, or design decisions—often signal that the team does not have a clear picture of what the role actually requires.
@@ -120,7 +120,7 @@ Late in the process, you will often meet someone in a leadership position who wa
 
 #### How to prepare
 
-- Think bigger that your day-to-day tasks. Focus on impact, direction, and growth.
+- Think bigger than your day-to-day tasks. Focus on impact, direction, and growth.
 - Be ready to talk about your ambitions and how this role fits that trajectory.
 - Feel free to present how you see the company's challenges and direction. You have done the research—use it.
 - Prepare questions about how they see the company's market fit, future initiatives, and how you might fit into it.
@@ -128,12 +128,12 @@ Late in the process, you will often meet someone in a leadership position who wa
 #### Red flags
 
 - The leader is unfamiliar with the role, your candidacy, or what the team has been working on—suggesting that hiring decisions happen in isolation from leadership.
-- They do not really answer questions about the company's direction,  priorities, headcount, budget, or team growth.
+- They do not really answer questions about the company's direction, priorities, headcount, budget, or team growth.
 - The conversation feels like a formality rather than a genuine evaluation—the decision has already been made.
 
 ## Negotiating the offer
 
-An offer is not the end of the process. It is the start of a negotiation. To give yourself the best possible chance make sure to do your reseach as thoroughly as possible.
+An offer is not the end of the process. It is the start of a negotiation. To give yourself the best possible chance, make sure to do your research as thoroughly as possible.
 
 #### Research first
 

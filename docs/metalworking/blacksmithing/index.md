@@ -7,7 +7,7 @@ In February 2026, I embarked on a new adventure. Blacksmithing workshop at [Open
 
 The goal was to learn basic blacksmithing techniques using manual tools and traditional forges. The end product after four three-hour sessions—a knife of our design that we got to take home!
 
-The workshop was very straightforward—roll up your sleeves and hit some iron. The masters were great, the helped and corrected us along the way, and I fully recommend them. But as it really did not follow any enforced structure, I don't plan to document it here as an instructional booklet.
+The workshop was very straightforward—roll up your sleeves and hit some iron. The masters were great, they helped and corrected us along the way, and I fully recommend them. But as it really did not follow any enforced structure, I don't plan to document it here as an instructional booklet.
 
 So, this was our journey. And like most things in life, everything is better with a true friend. :)
 

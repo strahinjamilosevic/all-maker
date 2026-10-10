@@ -28,7 +28,7 @@ This was an opportunity to learn to recognize the temperature by the color of th
 
 The task was to hammer the edges of the square iron rod until it became round. First step was to make the end of the rod octagonal.
 
-This was straightforward but you quickly learn why you want a rounded hammer and not a flat one. As a beginner, if you hit the steel with the flat hammer incorrectly, and you will, it makes sharps dents in the iron.
+This was straightforward but you quickly learn why you want a rounded hammer and not a flat one. As a beginner, if you hit the steel with the flat hammer incorrectly, and you will, it makes sharp dents in the iron.
 
 The rounded off hammer does not. It is very forgiving and making an octagonal rod was not hard.
 
@@ -48,7 +48,7 @@ The point of this exercise was to curl the metal into a snail-like shape. This w
 
 ## Cold twist
 
-The next part was easy—create a decorative twist of the part that had not been rounded. I have done this before, so I just put it in the vice, grabbed it, and twist it cold.
+The next part was easy—create a decorative twist of the part that had not been rounded. I have done this before, so I just put it in the vice, grabbed it, and twisted it cold.
 
 The nice detail was the tool itself—a wrench that had a welded-on extension to give you more leverage when twisting. In any case, you don't need heat to twist the iron bar this way.
 

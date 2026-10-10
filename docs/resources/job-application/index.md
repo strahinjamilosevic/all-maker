@@ -7,7 +7,7 @@ description: How to research, prepare, and present yourself to get the job you w
 
 Before we begin, I need to mention a pretty big disclaimer. Every profession expects different things from candidates—and the documents that represent you should reflect that. A designer will lead with a visual portfolio. A mechanical engineer will reference projects and technical specs. A hairdresser will show before-and-afters. A technical writer, like me, sends a clean two-page CV, one if you can help it, and a link to writing samples.
 
-The mistake most people make is treating a job application as a document formatting exercise. It is not. It is a strategic process that starts well before you open a Word document or a Google Doc and continues well submitting the.
+The mistake most people make is treating a job application as a document formatting exercise. It is not. It is a strategic process that starts well before you open a Word document or a Google Doc and continues well after submitting the application.
 
 ## The essentials
 
