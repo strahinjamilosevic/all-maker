@@ -1,28 +1,47 @@
 # All-maker.com
 
-Personal site of Strahinja Milošević — Senior Technical Writer. Covers technical writing craft, career, and leadership, alongside hands-on making: metalworking, leatherworking, and cooking.
+> Personal site of Strahinja Milošević, Senior Technical Writer. Covers technical writing craft, career, and leadership, alongside hands-on making: metalworking, leatherworking, and cooking.
+
+- Portfolio: https://strahinjamilosevic.com/
+- Resume: https://all-maker.com/strahinja_milosevic_cv.pdf
+- RSS feed: https://all-maker.com/blog/rss.xml
 
 ## Blog
 
-- [About this blog](https://all-maker.com/blog/intro): Why I made this website and what to expect.
-- [Pizza](https://all-maker.com/blog/pizza): Technical writing as a craft, told through the metaphor of making pizza.
-- [Tech bro VS caveman](https://all-maker.com/blog/tech-bro): Technology overload and coping mechanisms.
-- [Use cheap tools until they break](https://all-maker.com/blog/cheap-tools): Invest in foundational skills before you get lost in the whirlpool of tooling options.
-- [Arguing with a robot](https://all-maker.com/blog/argue-with-robot): Using AI as a conversational sparring partner.
-- [Tech and art](https://all-maker.com/blog/tech-art): The relationship between technical work and creative expression.
-- [Alien tech writer](https://all-maker.com/blog/alien): What it feels like to be a technical writer.
-- [Redefining technical writing](https://all-maker.com/blog/redefining-technical-writing): Designing knowledge flows and how the product behaves is now the job.
-- [Life is an MVP](https://all-maker.com/blog/mvp): A minimum viable product is not a dirty word—it is an instrument of evolution.
-- [Tech writing career ladder](https://all-maker.com/blog/career): What seniority means, and how to advance on your technical writing journey.
-- [Emotional durability in leadership](https://all-maker.com/blog/emotional-durability): Why emotional endurance matters in leadership.
-
-## Crafting projects
-
-- [Introduction](https://all-maker.com/docs/intro): Overview of what I am making.
-- [Metalworking](https://all-maker.com/docs/metalworking/intro): Welding and blacksmithing projects.
-- [Leatherworking](https://all-maker.com/docs/leatherworking/intro): My journey into leatherworking.
-- [Cooking](https://all-maker.com/docs/cooking/flatbreads): Recipes I enjoy making and consuming.
+- [About this blog](https://all-maker.com/blog/intro/): Why I made this website and what to expect.
+- [Pizza](https://all-maker.com/blog/pizza/): Technical writing as a craft, told through the metaphor of making pizza.
+- [Tech bro VS caveman](https://all-maker.com/blog/tech-bro/): Technology overload and coping mechanisms.
+- [Use cheap tools until they break](https://all-maker.com/blog/cheap-tools/): Invest in foundational skills before you get lost in the whirlpool of tooling options.
+- [Arguing with a robot](https://all-maker.com/blog/argue-with-robot/): Using AI as a conversational sparring partner.
+- [Tech and art](https://all-maker.com/blog/tech-art/): The relationship between technical work and creative expression.
+- [Alien tech writer](https://all-maker.com/blog/alien/): What it feels like to be a technical writer.
+- [Redefining technical writing](https://all-maker.com/blog/redefining-technical-writing/): Designing knowledge flows and how the product behaves is now the job.
+- [Life is an MVP](https://all-maker.com/blog/mvp/): A minimum viable product is not a dirty word. It is an instrument of evolution.
+- [Tech writing career ladder](https://all-maker.com/blog/career/): What seniority means, and how to advance on your technical writing journey.
+- [Emotional durability in leadership](https://all-maker.com/blog/emotional-durability/): Why emotional endurance matters in leadership.
+- [Why all-maker](https://all-maker.com/blog/all-maker/): Where I come from and how I came to be who I am.
+- [Docs-as-code is not development](https://all-maker.com/blog/docs-as-code-not-dev/): Using the same tools does not mean every project is the same.
+- [Forget cheat sheets, work with people](https://all-maker.com/blog/cheat-sheets/): Job searching has become a part-time job. Here is what actually matters.
+- [Validation craving in a thankless job](https://all-maker.com/blog/validation/): Stop expecting a pat on the back. Change the paradigm instead.
+- [Discovering technical writers](https://all-maker.com/blog/discover-tech-writers/): A mental model for hiring technical writers across specializations.
 
 ## Resources
 
-- [Get started with technical writing](https://all-maker.com/docs/resources/get-started-with-technical-writing): A presentation about what technical writing is and isn't, and where to start.
+- [Get started with technical writing](https://all-maker.com/docs/resources/get-started-with-technical-writing/): A presentation about what technical writing is and isn't, and where to start.
+- [Talks](https://all-maker.com/docs/resources/talks/): Talks, presentations, and recordings about technical writing, documentation, and AI.
+- [Job search](https://all-maker.com/docs/resources/job-application/job-search/): How to research, prepare, and present yourself to get the job you want.
+  - [Research the company](https://all-maker.com/docs/resources/job-application/research-the-company/): How to research a company and role before you apply.
+  - [Tailor the resume](https://all-maker.com/docs/resources/job-application/tailor-the-resume/): How to structure and write a resume that gets you in the room.
+  - [Build a portfolio](https://all-maker.com/docs/resources/job-application/build-a-portfolio/): How to create and host a portfolio site for free.
+  - [Write the cover letter](https://all-maker.com/docs/resources/job-application/write-the-cover-letter/): How to write a cover letter that makes you stand out.
+  - [Prepare for the interviews](https://all-maker.com/docs/resources/job-application/prepare-for-interviews/): How to prepare for each round of the interview process.
+- [Docs project management](https://all-maker.com/docs/resources/docs-pm-framework/): A framework for embedding documentation into planning, development, UAT, and release processes. Work in progress.
+
+## Crafting projects
+
+- [Introduction](https://all-maker.com/docs/intro/): Overview of what I am making.
+- [Metalworking](https://all-maker.com/docs/metalworking/): Welding and blacksmithing projects.
+  - [Welding projects](https://all-maker.com/docs/metalworking/welding/): Home workshop projects with a stick welder, from a first weld to furniture.
+  - [Blacksmithing workshop](https://all-maker.com/docs/metalworking/blacksmithing/): Forging a knife over four sessions at a traditional forge in Amsterdam.
+- [Leatherworking](https://all-maker.com/docs/leatherworking/): My journey into leatherworking.
+- [Cooking: Lebanese flatbreads](https://all-maker.com/docs/cooking/flatbreads/): An easy, family flatbread recipe.
