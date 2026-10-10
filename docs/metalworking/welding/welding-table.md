@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Welding table
+description: Building a sturdy all-metal welding table from square steel pipes and scrap galvanized sheet on a budget.
 sidebar_label: "Welding table"
 ---
 
@@ -30,7 +31,7 @@ The galvanized steel top ended up attached with the self-drilling steel screws. 
 
 At the corner, I managed to mount the vise that could rotate. And down the line I ended up making makeshift vises to use as welding templates—so I was happy!
 
-<img src="/img/metalworking/welding/welding table.jpg" alt="Welding table" />
+<img src="/img/metalworking/welding/welding-table.jpg" alt="All-metal welding table with a blue vise mounted on the corner" />
 
 ## Learnings
 

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: First weld
+description: "My first stick welding project: a foldable welding table made from square steel pipes to fit in a car trunk."
 ---
 
 I initially had my uncle help me set up the stick welder. I bought a cheap one on AliExpress that stated it could push 300 amps. To our surprise, it worked quite well.
@@ -27,7 +28,7 @@ I used the pipes as the primary construction material and filled in the rest of 
 
 I used the offcuts from the square pipes to stop the table opening one way, and some old chain to stop it from going the other. I put some of the old busted up pallet wood on top and—voila! My first portable metal table!
 
-![First serious weld](/img/metalworking/welding/firstweld.jpg)
+![Welded square-pipe frame of the foldable welding table](/img/metalworking/welding/firstweld.jpg)
 
 As you can see, these were the early days of the workshop, as evidenced by the heap of junk in the background. :)
 
@@ -40,7 +41,7 @@ Definitely wasn't the prettiest workshop, or end product by any stretch of the m
 3. [Cheap tools](/blog/cheap-tools) can get you far. As a novice, you don't need much to scratch that itch and spark some creativity.
 4. If you're going to use it for welding—do not use wood for the table. It needs to conduct electricity and, wouldn't you know it, wood burns!
 
-![First serious weld](/img/metalworking/welding/firstweld2.jpg)
+![Finished foldable welding table with a pallet-wood top](/img/metalworking/welding/firstweld2.jpg)
 
 After all the learnings, my lovely portable table ended up as the main stationary tooling table in the workshop. It did fold, fit my trunk, and lie flat though! But it turned out I did not really need it moved around much.
 

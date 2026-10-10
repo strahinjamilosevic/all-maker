@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title: Coffee table
+description: Welding a cube coffee table from square steel pipes with an oak floorboard top, and dealing with warping.
 sidebar_label: "Coffee table"
 ---
 
@@ -35,7 +36,7 @@ In the end I used an angle grinder to fix the welds so the metal does not protru
 
 Finally, I glued the hardwood floor pieces together and cut them to the exact shape of the top. Once it fit flush, I realized that I had no plan to actually attach the wood. I quickly cut two strips out of a metal sheet, sanded them, and drilled the holes. Then, I welded them on the bottom part of the top pipes so I can use the holes to attach the top with self-drilling screws. Once the top was perfectly level, I welded the strips and screwed it in from below.  
 
-![Coffee table](/img/metalworking/welding/coffeetable.jpg)
+![Finished cube coffee table with a steel frame and an oak top](/img/metalworking/welding/coffeetable.jpg)
 
 ## Learnings
 

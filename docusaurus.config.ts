@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "All-maker's corner of the internet",
+  title: 'All-maker',
   tagline: 'Technical writing and other shenanigans',
   favicon: 'img/logo.png',
 
@@ -16,22 +16,37 @@ const config: Config = {
 
   url: 'https://all-maker.com',
   baseUrl: process.env.BASE_URL || '/',
+  trailingSlash: true,
 
   headTags: [
     {
-      tagName: 'link',
-      attributes: {
-        rel: 'preconnect',
-        href: 'https://fonts.googleapis.com',
-      },
-    },
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'preconnect',
-        href: 'https://fonts.gstatic.com',
-        crossorigin: 'anonymous',
-      },
+      tagName: 'script',
+      attributes: {type: 'application/ld+json'},
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': [
+          {
+            '@type': 'Person',
+            '@id': 'https://all-maker.com/#person',
+            name: 'Strahinja Milošević',
+            jobTitle: 'Senior Technical Writer',
+            url: 'https://all-maker.com/',
+            image: 'https://all-maker.com/img/prof.jpg',
+            sameAs: [
+              'https://strahinjamilosevic.com/',
+              'https://www.linkedin.com/in/strahinjamilosevic/',
+              'https://github.com/strahinjamilosevic',
+            ],
+          },
+          {
+            '@type': 'WebSite',
+            '@id': 'https://all-maker.com/#website',
+            url: 'https://all-maker.com/',
+            name: 'All-maker',
+            author: {'@id': 'https://all-maker.com/#person'},
+          },
+        ],
+      }),
     },
     {
       tagName: 'link',
@@ -48,10 +63,6 @@ const config: Config = {
         href: '/manifest.json',
       },
     },
-  ],
-
-  stylesheets: [
-    'https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap',
   ],
 
   organizationName: 'strahinjamilosevic',
@@ -87,9 +98,11 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
+          showLastUpdateTime: true,
           postsPerPage: 'ALL',
           blogSidebarCount: 'ALL',
           feedOptions: {
@@ -103,6 +116,10 @@ const config: Config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        sitemap: {
+          lastmod: 'date',
+          ignorePatterns: ['/blog/tags/**', '/blog/archive/', '/blog/authors/**'],
         },
         gtag: {
           trackingID: 'G-4242HS68NS',
