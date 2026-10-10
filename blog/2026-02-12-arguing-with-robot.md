@@ -36,15 +36,15 @@ This isn't about replacing human review. It's about showing up to the human revi
 
 Here's a real example. I inherited a codebase where the developers never wrote explicit API documentation. No OpenAPI spec. Nothing. The endpoints existed in the code, scattered across files, undocumented.
 
-So I set up multiple LLM agents with different models and instructions. I asked them to sanalyze the code, generate OpenAPI specs, and then argue with each other about whether the specs were accurate. One agent generates. Another validates. A third tries to break it.
+So I set up multiple LLM agents with different models and instructions. I asked them to analyze the code, generate OpenAPI specs, and then argue with each other about whether the specs were accurate. One agent generates. Another validates. A third tries to break it.
 
 The result wasn't perfect. But it was a good starting point that would have taken weeks to produce manually. And we ended up with a single source of truth.
 
 ### Instruction files and prompt libraries
 
-Keep markdown files with instructions per use case. I used to use different ones for different tasks—reviewing for plain language, checking structural consistency, generating code samples, and so on. The idea was to reause a good prompt doc across projects and make it a tool in itself. Sharpen it over time.
+Keep markdown files with instructions per use case. I used to use different ones for different tasks—reviewing for plain language, checking structural consistency, generating code samples, and so on. The idea was to reuse a good prompt doc across projects and make it a tool in itself. Sharpen it over time.
 
-Take this one with a grain of salt. The way and tempo that the LLMs evolve—we get a new tool every couple of months. I strongly suggest to check out [Claude skills](https://code.claude.com/docs/en/skills) and [MCPs](https://code.claude.com/docs/en/mcp) depending on your use case.
+Take this one with a grain of salt. The way and tempo that the LLMs evolve—we get a new tool every couple of months. I strongly suggest checking out [Claude skills](https://code.claude.com/docs/en/skills) and [MCPs](https://code.claude.com/docs/en/mcp) depending on your use case.
 
 ## Modes of working with AI
 
@@ -68,7 +68,7 @@ Tools: GitHub Copilot, Cursor, Claude in VS Code, basically any IDE-integrated a
 
 ### Drafting—the ghostwriter
 
-You provide the context, the constraints, the style guide. The AI generates a first draft and you refine it. This works surprisingly well for things like release notes, API reference descriptions, and structured content where the format is predictable. Do not let it run amok though. They have a tendency to overexplain and contextualize where not additional info is needed. Always test, of course.
+You provide the context, the constraints, the style guide. The AI generates a first draft and you refine it. This works surprisingly well for things like release notes, API reference descriptions, and structured content where the format is predictable. Do not let it run amok though. They have a tendency to overexplain and contextualize where no additional info is needed. Always test, of course.
 
 Good for: first drafts, boilerplate, structured content.
 
@@ -78,7 +78,7 @@ One rule: if the output is good, use it. Don't feel obligated to rewrite a perfe
 
 This is where it gets interesting. CI/CD integration, style linting, automated spec generation. Agents that run in the background and flag issues before you even open the file. This mode requires setup, but once it's running, it scales in a way that manual work never will.
 
-Cursor can already help you create whole elaborate refactoring plans. It helps you design multiple phases with sub-steps, researches solutions so you don't leave the IDE, present options, coaches you where to make the decisions, and the automatically adjusts the doc for you to review the plan. You can then greenlight it, press submit, and go to lunch.
+Cursor can already help you create whole elaborate refactoring plans. It helps you design multiple phases with sub-steps, researches solutions so you don't leave the IDE, presents options, coaches you where to make the decisions, and then automatically adjusts the doc for you to review the plan. You can then greenlight it, press submit, and go to lunch.
 
 Good for: refactors, validation, spec generation, continuous quality checks.
 
@@ -86,7 +86,7 @@ Tools: Claude Code, OpenHands, custom scripts, MCP servers, whatever gets the jo
 
 ## Pick the model, not the brand
 
-By the time you read this, the some LLM brand must have already shifted the market. Frontier models converge fast. What's true today—that one handles code better, another has a bigger context window, a third follows instructions more precisely—will be different in six months.
+By the time you read this, some LLM brand must have already shifted the market. Frontier models converge fast. What's true today—that one handles code better, another has a bigger context window, a third follows instructions more precisely—will be different in six months.
 
 What tends to stay consistent are the criteria worth evaluating:
 

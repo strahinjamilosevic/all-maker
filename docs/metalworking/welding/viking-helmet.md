@@ -9,7 +9,7 @@ So, funny story.
 Back in Belgrade, in another time, there were these hipster dudes who created a movement around growing, styling, and promoting long beards and mustaches. They posted a lot on social media, but mostly some funny beard memes and handsome male models who grew out their beards. It was a whole thing for a couple of years, they even held some beardness competitions, I heard.
 
 Anyway, my friend Jovana and I saw that they were hosting a viking night! The promise was viking music, ambiance, food, and barrels of fine-quality mead! Or failing that at least heaps of rakija!
-Jovana is an accomplished artist—painter and a sculptor. She graduated from the School of applied arts with a degree in sculpting metal. Or something such, I am not well-versed in the ways of actual art.
+Jovana is an accomplished artist—a painter and a sculptor. She graduated from the School of applied arts with a degree in sculpting metal. Or something such, I am not well-versed in the ways of actual art.
 
 But, as you can imagine, she uses MIG, TIG, oxy-acetylene welding, and is a flat-out blacksmith. Check out her [Instagram profile](https://www.instagram.com/jovana_tucovic/?hl=en). 
 
@@ -19,7 +19,7 @@ She's also a viking enthusiast! So we thought—you know what would be funny? If
 
 The plan was not to be historically accurate, but dress up, completely over the top, and forge horned helmets like those cartoonish depictions of demonic viking figures conquering the new world.
 
-We were alerady hanging out in her forge so we split the work—Jovana would make the helmets out of steel sheets and I would make the horns out of wood as we did not have any actual animal horns.
+We were already hanging out in her forge so we split the work—Jovana would make the helmets out of steel sheets and I would make the horns out of wood as we did not have any actual animal horns.
 
 ## Challenge
 
@@ -37,7 +37,7 @@ I had to:
 
 Up to that point, Jovana had had a lot of practice tailoring steel to body shapes. She used the blow torch to heat up the metal sheets and hammered them into a battle-hewn look. She then welded on the lower part, cut the edge and curled it to decorate it. It was a simple technique but it covered the weld marks, gave it a worn out look, and added to the structural integrity.
 
-As for me, she gave an discarded picture frame to destroy. It was not very big, so I had to plan where to cut so I end up with 4 similar pieces. The trick was to keep a corner in every piece so I could fashion them into a curved figure.
+As for me, she gave me a discarded picture frame to destroy. It was not very big, so I had to plan where to cut so I end up with 4 similar pieces. The trick was to keep a corner in every piece so I could fashion them into a curved figure.
 
 It took some angle grinder work and a lot of hand-filing, but I ended up with something pointier than previously and it did curve inwards.
 

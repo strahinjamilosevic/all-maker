@@ -31,7 +31,7 @@ I then crafted the top part to allow the nice, oaken planks to be installed. I m
 
 ![Chest1](/img/metalworking/welding/chest2.jpg)
 
-Another crucial deciding moment was when I realized that I had not had enough oaken planks for all 6 sides. So I used the oak for the top and the "front". The rest was filled with some old pallet wood that matched the color. It was tricky getting individual planks to join the next one and stay flush, so I did the side individually. I would measure the dimensions, make a glued wooden rectangle, sand it and cut it to size. Then I installed them with self-drilling screws from outside the frame.
+Another crucial deciding moment was when I realized that I had not had enough oaken planks for all 6 sides. So I used the oak for the top and the "front". The rest was filled with some old pallet wood that matched the color. It was tricky getting individual planks to join the next one and stay flush, so I did the sides individually. I would measure the dimensions, make a glued wooden rectangle, sand it and cut it to size. Then I installed them with self-drilling screws from outside the frame.
 
 ![Chest1](/img/metalworking/welding/chest3.jpg)
 
@@ -47,6 +47,6 @@ It did end up being used regularly to store some pillows for the garden and prop
 
 This project taught me a lot about sanding wood though. I got some experience with the orbital and vibrating sanders, and also learned where and when to use the hand tools instead of rushing to machine everything.
 
-Most of all, I learnt that woodworking requires a different type of patience that metalworking. With metalworking you need to be careful for your own sake, to prevent injury. But if you mess up, you just put a bit of a weld on and grind it out.
+Most of all, I learnt that woodworking requires a different type of patience than metalworking. With metalworking you need to be careful for your own sake, to prevent injury. But if you mess up, you just put a bit of a weld on and grind it out.
 
-With woodworking, mistakes are more permanent. If your hand slips, you might need to use epoxy and saw dust, or glue in hardwood chunks and align the grain. So much more effort. So going slower is better, and for a hyperactive person such as I am—it required some time to be able to slow down but works wonders in the long run. Be sure to give woodworking a try. Not in the welding shop, though!
+With woodworking, mistakes are more permanent. If your hand slips, you might need to use epoxy and sawdust, or glue in hardwood chunks and align the grain. So much more effort. So going slower is better, and for a hyperactive person such as I am—it required some time to be able to slow down but works wonders in the long run. Be sure to give woodworking a try. Not in the welding shop, though!

@@ -8,7 +8,7 @@ There we were. At the final stretch of the journey, about to go home with a hand
 
 Nobody finished the blade. :)
 
-I still had to continue forging almost the entire session. Everybody else were busy filing, drilling holes, and preparing wood for their handles. I had to make a damn long handle.
+I still had to continue forging almost the entire session. Everybody else was busy filing, drilling holes, and preparing wood for their handles. I had to make a damn long handle.
 
 Back into the gas forge!
 
@@ -18,7 +18,7 @@ Back into the gas forge!
 
 This was a new challenge, holding the knife by the blade side using tongs. Usually, your hammer arm gets tired, especially with bigger hammers. This time, I started feeling fatigue early on in my off hand—I had to use these specially-shaped tongs to grip the blade by the edges. The masters explained that holding it by the sides while hammering from the top runs the risk of the blade bouncing off into your face.
 
-Similarly, when working from the side, I had to use the tongs with smaller grip. So there was a bit of tool-shuffling around the anvil. Luckily enough, most guys were busy filing so the forges were available.
+Similarly, when working from the side, I had to use the tongs with a smaller grip. So there was a bit of tool-shuffling around the anvil. Luckily enough, most guys were busy filing so the forges were available.
 
 <img src="/img/metalworking/blacksmithing/f4-4.jpg" alt="Tongs" style={{maxWidth: '400px', width: '100%'}}/>
 
@@ -32,7 +32,7 @@ The masters showed me how to evaluate how long I must make the rod so I have eno
 
 <img src="/img/metalworking/blacksmithing/f4-7.jpg" alt="Handle rod" style={{maxWidth: '400px', width: '100%'}}/>
 
-When I was satisfied with the shape, I cut off about a centimeter off the end because the iron cracked from being heated up over and over again.
+When I was satisfied with the shape, I cut about a centimeter off the end because the iron cracked from being heated up over and over again.
 
 Then, it was time to make the curl.
 

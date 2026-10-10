@@ -4,15 +4,15 @@ title: Research the company
 description: How to research a company and role before you apply.
 ---
 
-Do not skip this step or rush through it. The research you do before applying will influence how well you do everything that follows—resume, cover letter, your answers in an interview. Without the due dilligence, you are not giving yourself the best possible chance and are just hoping for the best. 
+Do not skip this step or rush through it. The research you do before applying will influence how well you do everything that follows—resume, cover letter, your answers in an interview. Without the due diligence, you are not giving yourself the best possible chance and are just hoping for the best. 
 
 ## Every profession is different
 
-Start by understanding the professional standars associated with the position. Every field has norms around what a strong application looks like, what tools and methods are standard, and what level of experience maps to what level of seniority.
+Start by understanding the professional standards associated with the position. Every field has norms around what a strong application looks like, what tools and methods are standard, and what level of experience maps to what level of seniority.
 
 For technical writing, it might mean understanding the difference between a senior writer at a startup and one at an enterprise software company. The titles are the same. The expectations are not. Or what [seniority](/blog/career) means at that particular organization. 
 
-Talk to people in the field. Read job postings widely—not just the one you want to apply for, but ten others at similar companies. Look at how candidates in the field present themselves on LinkedIn. This gives you calibration. Also, there are a lot of companies like [Gitlab](https://handbook.gitlab.com/job-families/product/technical-writer/) and [Canonical](https://canonical.com/careers/company-culture/progression) that have simply published publicly how they approach this. Always check. 
+Talk to people in the field. Read job postings widely—not just the one you want to apply for, but ten others at similar companies. Look at how candidates in the field present themselves on LinkedIn. This gives you calibration. Also, there are a lot of companies like [GitLab](https://handbook.gitlab.com/job-families/product/technical-writer/) and [Canonical](https://canonical.com/careers/company-culture/progression) that have simply published publicly how they approach this. Always check. 
 
 ## The company
 
@@ -37,7 +37,7 @@ Coming to an interview knowing what they have and having a clear opinion on what
 
 Before going all in on an application, I like to check what people online say about their experience with the company. Official careers pages and job descriptions are written to attract candidates. Employee reviews are not.
 
-Good places to look: [Glassdoor](https://www.glassdoor.com), [Blind](https://www.teamblind.com), Reddit, GitHub (for how their engineers work in public), and communities like Stack Overflow or HackerNews where their team members might be active.
+Good places to look: [Glassdoor](https://www.glassdoor.com), [Blind](https://www.teamblind.com), Reddit, GitHub (for how their engineers work in public), and communities like Stack Overflow or Hacker News where their team members might be active.
 
 When reading, pay attention to the things that are hard to evaluate from a job posting:
 

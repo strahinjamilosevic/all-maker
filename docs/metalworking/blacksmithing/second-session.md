@@ -13,7 +13,7 @@ We got an iron bar welded onto a long iron rod to start with. We could hold it b
 
 ## Design
 
-The masters asked us to create a wooden or cardboard templates of our knife designs. While some of my co-apprentices chose quite elaborate wavy, or curved dagger designs, several of us were a bit more realistic. :) At least I thought so.
+The masters asked us to create wooden or cardboard templates of our knife designs. While some of my co-apprentices chose quite elaborate wavy, or curved dagger designs, several of us were a bit more realistic. :) At least I thought so.
 
 My buddy brought a full-tang utility knife he used anyway on camping trips, and another bloke chose a traditional Saxon knife from his own region. 
 
@@ -46,7 +46,7 @@ This was strange and hard. I have never done anything similar and especially not
 
 I remember at this session, trying to be careful and hammer in small controlled hits. And I was getting nowhere. Then I realized—this is iron! I need to *really* hit it hard.
 
-I took the big hammer again, and with that rounded off end, started whacking hard from a considerable height for the first time. I remember seeing one of the master's worried look hearing that much noise from one side all of a sudden. I felt very proud when he inspected the work and nodded in approval.
+I took the big hammer again, and with that rounded off end, started whacking hard from a considerable height for the first time. I remember seeing one of the masters' worried look hearing that much noise from one side all of a sudden. I felt very proud when he inspected the work and nodded in approval.
 
 ## Fix cracks
 
@@ -54,7 +54,7 @@ Previously, one of the masters helped me mark with a chisel how much of the bar 
 
 This mark turned into a crack as I forged the bevelled edge and the tip. We had to fix it to prevent it from spreading and utterly cracking the whole blade.
 
-The master suggested to weld it a bit and I asked for permission to do so alone. Again, the doubtful but inquisitive look. He asked me to show him I knew how to stick weld on a random piece of flat iron. I did so in a couple of minutes and showed him my zig-zag pattern that had fused the two metal pieces together.
+The master suggested welding it a bit and I asked for permission to do so alone. Again, the doubtful but inquisitive look. He asked me to show him I knew how to stick weld on a random piece of flat iron. I did so in a couple of minutes and showed him my zig-zag pattern that had fused the two metal pieces together.
 
 Another nod of approval. He just left me to work and went to check on the others. I messed it up. Had to grind a bit off with an angle grinder. :)
 
@@ -64,6 +64,6 @@ Three hours of hammering and I ended up with something questionably pointier tha
 
 In all honesty, the bevel was there, and the overall shape of the blade. It did look quite ugly with the square end of the bar instead of the handle. 
 
-But I did it. I felt a sense of accomplishment and devised an entire plan what I wanted to fix the following week. It was of course, not entirely correct—but live and learn.
+But I did it. I felt a sense of accomplishment and devised an entire plan for what I wanted to fix the following week. It was, of course, not entirely correct—but live and learn.
 
 <img src="/img/metalworking/blacksmithing/f2-12.jpg" alt="Knife shape" style={{maxWidth: '400px', width: '100%'}} />

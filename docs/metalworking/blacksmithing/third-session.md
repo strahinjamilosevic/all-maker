@@ -20,7 +20,7 @@ I still had to bevel the sides so they slope or taper down correctly towards the
 
 The masters continued correcting our technique. It was insightful to learn which part of the anvil to use for a particular job. They showed us how the hammering sounds and bounces off differently in various parts of the anvil.
 
-I experienced it before, but this workshop confirmet it—the horn of the anvil is the greatest invention since the wheel! As its cone tapers down into a point, it elegantly gives you a template for any circumference you might need to make.
+I experienced it before, but this workshop confirmed it—the horn of the anvil is the greatest invention since the wheel! As its cone tapers down into a point, it elegantly gives you a template for any circumference you might need to make.
 
 ## Inexperience takes its toll
 

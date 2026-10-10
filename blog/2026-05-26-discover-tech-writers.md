@@ -32,7 +32,7 @@ Three thinking models matter most. None of them are unique to technical writing,
 
 A technical writer's job changes constantly. Products evolve, teams reorganize, toolchains get replaced, and the subject matter deepens without warning. Those who handle this well are not more disciplined—they are more curious. They find the new tools interesting rather than disruptive. They don't wait for scheduled knowledge-transfer meetings; they research because they want to.
 
-Curiosity accelerates learning. A curious writer acquires context faster, recovers from the unknown without stress, and accumulates enough breadth over time to become a swiss army knife. This makes them comfortable changing domains and useful beyond the immediate task. That breadth also reinforces systems thinking.
+Curiosity accelerates learning. A curious writer acquires context faster, recovers from the unknown without stress, and accumulates enough breadth over time to become a Swiss Army knife. This makes them comfortable changing domains and useful beyond the immediate task. That breadth also reinforces systems thinking.
 
 ### Systems thinking
 

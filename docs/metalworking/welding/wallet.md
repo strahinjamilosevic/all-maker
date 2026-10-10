@@ -4,13 +4,13 @@ title: Wallet
 sidebar_label: "Wallet"
 ---
 
-As you can probably deduce from my [Leatherworking section](/docs/leatherworking/) I am very much into EDC card wallets. Well, back in the day I stumbled upon [Trayvax](https://www.trayvax.com/) and this was befire they went global.
+As you can probably deduce from my [Leatherworking section](/docs/leatherworking/) I am very much into EDC card wallets. Well, back in the day I stumbled upon [Trayvax](https://www.trayvax.com/) and this was before they went global.
 
-Having spent my life using leather and textile wallets, I was mesmerized with an idea of a metal one. Sadly, at the time Trayvax did not deliver where I lived. Even better! I decided to try out another project.
+Having spent my life using leather and textile wallets, I was mesmerized by the idea of a metal one. Sadly, at the time Trayvax did not deliver where I lived. Even better! I decided to try out another project.
 
 ## Idea
 
-I would cut out the shape out of metal and make it loosely resemble [Trayvax Element](https://www.trayvax.com/collections/element-wallet) wallet. Then I would find some leather somewhere and make the wrapper. :) Paracord, I had.
+I would cut the shape out of metal and make it loosely resemble the [Trayvax Element](https://www.trayvax.com/collections/element-wallet) wallet. Then I would find some leather somewhere and make the wrapper. :) Paracord, I had.
 
 ## Challenge
 
@@ -36,7 +36,7 @@ Basically, I was cutting out a very thin frame out of a solid block of aluminum.
 
 When I was done with the metal, not that I was satisfied with the finish but rather exhausted, it was time to find some leather. Nowhere in my town's surroundings could I find a shop with leather. Ordering online specified distant delivery dates.
 
-Then my mom gave me an old leather bag that she no longer used. I tailored a template, cut out a leather patch from the bag's back side. But at the time, I knew nothing about leatherworking, specific needles or thread, bevelling and polishing edges, and the rest.
+Then my mom gave me an old leather bag that she no longer used. I tailored a template and cut out a leather patch from the bag's back side. But at the time, I knew nothing about leatherworking, specific needles or thread, bevelling and polishing edges, and the rest.
 
 I ended up simply joining two pieces, one to hold the cards and one for the little belt that secured it, and sewed them up with my mom's needles and thread meant for fabric. I fixed the side with paracord and that was it!
 

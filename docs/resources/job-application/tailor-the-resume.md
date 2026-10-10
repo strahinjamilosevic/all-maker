@@ -14,7 +14,7 @@ Follow this order:
 
 ### 1. Contact information
 
-Full name, phone number, professional email, and links to your portfolio or LinkedIn. Keep it at the top, clean and uncluttered. No photos, no icons, no date of birth. This is my recomendation becasue I want to live in a fantasy world where poeple are judged on their merrits and not their profile photo or whether the resume is pink.
+Full name, phone number, professional email, and links to your portfolio or LinkedIn. Keep it at the top, clean and uncluttered. No photos, no icons, no date of birth. This is my recommendation because I want to live in a fantasy world where people are judged on their merits and not their profile photo or whether the resume is pink.
 
 Nonetheless, depending on the profession, this can differ.
 
