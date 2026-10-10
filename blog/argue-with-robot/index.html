@@ -19,7 +19,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/img/logo.png">
 <link rel="manifest" href="/manifest.json">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"><link rel="stylesheet" href="/assets/css/styles.956932ec.css">
-<script src="/assets/js/runtime~main.52acb1da.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.4b984c2c.js" defer="defer"></script>
 <script src="/assets/js/main.35982cca.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -40,11 +40,11 @@
 <p>This isn&#x27;t about replacing human review. It&#x27;s about showing up to the human review with fewer obvious issues.</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-pipeline-nobody-built">The pipeline nobody built<a href="#the-pipeline-nobody-built" class="hash-link" aria-label="Direct link to The pipeline nobody built" title="Direct link to The pipeline nobody built" translate="no">​</a></h3>
 <p>Here&#x27;s a real example. I inherited a codebase where the developers never wrote explicit API documentation. No OpenAPI spec. Nothing. The endpoints existed in the code, scattered across files, undocumented.</p>
-<p>So I set up multiple LLM agents with different models and instructions. I asked them to sanalyze the code, generate OpenAPI specs, and then argue with each other about whether the specs were accurate. One agent generates. Another validates. A third tries to break it.</p>
+<p>So I set up multiple LLM agents with different models and instructions. I asked them to analyze the code, generate OpenAPI specs, and then argue with each other about whether the specs were accurate. One agent generates. Another validates. A third tries to break it.</p>
 <p>The result wasn&#x27;t perfect. But it was a good starting point that would have taken weeks to produce manually. And we ended up with a single source of truth.</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="instruction-files-and-prompt-libraries">Instruction files and prompt libraries<a href="#instruction-files-and-prompt-libraries" class="hash-link" aria-label="Direct link to Instruction files and prompt libraries" title="Direct link to Instruction files and prompt libraries" translate="no">​</a></h3>
-<p>Keep markdown files with instructions per use case. I used to use different ones for different tasks—reviewing for plain language, checking structural consistency, generating code samples, and so on. The idea was to reause a good prompt doc across projects and make it a tool in itself. Sharpen it over time.</p>
-<p>Take this one with a grain of salt. The way and tempo that the LLMs evolve—we get a new tool every couple of months. I strongly suggest to check out <a href="https://code.claude.com/docs/en/skills" target="_blank" rel="noopener noreferrer" class="">Claude skills</a> and <a href="https://code.claude.com/docs/en/mcp" target="_blank" rel="noopener noreferrer" class="">MCPs</a> depending on your use case.</p>
+<p>Keep markdown files with instructions per use case. I used to use different ones for different tasks—reviewing for plain language, checking structural consistency, generating code samples, and so on. The idea was to reuse a good prompt doc across projects and make it a tool in itself. Sharpen it over time.</p>
+<p>Take this one with a grain of salt. The way and tempo that the LLMs evolve—we get a new tool every couple of months. I strongly suggest checking out <a href="https://code.claude.com/docs/en/skills" target="_blank" rel="noopener noreferrer" class="">Claude skills</a> and <a href="https://code.claude.com/docs/en/mcp" target="_blank" rel="noopener noreferrer" class="">MCPs</a> depending on your use case.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="modes-of-working-with-ai">Modes of working with AI<a href="#modes-of-working-with-ai" class="hash-link" aria-label="Direct link to Modes of working with AI" title="Direct link to Modes of working with AI" translate="no">​</a></h2>
 <p>Not all AI-augmented work looks the same. Here&#x27;re some examples of how I perceive distinct modes at the moment.</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="chatthe-rubber-duck">Chat—the rubber duck<a href="#chatthe-rubber-duck" class="hash-link" aria-label="Direct link to Chat—the rubber duck" title="Direct link to Chat—the rubber duck" translate="no">​</a></h3>
@@ -56,16 +56,16 @@
 <p>Good for: repetitive tasks, pattern-based edits, formatting.</p>
 <p>Tools: GitHub Copilot, Cursor, Claude in VS Code, basically any IDE-integrated assistant.</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="draftingthe-ghostwriter">Drafting—the ghostwriter<a href="#draftingthe-ghostwriter" class="hash-link" aria-label="Direct link to Drafting—the ghostwriter" title="Direct link to Drafting—the ghostwriter" translate="no">​</a></h3>
-<p>You provide the context, the constraints, the style guide. The AI generates a first draft and you refine it. This works surprisingly well for things like release notes, API reference descriptions, and structured content where the format is predictable. Do not let it run amok though. They have a tendency to overexplain and contextualize where not additional info is needed. Always test, of course.</p>
+<p>You provide the context, the constraints, the style guide. The AI generates a first draft and you refine it. This works surprisingly well for things like release notes, API reference descriptions, and structured content where the format is predictable. Do not let it run amok though. They have a tendency to overexplain and contextualize where no additional info is needed. Always test, of course.</p>
 <p>Good for: first drafts, boilerplate, structured content.</p>
 <p>One rule: if the output is good, use it. Don&#x27;t feel obligated to rewrite a perfectly fine doc just because AI wrote it. If you&#x27;re really ashamed—acknowledge it at the bottom. :)</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="automationthe-assembly-line">Automation—the assembly line<a href="#automationthe-assembly-line" class="hash-link" aria-label="Direct link to Automation—the assembly line" title="Direct link to Automation—the assembly line" translate="no">​</a></h3>
 <p>This is where it gets interesting. CI/CD integration, style linting, automated spec generation. Agents that run in the background and flag issues before you even open the file. This mode requires setup, but once it&#x27;s running, it scales in a way that manual work never will.</p>
-<p>Cursor can already help you create whole elaborate refactoring plans. It helps you design multiple phases with sub-steps, researches solutions so you don&#x27;t leave the IDE, present options, coaches you where to make the decisions, and the automatically adjusts the doc for you to review the plan. You can then greenlight it, press submit, and go to lunch.</p>
+<p>Cursor can already help you create whole elaborate refactoring plans. It helps you design multiple phases with sub-steps, researches solutions so you don&#x27;t leave the IDE, presents options, coaches you where to make the decisions, and then automatically adjusts the doc for you to review the plan. You can then greenlight it, press submit, and go to lunch.</p>
 <p>Good for: refactors, validation, spec generation, continuous quality checks.</p>
 <p>Tools: Claude Code, OpenHands, custom scripts, MCP servers, whatever gets the job done.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pick-the-model-not-the-brand">Pick the model, not the brand<a href="#pick-the-model-not-the-brand" class="hash-link" aria-label="Direct link to Pick the model, not the brand" title="Direct link to Pick the model, not the brand" translate="no">​</a></h2>
-<p>By the time you read this, the some LLM brand must have already shifted the market. Frontier models converge fast. What&#x27;s true today—that one handles code better, another has a bigger context window, a third follows instructions more precisely—will be different in six months.</p>
+<p>By the time you read this, some LLM brand must have already shifted the market. Frontier models converge fast. What&#x27;s true today—that one handles code better, another has a bigger context window, a third follows instructions more precisely—will be different in six months.</p>
 <p>What tends to stay consistent are the criteria worth evaluating:</p>
 <ul>
 <li class=""><strong>Reliability for your specific task</strong>—not just &quot;can it do this&quot; but &quot;does it do this consistently, without drifting or hallucinating on step three&quot;.</li>
