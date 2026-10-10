@@ -1,6 +1,7 @@
 ---
 sidebar_position: 8
 title: Chest
+description: A welded steel and oak jewelry chest made from L-profiles and hardwood floor scraps, with hinges, a lock, and handles.
 sidebar_label: "Chest"
 ---
 
@@ -25,19 +26,19 @@ The approach would be similar to the coffee table:
 
 I tack-welded the profiles to construct the frame into which I would insert the wood. Of course, at that time, I still did not have a clear plan how to do that. Then I used the jig made previously to check that all the angles are at 90 degrees and made the welds.
 
-![Chest1](/img/metalworking/welding/chest1.jpg)
+![Welded steel L-profile frame for the jewelry chest](/img/metalworking/welding/chest1.jpg)
 
 I then crafted the top part to allow the nice, oaken planks to be installed. I made sure everything was flush and would be able to open and close. But at that point, I gave up on the idea of making a sloping top part of the chest due to available materials and the added effort.
 
-![Chest1](/img/metalworking/welding/chest2.jpg)
+![Chest frame clamped on the welding table during assembly](/img/metalworking/welding/chest2.jpg)
 
 Another crucial deciding moment was when I realized that I had not had enough oaken planks for all 6 sides. So I used the oak for the top and the "front". The rest was filled with some old pallet wood that matched the color. It was tricky getting individual planks to join the next one and stay flush, so I did the sides individually. I would measure the dimensions, make a glued wooden rectangle, sand it and cut it to size. Then I installed them with self-drilling screws from outside the frame.
 
-![Chest1](/img/metalworking/welding/chest3.jpg)
+![Steel-framed chest with oak plank sides on the workbench](/img/metalworking/welding/chest3.jpg)
 
 Once the top was filled, I realized that this would never be a jewelry box. :) It weighed dozens of kilograms. It was so heavy and hard to move around that I decided to weld on the handles after the fact. I found some old metal pipes, sanded them and welded them on. The hinges were on the back side, but at this point it was clear I had made another coffee table, albeit with some storage space.
 
-![Chest1](/img/metalworking/welding/chest4.jpg)
+![Finished steel and oak jewelry chest with a side handle](/img/metalworking/welding/chest4.jpg)
 
 ## Learnings
 

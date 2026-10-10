@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Learn the basics
+description: "Blacksmithing basics: running coal and gas forges, reading iron temperature by color, and forging a coat hanger."
 sidebar_label: "Learn the basics"
 ---
 
@@ -16,13 +17,13 @@ The workshop was very much hands-on. Not a lot of theorizing. They showed us how
 
 Of course, it was a 2kg hammer.
 
-<img src="/img/metalworking/blacksmith.jpg" alt="Me" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmith.jpg" alt="Strahinja in a leather apron holding a forging hammer at the forge" style={{maxWidth: '400px', width: '100%'}} />
 
 We learnt how to control the airflow of the coal forge—we needed to keep the coal chunks close to the airflow but not let it suffocate the fire. If you clog it with the coal dust, it takes ages to get the iron glowing-yellow.
 
 This was an opportunity to learn to recognize the temperature by the color of the heated iron. We practised heating the iron till it became malleable. The masters quickly warned us not to stare into the fire. Good advice. It blinds you and you cannot distinguish your mates, let alone whether the iron is hot.  
 
-<img src="/img/metalworking/blacksmithing/f1-1.jpg" alt="Coal forge" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f1-1.jpg" alt="Coal forge with two fires burning under a brick hood" style={{maxWidth: '400px', width: '100%'}} />
 
 ## Make it round
 
@@ -44,7 +45,7 @@ Did I mention that there were hammers and tongs of all sizes everywhere?
 
 The point of this exercise was to curl the metal into a snail-like shape. This would become a decorative element of the coat hanger. The ask was to not have any space between the curled up layers.
 
-<img src="/img/metalworking/blacksmithing/f1-2.jpg" alt="On the anvil" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f1-2.jpg" alt="Twisted coat hanger with a scroll end on the anvil" style={{maxWidth: '400px', width: '100%'}} />
 
 ## Cold twist
 
@@ -52,7 +53,7 @@ The next part was easy—create a decorative twist of the part that had not been
 
 The nice detail was the tool itself—a wrench that had a welded-on extension to give you more leverage when twisting. In any case, you don't need heat to twist the iron bar this way.
 
-<img src="/img/metalworking/blacksmithing/f1-7.jpg" alt="The rod" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f1-7.jpg" alt="Finished twisted coat hanger with a curled scroll end" style={{maxWidth: '400px', width: '100%'}} />
 
 ## Shape the other end
 
@@ -62,8 +63,8 @@ The first task was straightforward. I flattened the middle section quickly but I
 
 The end of the rod took some hammering to flatten—so I used the 2kg hammer again. I kept rotating and hammering by 90 degrees to make it wider and elongate the tip into a pointy, leaf shape. 
 
-<img src="/img/metalworking/blacksmithing/f1-3.jpg" alt="The end" style={{maxWidth: '400px', width: '100%'}} />
-<img src="/img/metalworking/blacksmithing/ft1-8.jpg" alt="The middle" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f1-3.jpg" alt="Holding the twisted coat hanger in a gloved hand" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/ft1-8.jpg" alt="Close-up of the hammered, flattened middle of the iron rod" style={{maxWidth: '400px', width: '100%'}} />
 
 The last thing was to make the little indentations to make the shape actually resemble a leaf.
 
@@ -75,7 +76,7 @@ His help was instrumental and my biggest concern was missing the chisel and hitt
 
 This was done fairly quickly, in less than 5 minutes. We were approaching the end of the first session.
 
-<img src="/img/metalworking/blacksmithing/f1-4.jpg" alt="Leaf lines" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f1-4.jpg" alt="Leaf-shaped end of the rod with chiseled vein lines" style={{maxWidth: '400px', width: '100%'}} />
 
 ## Outcome
 

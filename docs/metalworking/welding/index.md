@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Welding projects
+description: "Stick welding projects from my first home workshop: tables, furniture, restorations, and what I learned from each."
 ---
 
 Around 2016–2017 I decided to get off my ass and create a workshop. An office job did not sit well with my itchy hands and mind so I asked my mom to use one of the unfinished parts of her house.
@@ -23,7 +24,7 @@ My idea is to share the outcome, demo the process, and pass on the learnings fro
 8. [Chest](/docs/metalworking/welding/chest)
 9. [Electrolysis](/docs/metalworking/welding/electrolysis)
 
-<img src="/img/metalworking/welding/beardo.jpg" alt="Me in the workshop" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/welding/beardo.jpg" alt="Strahinja wearing welding goggles in the unfinished workshop" style={{maxWidth: '400px', width: '100%'}} />
 
 
 ## See also

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Blacksmithing workshop
+description: Four sessions at a traditional blacksmithing workshop in Amsterdam, forging a knife from a single iron bar.
 ---
 
 In February 2026, I embarked on a new adventure. Blacksmithing workshop at [Openbarewerkplaats](https://openbarewerkplaats.nl/shop/metaal/smeden/smeden/) in Amsterdam.
@@ -11,7 +12,7 @@ The workshop was very straightforward—roll up your sleeves and hit some iron. 
 
 So, this was our journey. And like most things in life, everything is better with a true friend. :)
 
-<img src="/img/metalworking/buddies.jpg" alt="Me" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/buddies.jpg" alt="Strahinja and a friend in leather aprons at the blacksmithing workshop" style={{maxWidth: '400px', width: '100%'}} />
 
 In the following sections, I tried to outline the process, showcase the outcomes, and sum up the learnings from each session:
 

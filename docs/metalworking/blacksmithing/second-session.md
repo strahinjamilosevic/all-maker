@@ -1,13 +1,14 @@
 ---
 sidebar_position: 2
 title: Shape the blade
+description: Designing a one-piece blacksmith knife and hammering an iron bar into a blade profile, warping and all.
 sidebar_label: "Shape the blade"
 ---
 
 The second evening, we started on the knife. I alternated between the coal and gas forges depending on which one was less crowded.
 
-<img src="/img/metalworking/blacksmithing/f2-1.jpg" alt="Gas forge" style={{maxWidth: '400px', width: '100%'}} />
-<img src="/img/metalworking/blacksmithing/f2-10.jpg" alt="Coal forge" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f2-1.jpg" alt="Propane gas forge glowing on a stand next to a green gas bottle" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f2-10.jpg" alt="Strahinja standing in front of the coal forge" style={{maxWidth: '400px', width: '100%'}} />
 
 We got an iron bar welded onto a long iron rod to start with. We could hold it by the rod and hammer out the bar into the desired shape.
 
@@ -27,8 +28,8 @@ I decided to go for that one.
 
 Having the iron bar welded onto an iron rod meant we did not have to use tongs. As a beginner, and a ludicrously right-handed person, I was very happy about this.
 
-<img src="/img/metalworking/blacksmithing/f2-7.jpg" alt="Heat the bar" style={{maxWidth: '400px', width: '100%'}} />
-<img src="/img/metalworking/blacksmithing/f2-11.jpg" alt="Heat the bars" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f2-7.jpg" alt="Iron bar heating in the burning coal forge" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f2-11.jpg" alt="Iron bars heating in the coal forge at full flame" style={{maxWidth: '400px', width: '100%'}} />
 
 The approach here was to hold the bar vertically, tilted up at an angle and whack it. I used the anvil to some sort of a straight line. Since on every hit, the iron wants to expand vertically, so hitting it from the side then kind of nullifies the effort of making it into a point.
 
@@ -66,4 +67,4 @@ In all honesty, the bevel was there, and the overall shape of the blade. It did 
 
 But I did it. I felt a sense of accomplishment and devised an entire plan for what I wanted to fix the following week. It was, of course, not entirely correct—but live and learn.
 
-<img src="/img/metalworking/blacksmithing/f2-12.jpg" alt="Knife shape" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/blacksmithing/f2-12.jpg" alt="Rough knife shape hammered from an iron bar, held over the anvil" style={{maxWidth: '400px', width: '100%'}} />

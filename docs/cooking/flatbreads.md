@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
 title: Lebanese flatbreads
-description: Recipes I enjoy making and consuming.
+description: An easy Lebanese flatbread recipe from my mom, made with six pantry ingredients in one bowl.
 ---
 
 I got this recipe from my mom, I do not know where she got it from but we've been making these flatbreads for years. People can't seem to get enough of them and they are incredibly easy to make.
 
-<img src="/img/cooking/lepinje1.jpg" alt="Lepinjice" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/cooking/lepinje1.jpg" alt="Plate of baked Lebanese flatbreads" style={{maxWidth: '400px', width: '100%'}} />
 
 ## Ingredients
 
@@ -65,7 +65,7 @@ I just add a bit more olive oil and mix it all well. The dough ends up being oil
    :::
 6. Let the buns rest for another 20 minutes like that.
 
-    <img src="/img/cooking/lepinje2.jpg" alt="Lepinjice" style={{maxWidth: '400px', width: '100%'}} />
+    <img src="/img/cooking/lepinje2.jpg" alt="Flatbread dough rounds on a parchment-lined baking tray" style={{maxWidth: '400px', width: '100%'}} />
 
 ## Step 4: Bake
 By now, the buns should not be kind of gnarly anymore. Their surface should have become kind of smooth.
@@ -78,7 +78,7 @@ By now, the buns should not be kind of gnarly anymore. Their surface should have
    :::caution
    These flatbreads must remain pale and must not bake to golden brown. Now, I am not sure if it is my oven but I bake them for about 6-7 minutes.
    :::
-   <img src="/img/cooking/lepinje3.jpg" alt="Lepinjice" style={{maxWidth: '400px', width: '100%'}} />
+   <img src="/img/cooking/lepinje3.jpg" alt="Flatbreads rising and baking in the oven" style={{maxWidth: '400px', width: '100%'}} />
 
 3. When their surface becomes tight-smooth, they are done.
 

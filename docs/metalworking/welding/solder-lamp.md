@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: Soldered lamp
+description: A lamp made from recycled copper plumbing pipes and an old clock, with polishing, soldering, and wiring tips.
 sidebar_label: "Soldered lamp"
 ---
 
@@ -31,7 +32,7 @@ For the light source, I just pulled a regular insulated power cable through the 
 
 The last thing, and a total oversight, was the stand. I was out of ideas at this point and just grabbed the remnants of an old wall clock. I made the central hole match the radius of the pipe and jammed it in there.
 
-<img src="/img/metalworking/welding/humble.jpg" alt="Lamp"  />
+<img src="/img/metalworking/welding/humble.jpg" alt="Copper pipe lamp with an old clock face in the middle and a lit bulb"  />
 
 The finishing touches were still not there at this point, but it held together and it worked! The clock, the light, and it did not give the impression it would fall apart.
 

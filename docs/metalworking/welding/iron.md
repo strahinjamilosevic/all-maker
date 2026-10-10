@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Old iron
+description: Restoring a rusty Serbian charcoal iron from a flea market with rust remover, wire brushes, and spray paint.
 ---
 
 Why is it called an iron? Because it literally was. Filled with burning coals, it was used all across Serbia to press the wrinkles out of clothes.
@@ -16,7 +17,7 @@ I got an old, rusty one (what other kind?!) for less than 10 euros.
 
 She wanted to use it as a box to store precious things. But it was so rusty it left brownish red marks on everything. So it needed to be polished and painted. But first I had to remove the rust.
 
-![Rusty iron](/img/metalworking/welding/iron1.jpg)
+![Rusty antique charcoal iron before restoration](/img/metalworking/welding/iron1.jpg)
 
 ## Outcome
 
@@ -29,14 +30,14 @@ Enter the wire brush attachments. I ended up using different shapes of it on my 
 Final step was to paint it. Since I was always wary of the brush-using arts and crafts due to its liquid messiness, I opted for a cop-out approach—spray in a can.
 
 <div style={{textAlign: 'left'}}>
-  <img src="/img/metalworking/welding/iron3.jpg" alt="Rusty iron" style={{maxWidth: '400px', width: '100%'}} />
+  <img src="/img/metalworking/welding/iron3.jpg" alt="Inside of the iron polished to a silver sheen" style={{maxWidth: '400px', width: '100%'}} />
 </div>
 
 ## Learnings
 
 It actually turned out kind of cute. And I personally liked the metallic colors. Wife was very happy and ended up using it as a nail polish box keeping it with her other cosmetics.
 
-![Rusty iron](/img/metalworking/welding/iron2.jpg)
+![Restored charcoal iron painted copper with a wooden handle](/img/metalworking/welding/iron2.jpg)
 
 What I would have done differently:
 

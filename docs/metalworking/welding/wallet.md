@@ -1,6 +1,7 @@
 ---
 sidebar_position: 7
 title: Wallet
+description: A minimalist metal wallet inspired by Trayvax, cut from a scrap aluminum plate and finished with leather and paracord.
 sidebar_label: "Wallet"
 ---
 
@@ -40,7 +41,7 @@ Then my mom gave me an old leather bag that she no longer used. I tailored a tem
 
 I ended up simply joining two pieces, one to hold the cards and one for the little belt that secured it, and sewed them up with my mom's needles and thread meant for fabric. I fixed the side with paracord and that was it!
 
-![First wallet](/img/metalworking/welding/wallet1.jpg)
+![Aluminum card wallet wrapped in brown leather](/img/metalworking/welding/wallet1.jpg)
 
 ## Learnings
 

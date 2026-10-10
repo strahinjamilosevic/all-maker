@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Viking helmet
+description: "Making over-the-top horned viking helmets with a metal artist friend: steel helmets and hand-carved wooden horns."
 sidebar_label: "Viking helmet"
 ---
 
@@ -43,7 +44,7 @@ It took some angle grinder work and a lot of hand-filing, but I ended up with so
 
 We drilled the holes in the helmets, used self-drilling screws to attach the wood from the inside and—voila!
 
-<img src="/img/metalworking/welding/vikinghelmet.jpg" alt="Viking" style={{maxWidth: '400px', width: '100%'}} />
+<img src="/img/metalworking/welding/vikinghelmet.jpg" alt="Strahinja roaring in a steel viking helmet with wooden horns" style={{maxWidth: '400px', width: '100%'}} />
 
 This of course was not enough for the viking night! We dressed up—Jovana found a traditional dress with viking motifs and I wore a kilt and a tunic. We were ready to drink with the gods!
 

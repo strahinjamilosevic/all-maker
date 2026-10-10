@@ -1,12 +1,10 @@
 import type {ReactNode} from 'react';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
 
 function Hero(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
   const logoUrl = useBaseUrl('/img/logo.png');
   return (
     <header className={styles.heroBanner}>
@@ -16,7 +14,7 @@ function Hero(): ReactNode {
           alt="All-maker logo"
           className={styles.heroLogo}
         />
-        <h1 className={styles.heroTitle}>{siteConfig.title}</h1>
+        <h1 className={styles.heroTitle}>All-maker's corner of the internet</h1>
         <p className={styles.heroSubtitle}>Hi, I'm Strahinja. Tech writer by trade. Maker by nature.</p>
       </div>
     </header>
@@ -62,9 +60,8 @@ function Feature({title, description, link}: FeatureItem): ReactNode {
 }
 
 export default function Home(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout title={siteConfig.title} description="Technical writing and other shenanigans">
+    <Layout title="All-maker's corner of the internet" description="Technical writing and other shenanigans">
       <Hero />
       <main>
         <section className={styles.features}>

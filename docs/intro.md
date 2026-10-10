@@ -2,7 +2,7 @@
 sidebar_position: 1
 sidebar_label: Introduction
 title: Introduction
-description: Overview of what I am making.
+description: Metalworking, leatherworking, and cooking projects I took on to keep my hands and mind busy.
 ---
  
 In this section, you can browse the projects I embarked on during the years. I mostly tried to keep the mind and the fingers busy to deal with the inescapable, soul-crushing realities of life.

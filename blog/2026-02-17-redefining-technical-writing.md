@@ -2,6 +2,7 @@
 slug: redefining-technical-writing
 title: Redefining technical writing
 authors: [strahinja]
+tags: [technical writing, AI]
 description: Designing knowledge flows and how the product behaves is now the job.
 ---
 
