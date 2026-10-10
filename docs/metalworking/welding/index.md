@@ -2,6 +2,7 @@
 sidebar_position: 2
 title: Welding projects
 description: "Stick welding projects from my first home workshop: tables, furniture, restorations, and what I learned from each."
+image: /img/metalworking/welding/chest4.jpg
 ---
 
 Around 2016–2017 I decided to get off my ass and create a workshop. An office job did not sit well with my itchy hands and mind so I asked my mom to use one of the unfinished parts of her house.

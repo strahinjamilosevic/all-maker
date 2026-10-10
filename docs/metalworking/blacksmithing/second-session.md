@@ -2,6 +2,7 @@
 sidebar_position: 2
 title: Shape the blade
 description: Designing a one-piece blacksmith knife and hammering an iron bar into a blade profile, warping and all.
+image: /img/metalworking/blacksmithing/f2-12.jpg
 sidebar_label: "Shape the blade"
 ---
 

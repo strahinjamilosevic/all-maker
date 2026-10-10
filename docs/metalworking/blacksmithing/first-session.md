@@ -2,6 +2,7 @@
 sidebar_position: 2
 title: Learn the basics
 description: "Blacksmithing basics: running coal and gas forges, reading iron temperature by color, and forging a coat hanger."
+image: /img/metalworking/blacksmithing/f1-7.jpg
 sidebar_label: "Learn the basics"
 ---
 

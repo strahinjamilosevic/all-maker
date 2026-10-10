@@ -2,6 +2,7 @@
 sidebar_position: 7
 title: Wallet
 description: A minimalist metal wallet inspired by Trayvax, cut from a scrap aluminum plate and finished with leather and paracord.
+image: /img/metalworking/welding/wallet1.jpg
 sidebar_label: "Wallet"
 ---
 

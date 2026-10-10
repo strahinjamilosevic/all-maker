@@ -2,6 +2,7 @@
 sidebar_position: 8
 title: Chest
 description: A welded steel and oak jewelry chest made from L-profiles and hardwood floor scraps, with hinges, a lock, and handles.
+image: /img/metalworking/welding/chest4.jpg
 sidebar_label: "Chest"
 ---
 

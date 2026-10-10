@@ -2,6 +2,7 @@
 sidebar_position: 4
 title: Viking helmet
 description: "Making over-the-top horned viking helmets with a metal artist friend: steel helmets and hand-carved wooden horns."
+image: /img/metalworking/welding/vikinghelmet.jpg
 sidebar_label: "Viking helmet"
 ---
 
