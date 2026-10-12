@@ -1,4 +1,5 @@
 ---
+sidebar_position: 3
 title: Docs project management
 description: A framework for embedding documentation into planning, development, UAT, and release processes.
 ---
