@@ -29,6 +29,9 @@
 ## Resources
 
 - [Get started with technical writing](https://all-maker.com/docs/resources/get-started-with-technical-writing/): A presentation about what technical writing is and isn't, and where to start.
+- [API governance framework](https://all-maker.com/docs/resources/api-governance/): A framework for designing and documenting APIs, with the decisions every team needs to make, examples, and templates to record them.
+- [Docs project management](https://all-maker.com/docs/resources/docs-pm-framework/): A framework for embedding documentation into planning, development, UAT, and release processes. Work in progress.
+- [Why build better docs](https://all-maker.com/docs/resources/docs-business-case/): A practical framework for convincing decision makers to invest in documentation, with examples of good docs, a simple way to prioritize, ways to measure results, and a proposal template.
 - [Talks](https://all-maker.com/docs/resources/talks/): Talks, presentations, and recordings about technical writing, documentation, and AI.
 - [Job search](https://all-maker.com/docs/resources/job-application/job-search/): How to research, prepare, and present yourself to get the job you want.
   - [Research the company](https://all-maker.com/docs/resources/job-application/research-the-company/): How to research a company and role before you apply.
@@ -36,8 +39,6 @@
   - [Build a portfolio](https://all-maker.com/docs/resources/job-application/build-a-portfolio/): How to create and host a portfolio site for free.
   - [Write the cover letter](https://all-maker.com/docs/resources/job-application/write-the-cover-letter/): How to write a cover letter that makes you stand out.
   - [Prepare for the interviews](https://all-maker.com/docs/resources/job-application/prepare-for-interviews/): How to prepare for each round of the interview process.
-- [API governance framework](https://all-maker.com/docs/resources/api-governance/): A framework for designing and documenting APIs, with the decisions every team needs to make, examples, and templates to record them.
-- [Docs project management](https://all-maker.com/docs/resources/docs-pm-framework/): A framework for embedding documentation into planning, development, UAT, and release processes. Work in progress.
 
 ## Crafting projects
 
