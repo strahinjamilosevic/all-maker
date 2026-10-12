@@ -24,6 +24,7 @@
 - [Forget cheat sheets, work with people](https://all-maker.com/blog/cheat-sheets/): Job searching has become a part-time job. Here is what actually matters.
 - [Validation craving in a thankless job](https://all-maker.com/blog/validation/): Stop expecting a pat on the back. Change the paradigm instead.
 - [Discovering technical writers](https://all-maker.com/blog/discover-tech-writers/): A mental model for hiring technical writers across specializations.
+- [Coding is harder, right?](https://all-maker.com/blog/coding-is-harder/): Why we assumed coding was harder than writing, and why core writing skills matter more than tools.
 
 ## Resources
 
