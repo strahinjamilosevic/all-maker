@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 title: API governance framework
 description: A framework for designing and documenting APIs, with the decisions every team needs to make, examples, and templates to record them.
 ---

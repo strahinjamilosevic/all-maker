@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 title: Job search
 slug: job-search
 description: How to research, prepare, and present yourself to get the job you want.
