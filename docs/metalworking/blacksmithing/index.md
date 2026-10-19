@@ -3,6 +3,12 @@ sidebar_position: 1
 title: Blacksmithing workshop
 description: Four sessions at a traditional blacksmithing workshop in Amsterdam, forging a knife from a single iron bar.
 image: /img/metalworking/blacksmithing/my_knife.jpg
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  audience: [general]
+  status: published
 ---
 
 In February 2026, I embarked on a new adventure. Blacksmithing workshop at [Openbarewerkplaats](https://openbarewerkplaats.nl/shop/metaal/smeden/smeden/) in Amsterdam.

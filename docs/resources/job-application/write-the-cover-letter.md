@@ -2,6 +2,12 @@
 sidebar_position: 4
 title: Write the cover letter
 description: How to write a cover letter that makes you stand out.
+context:
+  content_type: guide
+  domain: [career]
+  audience: [general]
+  status: published
+  last_reviewed: 2026-10-19
 ---
 
 Not every application requires one. When it does, most people get it wrong in one of two directions: they write too much and repeat the resume, or they write too little and say nothing memorable.

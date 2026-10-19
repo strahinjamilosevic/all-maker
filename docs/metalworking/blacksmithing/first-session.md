@@ -4,6 +4,12 @@ title: Learn the basics
 description: "Blacksmithing basics: running coal and gas forges, reading iron temperature by color, and forging a coat hanger."
 image: /img/metalworking/blacksmithing/f1-7.jpg
 sidebar_label: "Learn the basics"
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  audience: [general]
+  status: published
 ---
 
 The first evening, we were welcomed by two lovely Dutch gentlemen that both had over 40 years of experience forging! Our gang of seven blokes, enthused to be there in the midst of fire and smoke, all worked office jobs. And yes, you guessed it, almost everybody from IT.

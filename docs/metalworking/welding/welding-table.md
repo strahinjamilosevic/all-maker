@@ -4,6 +4,12 @@ title: Welding table
 description: Building a sturdy all-metal welding table from square steel pipes and scrap galvanized sheet on a budget.
 image: /img/metalworking/welding/welding-table.jpg
 sidebar_label: "Welding table"
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  audience: [general]
+  status: published
 ---
 
 It was time for an actual welding table. Taking the [learnings](/docs/metalworking/welding/first-weld#learnings) from the first table with retractable legs, I decided to weld a bigger one that would be static, adjusted for my height, and fully metal.

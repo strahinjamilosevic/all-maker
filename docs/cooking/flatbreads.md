@@ -3,6 +3,12 @@ sidebar_position: 1
 title: Lebanese flatbreads
 description: An easy Lebanese flatbread recipe from my mom, made with six pantry ingredients in one bowl.
 image: /img/cooking/lepinje1.jpg
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, cooking]
+  audience: [general]
+  status: published
 ---
 
 I got this recipe from my mom, I do not know where she got it from but we've been making these flatbreads for years. People can't seem to get enough of them and they are incredibly easy to make.

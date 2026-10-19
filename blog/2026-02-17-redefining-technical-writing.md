@@ -4,6 +4,12 @@ title: Redefining technical writing
 authors: [strahinja]
 tags: [technical writing, AI]
 description: Designing knowledge flows and how the product behaves is now the job.
+context:
+  content_type: blog_post
+  domain: [technical_writing, ai_tooling, docs_strategy]
+  audience: [technical_writer, hiring_manager]
+  status: published
+  skills: [content_strategy, docs_as_product, information_architecture, ai_augmented_workflows]
 ---
 
 You may think of a technical writer as the person who produces documentation. But the role has changed. It now sits at the center of design thinking, context protocols, content strategy, user journeys, AI-augmented authoring, automated workflows, docs as a product, and communication between humans and machines.

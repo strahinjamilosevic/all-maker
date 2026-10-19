@@ -4,6 +4,12 @@ sidebar_label: Introduction
 title: Introduction
 description: Metalworking, leatherworking, and cooking projects I took on to keep my hands and mind busy.
 image: /img/metalworking/blacksmithing/my_knife.jpg
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking, leatherworking, cooking]
+  audience: [general]
+  status: published
 ---
  
 In this section, you can browse the projects I embarked on during the years. I mostly tried to keep the mind and the fingers busy to deal with the inescapable, soul-crushing realities of life.

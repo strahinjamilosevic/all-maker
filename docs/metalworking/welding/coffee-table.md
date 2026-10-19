@@ -4,6 +4,12 @@ title: Coffee table
 description: Welding a cube coffee table from square steel pipes with an oak floorboard top, and dealing with warping.
 image: /img/metalworking/welding/coffeetable.jpg
 sidebar_label: "Coffee table"
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  audience: [general]
+  status: published
 ---
 
 We moved into our new apartment. Had our first kid at the time, so time was short. After full-on renovations, we started equipping our new family abode with furniture. And amidst all the chaos, I noticed that my hand was reaching with a coffee mug for a place adjacent to the couch that did not exist.

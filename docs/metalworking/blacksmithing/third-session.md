@@ -4,6 +4,12 @@ title: Third session
 description: Beveling the blade, a run-in with a manual steel press, and drawing out a long rod for the knife handle.
 image: /img/metalworking/blacksmithing/f3-10.jpg
 sidebar_label: "Forge the handle"
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  audience: [general]
+  status: published
 ---
 
 The goal of the third session was to finish the blade profile and start to shape the handle. This would have left us the final session to file and sharpen the knife.

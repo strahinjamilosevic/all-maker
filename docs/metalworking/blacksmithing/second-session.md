@@ -4,6 +4,12 @@ title: Shape the blade
 description: Designing a one-piece blacksmith knife and hammering an iron bar into a blade profile, warping and all.
 image: /img/metalworking/blacksmithing/f2-12.jpg
 sidebar_label: "Shape the blade"
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  audience: [general]
+  status: published
 ---
 
 The second evening, we started on the knife. I alternated between the coal and gas forges depending on which one was less crowded.

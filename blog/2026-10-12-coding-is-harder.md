@@ -4,6 +4,12 @@ title: Coding is harder, right?
 authors: [strahinja]
 tags: [opinion, technical writing, AI]
 description: Why we assumed coding was harder than writing, and why core writing skills matter more than tools.
+context:
+  content_type: blog_post
+  domain: [technical_writing, ai_tooling]
+  audience: [technical_writer, general]
+  status: published
+  skills: [technical_writing, ai_augmented_workflows]
 ---
 
 You know this by now: AI will not build you anything useful if you don't know what you want.

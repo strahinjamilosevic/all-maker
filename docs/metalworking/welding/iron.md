@@ -3,6 +3,12 @@ sidebar_position: 2
 title: Old iron
 description: Restoring a rusty Serbian charcoal iron from a flea market with rust remover, wire brushes, and spray paint.
 image: /img/metalworking/welding/iron2.jpg
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  audience: [general]
+  status: published
 ---
 
 Why is it called an iron? Because it literally was. Filled with burning coals, it was used all across Serbia to press the wrinkles out of clothes.

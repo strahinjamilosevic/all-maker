@@ -4,6 +4,12 @@ title: Wallet
 description: A minimalist metal wallet inspired by Trayvax, cut from a scrap aluminum plate and finished with leather and paracord.
 image: /img/metalworking/welding/wallet1.jpg
 sidebar_label: "Wallet"
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  audience: [general]
+  status: published
 ---
 
 As you can probably deduce from my [Leatherworking section](/docs/leatherworking/) I am very much into EDC card wallets. Well, back in the day I stumbled upon [Trayvax](https://www.trayvax.com/) and this was before they went global.

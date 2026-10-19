@@ -2,6 +2,13 @@
 sidebar_position: 3
 title: Build a portfolio
 description: How to create and host a portfolio site for free.
+context:
+  content_type: guide
+  domain: [career]
+  audience: [general, technical_writer]
+  status: published
+  last_reviewed: 2026-10-19
+  tools: [github, claude_code, vscode]
 ---
 
 A portfolio does what a resume cannot. It shows your work.
