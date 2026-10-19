@@ -5,7 +5,6 @@ description: How to structure and write a resume that gets you in the room.
 context:
   content_type: guide
   domain: [career]
-  audience: [general, technical_writer]
   status: published
   last_reviewed: 2026-10-19
 ---

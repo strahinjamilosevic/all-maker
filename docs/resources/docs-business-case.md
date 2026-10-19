@@ -5,7 +5,6 @@ description: A practical framework for convincing decision makers to invest in d
 context:
   content_type: guide
   domain: [docs_strategy]
-  audience: [hiring_manager, technical_writer]
   status: published
   last_reviewed: 2026-10-19
   skills: [docs_as_product, content_strategy, search_and_analytics]

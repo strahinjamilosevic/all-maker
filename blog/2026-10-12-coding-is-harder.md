@@ -7,7 +7,6 @@ description: Why we assumed coding was harder than writing, and why core writing
 context:
   content_type: blog_post
   domain: [technical_writing, ai_tooling]
-  audience: [technical_writer, general]
   status: published
   skills: [technical_writing, ai_augmented_workflows]
 ---

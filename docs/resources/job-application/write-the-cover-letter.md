@@ -5,7 +5,6 @@ description: How to write a cover letter that makes you stand out.
 context:
   content_type: guide
   domain: [career]
-  audience: [general]
   status: published
   last_reviewed: 2026-10-19
 ---

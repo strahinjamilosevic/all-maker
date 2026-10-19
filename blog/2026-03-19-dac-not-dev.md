@@ -7,7 +7,6 @@ description: Using the same tools does not mean every project is the same.
 context:
   content_type: blog_post
   domain: [technical_writing, docs_platform]
-  audience: [technical_writer, engineer]
   status: published
   skills: [docs_as_code]
 ---

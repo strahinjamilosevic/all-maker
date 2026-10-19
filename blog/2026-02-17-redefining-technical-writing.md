@@ -7,7 +7,6 @@ description: Designing knowledge flows and how the product behaves is now the jo
 context:
   content_type: blog_post
   domain: [technical_writing, ai_tooling, docs_strategy]
-  audience: [technical_writer, hiring_manager]
   status: published
   skills: [content_strategy, docs_as_product, information_architecture, ai_augmented_workflows]
 ---

@@ -8,7 +8,6 @@ context:
   content_type: craft_log
   domain: [crafting]
   tags: [crafting, metalworking, leatherworking, cooking]
-  audience: [general]
   status: published
 ---
  

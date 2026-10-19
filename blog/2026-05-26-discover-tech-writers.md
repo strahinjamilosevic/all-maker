@@ -7,7 +7,6 @@ description: A mental model for hiring technical writers across specializations.
 context:
   content_type: blog_post
   domain: [technical_writing, career, leadership]
-  audience: [hiring_manager, technical_writer]
   status: published
   skills: [hiring, technical_writing, ux_writing, content_strategy]
 ---

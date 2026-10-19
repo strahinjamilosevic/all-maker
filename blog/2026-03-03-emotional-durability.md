@@ -7,7 +7,6 @@ description: Why emotional endurance matters in leadership.
 context:
   content_type: blog_post
   domain: [leadership, career]
-  audience: [technical_writer, general]
   status: published
 ---
 

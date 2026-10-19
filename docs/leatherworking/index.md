@@ -7,7 +7,6 @@ context:
   content_type: craft_log
   domain: [crafting]
   tags: [crafting, leatherworking]
-  audience: [general]
   status: published
 ---
 

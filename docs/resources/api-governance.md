@@ -5,7 +5,6 @@ description: A framework for designing and documenting APIs, with the decisions 
 context:
   content_type: guide
   domain: [api_docs, content_governance]
-  audience: [engineer, technical_writer]
   status: published
   last_reviewed: 2026-10-19
   skills: [api_governance, api_documentation, style_guides]

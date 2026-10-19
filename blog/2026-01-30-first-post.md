@@ -7,7 +7,6 @@ description: Why I made this website and what to expect.
 context:
   content_type: blog_post
   domain: [lifestyle, technical_writing]
-  audience: [general]
   status: published
 ---
 

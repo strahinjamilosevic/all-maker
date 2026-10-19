@@ -5,7 +5,6 @@ description: How to research a company and role before you apply.
 context:
   content_type: guide
   domain: [career]
-  audience: [general]
   status: published
   last_reviewed: 2026-10-19
 ---

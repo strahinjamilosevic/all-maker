@@ -7,7 +7,6 @@ description: Job searching has become a part-time job. Here is what actually mat
 context:
   content_type: blog_post
   domain: [career]
-  audience: [general, technical_writer]
   status: published
 ---
 

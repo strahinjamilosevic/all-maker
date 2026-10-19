@@ -5,7 +5,6 @@ description: A framework for embedding documentation into planning, development,
 context:
   content_type: guide
   domain: [docs_strategy, content_governance]
-  audience: [technical_writer, engineer]
   status: published
   last_reviewed: 2026-10-19
   skills: [project_management, content_governance]
