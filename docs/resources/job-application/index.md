@@ -3,6 +3,11 @@ sidebar_position: 6
 title: Job search
 slug: job-search
 description: How to research, prepare, and present yourself to get the job you want.
+context:
+  content_type: guide
+  domain: [career]
+  status: published
+  last_reviewed: 2026-10-19
 ---
 
 Before we begin, I need to mention a pretty big disclaimer. Every profession expects different things from candidates—and the documents that represent you should reflect that. A designer will lead with a visual portfolio. A mechanical engineer will reference projects and technical specs. A hairdresser will show before-and-afters. A technical writer, like me, sends a clean two-page CV, one if you can help it, and a link to writing samples.

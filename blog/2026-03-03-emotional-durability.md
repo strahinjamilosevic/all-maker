@@ -4,6 +4,10 @@ title: Emotional durability in leadership
 authors: [strahinja]
 tags: [technical writing, career, leadership]
 description: Why emotional endurance matters in leadership.
+context:
+  content_type: blog_post
+  domain: [leadership, career]
+  status: published
 ---
 
 Leadership is an exercise in endurance. Not physical—emotional. You unify the vision, translate different perspectives into a single narrative, and you do not flinch when that narrative gets challenged. You know when to push and when to say no. That is the job.

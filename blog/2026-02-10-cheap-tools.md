@@ -4,6 +4,11 @@ title: Use cheap tools until they break
 authors: [strahinja]
 tags: [technical writing, tools, career]
 description: Invest in foundational skills before you get lost in the whirlpool of tooling options.
+context:
+  content_type: blog_post
+  domain: [technical_writing, docs_platform, career]
+  status: published
+  skills: [docs_as_code, structured_authoring]
 ---
 
 Adam Savage once said that as a hobbyist, you should buy the cheapest tools you can find and use them until they break. When they break, and they will, you'll know two things: you're serious about the craft, and you now know exactly what you need. Then you buy the best tools you can afford.

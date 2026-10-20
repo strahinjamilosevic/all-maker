@@ -4,6 +4,10 @@ title: Forget cheat sheets, work with people
 authors: [strahinja]
 tags: [opinion, career]
 description: Job searching has become a part-time job. Here is what actually matters.
+context:
+  content_type: blog_post
+  domain: [career]
+  status: published
 ---
 
 You reading these blogs already shows initiative. To learn, to grow.

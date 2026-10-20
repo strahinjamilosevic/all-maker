@@ -4,6 +4,11 @@ title: Soldered lamp
 description: A lamp made from recycled copper plumbing pipes and an old clock, with polishing, soldering, and wiring tips.
 image: /img/metalworking/welding/humble.jpg
 sidebar_label: "Soldered lamp"
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  status: published
 ---
 
 This was one of those: "This post on Pinterest looks awesome. I have to try it." It was a lamp made out of recycled copper pipes.

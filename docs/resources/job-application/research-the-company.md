@@ -2,6 +2,11 @@
 sidebar_position: 1
 title: Research the company
 description: How to research a company and role before you apply.
+context:
+  content_type: guide
+  domain: [career]
+  status: published
+  last_reviewed: 2026-10-19
 ---
 
 Do not skip this step or rush through it. The research you do before applying will influence how well you do everything that follows—resume, cover letter, your answers in an interview. Without the due diligence, you are not giving yourself the best possible chance and are just hoping for the best. 

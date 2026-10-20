@@ -2,6 +2,11 @@
 sidebar_position: 5
 title: Prepare for the interviews
 description: How to prepare for each round of the interview process.
+context:
+  content_type: guide
+  domain: [career]
+  status: published
+  last_reviewed: 2026-10-19
 ---
 
 Getting to the interview stage means your application worked. Congrats, great prep work. Now the real work begins. :)

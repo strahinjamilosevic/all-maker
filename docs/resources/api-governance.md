@@ -2,6 +2,13 @@
 sidebar_position: 2
 title: API governance framework
 description: A framework for designing and documenting APIs, with the decisions every team needs to make, examples, and templates to record them.
+context:
+  content_type: guide
+  domain: [api_docs, content_governance]
+  status: published
+  last_reviewed: 2026-10-19
+  skills: [api_governance, api_documentation, style_guides]
+  tools: [openapi, asyncapi, redocly]
 ---
 
 An API is a contract. Once someone builds an integration on top of it, every name, field, and error message becomes something they depend on. API governance is how a team keeps that contract predictable as more people and more endpoints get involved.

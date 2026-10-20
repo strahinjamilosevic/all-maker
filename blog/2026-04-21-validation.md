@@ -4,6 +4,10 @@ title: Validation craving in a thankless job
 authors: [strahinja]
 tags: [opinion, career]
 description: Stop expecting a pat on the back. Change the paradigm instead.
+context:
+  content_type: blog_post
+  domain: [career, lifestyle]
+  status: published
 ---
 
 You can:

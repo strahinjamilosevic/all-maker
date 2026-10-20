@@ -2,6 +2,13 @@
 sidebar_position: 4
 title: Why build better docs
 description: A practical framework for convincing decision makers to invest in documentation, with examples of good docs, a simple way to prioritize, ways to measure results, and a proposal template.
+context:
+  content_type: guide
+  domain: [docs_strategy]
+  status: published
+  last_reviewed: 2026-10-19
+  skills: [docs_as_product, content_strategy, search_and_analytics]
+  tools: [mintlify, algolia, vale, github_actions, mcp]
 ---
 
 Documentation competes with features, releases, and reliability work for the same hours. In my experience it usually loses that fight. A feature has a launch date and a demo. Missing docs leak cost slowly—support tickets, slow onboarding, abandoned integrations, and the same question in Slack for the fifth time this month.

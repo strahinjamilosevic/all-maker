@@ -2,6 +2,12 @@
 sidebar_position: 3
 title: Docs project management
 description: A framework for embedding documentation into planning, development, UAT, and release processes.
+context:
+  content_type: guide
+  domain: [docs_strategy, content_governance]
+  status: published
+  last_reviewed: 2026-10-19
+  skills: [project_management, content_governance]
 ---
 
 ## Core principles

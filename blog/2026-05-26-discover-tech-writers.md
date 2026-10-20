@@ -4,6 +4,11 @@ title: Discovering technical writers
 authors: [strahinja]
 tags: [opinion, career, technical writing]
 description: A mental model for hiring technical writers across specializations.
+context:
+  content_type: blog_post
+  domain: [technical_writing, career, leadership]
+  status: published
+  skills: [hiring, technical_writing, ux_writing, content_strategy]
 ---
 
 When hiring a technical writer not everybody searches for the same skill set. Choosing the right candidate is often more complex than simply finding somebody to deliver the currently pressing tasks.

@@ -4,6 +4,11 @@ title: Docs-as-code is not development
 authors: [strahinja]
 tags: [technical writing, opinion]
 description: Using the same tools does not mean every project is the same.
+context:
+  content_type: blog_post
+  domain: [technical_writing, docs_platform]
+  status: published
+  skills: [docs_as_code]
 ---
 
 Working with developers in a docs-as-code environment can lead to some undesired and time-wasteful consequences.

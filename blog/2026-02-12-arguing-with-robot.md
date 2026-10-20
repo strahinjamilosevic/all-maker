@@ -4,6 +4,11 @@ title: Arguing with a robot
 authors: [strahinja]
 tags: [technical writing, AI, tools]
 description: Using AI as a conversational sparring partner.
+context:
+  content_type: blog_post
+  domain: [ai_tooling, technical_writing]
+  status: published
+  skills: [ai_augmented_workflows, agentic_automation]
 ---
 
 I tried this *insert product* so you don't have to.

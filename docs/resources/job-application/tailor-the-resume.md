@@ -2,6 +2,11 @@
 sidebar_position: 2
 title: Tailor the resume
 description: How to structure and write a resume that gets you in the room.
+context:
+  content_type: guide
+  domain: [career]
+  status: published
+  last_reviewed: 2026-10-19
 ---
 
 A resume is not a job description. It is a curated argument for why you are the right person for a role. The structure matters, but what goes inside each section matters more.

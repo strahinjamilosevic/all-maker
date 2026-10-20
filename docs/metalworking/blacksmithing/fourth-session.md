@@ -4,6 +4,11 @@ title: Finish the knife
 description: "Finishing the hand-forged knife: drawing out and curling the handle, then the final touches."
 image: /img/metalworking/blacksmithing/f4-15.jpg
 sidebar_label: "Finish the knife"
+context:
+  content_type: craft_log
+  domain: [crafting]
+  tags: [crafting, metalworking]
+  status: published
 ---
 
 There we were. At the final stretch of the journey, about to go home with a hand-forged and hand-filed iron knife of our own design. Having experienced the knife-making of old.
